@@ -10,8 +10,6 @@ The ACA conference series is devoted to promoting all aspects of computer algebr
 
 The 30th International Conference on Applications of Computer Algebra will be held in Heraklion (Crete, Greece) during July 14-18, 2025.
 
-Call for Sessions
----
 
 The ACA conferences are organized as a series of Special Sessions. 
 All interested session organizers can propose a Special Session by sending an e-mail to the 

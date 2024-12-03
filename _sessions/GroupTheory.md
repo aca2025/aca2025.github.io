@@ -4,7 +4,7 @@ layout: session
 AA: 3
 url: 
 organizers:
-  - name: Maria Chlouveraki, Assistant Professor at 
+  - name: Maria Chlouveraki
     org: "National and Kapodistirian University of Athens, Greece"
     homepage: "https://chlouveraki.perso.math.cnrs.fr/"
   - name: Ilias Andreou

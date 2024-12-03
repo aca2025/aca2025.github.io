@@ -14,4 +14,6 @@ The Applications of Computer Algebra Early Researcher Award
 
 The nominations closing date is June 1, 2025
 
-<object data="../assets/acaera/ACA_ERA_2025.pdf" width="1000" height="1000" type='application/pdf'></object>
+[Download the poster](../assets/acaera/ACA_ERA_2025.pdf){:target="_blank"}
+ 
+![Load](../assets/acaera/acaera.png){:width="100%"}
