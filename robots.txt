@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ApplicationsComputerAlgebra.github.io/sitemap.xml
+Sitemap: https://aca2025.github.io/sitemap.xml
