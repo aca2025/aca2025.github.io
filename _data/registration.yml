@@ -1,0 +1,10 @@
+early_deadline: 1 June 2025
+fees:
+  - type: regular 
+    early: 300
+    late: 350
+    currency: euros
+  - type: student 
+    early: 200
+    late: 250
+    currency: euros
