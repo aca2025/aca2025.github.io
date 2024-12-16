@@ -12,6 +12,16 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
   <br><br>
+
+ 
+    {% if page.news and site.announcements.enabled %}
+       <h2>News</h2>
+      {% include news.liquid limit=true %}
+    {% endif %}
+
+  <br><br>
+
+
   <h2>Invited Speakers</h2>
     <div class="container">
         <div class="row row-cols-2">
@@ -48,6 +58,7 @@ layout: default
       </table>      
  
   <br><br>
+
   <h2>Proceedings</h2>
     <div class="container">
         <div class="row row-cols-1">
@@ -94,6 +105,7 @@ layout: default
 
   <h2>Sponsors</h2>
     <br><br>
+
     <div class="container">
         <div class="row row-cols-4">
          {% for sponsor in site.data.sponsors %}
@@ -105,7 +117,8 @@ layout: default
           {% endfor %} 
         </div>
     </div>
-
+    <br>
+    If you are interested in sponsoring ACA, please contact the organizers.
   <br><br>
   </article>
 </div>
