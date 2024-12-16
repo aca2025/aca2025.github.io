@@ -6,7 +6,7 @@ webpage: "https://math.unm.edu/~aca/ACA/2025/education.html"
 organizers:
   - name: Michel Beaudin
     org: "ETS, Canada"
-    homepage: "https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/mbeaudin"
+    homepage: "https://cours.etsmtl.ca/seg/mbeaudin/"
   - name: Michael Wester
     org: "University of New Mexico, USA"
     homepage: "https://math.unm.edu/~wester/homepage.html"
