@@ -48,7 +48,31 @@ layout: default
       </table>      
  
   <br><br>
-  <h2>Organization</h2>
+  <h2>Proceedings</h2>
+    <div class="container">
+        <div class="row row-cols-1">
+         {% for proceedings in site.data.proceedings %}
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-3">
+                  <img src="{{ proceedings.picture }}" style="width: 150px; height: 150px; object-fit: contain;">
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title"><a href="{{ proceedings.homepage }}"> {{ proceedings.name }}</a> </h4>
+                    <h6 class="card-text">Call for papers: {{ proceedings.call }}</h6>      
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          {% endfor %} 
+        </div>
+    </div>
+    <br><br>
+    
+   <h2>Organization</h2>
     {% for organizertype in site.data.organizers %}   
       <h3> {{ organizertype.title }} </h3>
       <table class="table table-striped">
@@ -63,6 +87,7 @@ layout: default
     {% endfor %}
 
   <br><br>
+
 
 
 
