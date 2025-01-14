@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: local
 title: Local info
 permalink: local
 nav_order: 5

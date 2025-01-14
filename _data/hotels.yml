@@ -1,0 +1,16 @@
+- name: Marin hotel
+  website: "https://marinhotel.gr/"
+  picture: "../assets/hotel/marin.png"
+  rooms:
+    - 1:  
+      name: "single standard room"
+      price: 72
+    - 2:
+      name: "double standard room for single use"
+      price: 77
+    - 3:
+      name: "double standard room"
+      price: 82
+    - 4:
+      name: "double standard room with sea view"
+      price: 92
