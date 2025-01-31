@@ -13,6 +13,9 @@ The ACA conference series is devoted to promoting all kinds of computer algebra 
 
 ACA 2025 is an in-person event. 
 
+If you want to give a talk in ACA 2025, please contact the session organizers of the most relevant session to your topic.
+If your talk doesn't fit in any of the special sessions, contact the chairs of the session 0. General Session.
+
 Conference Topics
 ------------------
 
