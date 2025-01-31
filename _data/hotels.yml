@@ -14,3 +14,26 @@
     - 4:
       name: "double standard room with sea view"
       price: 92
+
+- name: El Greco
+  website: "https://zeushotels.gr/el-greco/overview.html"
+  picture: "../assets/hotel/el-greco.png"
+  rooms:
+    - 1:  
+      name: "single room"
+      price: 63
+    - 2:
+      name: "single room with breakfast"
+      price: 67
+    - 3:  
+      name: "double room"
+      price: 73
+    - 4:
+      name: "double room with breakfast"
+      price: 81
+    - 5:  
+      name: "triple room"
+      price: 85
+    - 6:
+      name: "triple room with breakfast"
+      price: 98

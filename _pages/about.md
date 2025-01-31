@@ -11,8 +11,9 @@ The Applications of Computer Algebra is scheduled on 14-18 July, 2025 and will b
 
 The ACA conference series is devoted to promoting all kinds of computer algebra applications, and encouraging the interaction of developers of computer algebra systems and packages with researchers and users (including scientists, engineers, educators, and mathematicians).
 
+ACA 2025 is an in-person event. 
+
 Conference Topics
 ------------------
 
 Traditionally, ACA is organized in scientific sessions covering all foundational aspects and applications of computer algebra. Details about the planned special sessions will become available soon as these become accepted.
-
