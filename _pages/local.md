@@ -21,6 +21,7 @@ Hotels
 ------
 
 The range of hotel prices and quality is very large in Heraklion. 
-We will soon announce some hotels that ACA2025 has an agreement with in order to fix the price. 
+We will keep announcing otels that ACA2025 has an agreement with in order to fix the price. 
 Crete is a very touristic destination and booking in the last moment may be difficult (or expensive).
 
+After registration you will receive information about the process of booking at fixed price with the cooperating hotels.

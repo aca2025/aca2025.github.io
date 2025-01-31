@@ -37,3 +37,9 @@
     - 6:
       name: "triple room with breakfast"
       price: 98
+
+- name: Castello City
+  website: "https://www.castellocity.com/"
+  picture: "../assets/hotel/castello.png"
+  rooms:
+ 
