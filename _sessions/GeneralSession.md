@@ -2,7 +2,7 @@
 title: General Session
 layout: session
 AA: 0 
-url:  
+webpage:  
 organizers:
   - name:  Giorgos Kapetanakis
     org: University of Thessaly, Greece

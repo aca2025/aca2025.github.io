@@ -2,7 +2,7 @@
 title: Symbolic Linear Algebra and Its Applications
 layout: session
 AA: 6
-url:  
+webpage:  
 organizers:
   - name: Robert M. Corless
     org: "University of Western Ontario, London, Ontario, Canada"

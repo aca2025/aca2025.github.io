@@ -2,7 +2,7 @@
 title: Computer Algebra Software in the Life Sciences (CASinLife)
 layout: session
 AA: 2
-url:  
+webpage:  
 organizers:
   - name: AmirHosein Sadghimanesh
     org: "Coventry University, UK"

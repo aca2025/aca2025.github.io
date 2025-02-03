@@ -2,7 +2,7 @@
 title: History of Computer Algebra
 layout: session
 AA: 7
-url:  
+webpage:  
 organizers:
   - name: Robert M. Corless
     org: "University of Western Ontario, London, Ontario, Canada"

@@ -2,7 +2,7 @@
 title: "D-Finite Functions and Beyond: Algorithms, Combinatorics, and Arithmetic"
 layout: session
 AA: 8
-url: "https://www3.risc.jku.at/people/vpillwei/aca2025-diffbaca/"
+webpage: "https://www3.risc.jku.at/people/vpillwei/aca2025-diffbaca/"
 organizers:
   - name: Shaoshi Chen
     org: "Chinese Academy of Sciences, China"

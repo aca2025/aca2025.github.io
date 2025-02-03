@@ -2,7 +2,7 @@
 title: Computer algebra modeling in physics, classical and celestial mechanics, and engineering
 layout: session
 AA: 5
-url: "https://iit.sggw.edu.pl/aca-2025-heraklion-crete-greece-july-14-18-2025/"
+webpage: "https://iit.sggw.edu.pl/aca-2025-heraklion-crete-greece-july-14-18-2025/"
 organizers:
   - name: Alexander Prokopenya
     org: "Institute of Information Technology, Warsaw University of Life Sciences – SGGW, Poland"

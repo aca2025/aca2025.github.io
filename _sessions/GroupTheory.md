@@ -2,7 +2,7 @@
 title: Computer algebra in group theory and representation theory
 layout: session
 AA: 3
-url: 
+webpage: 
 organizers:
   - name: Maria Chlouveraki
     org: "National and Kapodistrian University of Athens, Greece"
