@@ -1,5 +1,5 @@
 ---
-title: Computer algebra modeling in physics, classical and celestial mechanics, and engineering
+title: "D-Finite Functions and Beyond: Algorithms, Combinatorics, and Arithmetic"
 layout: session
 AA: 8
 url: "https://iit.sggw.edu.pl/aca-2025-heraklion-crete-greece-july-14-18-2025/"
