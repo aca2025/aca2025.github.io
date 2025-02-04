@@ -5,16 +5,17 @@ AA: 9
 webpage: 
 organizers:
   - name: Cristina Bertone
-    org: "Dipartimento di Matematica "G. Peano", Università di Torino, Italy"
+    org: "Dipartimento di Matematica G. Peano, Università di Torino, Italy"
     homepage: "https://sites.google.com/view/cristinabertone/home"
   - name: Francesca Cioffi
-    org: "Dipartimento di Matematica e Applicazioni "R. Caccioppoli", Università di Napoli Federico II, Italy"
+    org: "Dipartimento di Matematica e Applicazioni R. Caccioppoli, Università di Napoli Federico II, Italy"
     homepage: "https://www.docenti.unina.it/#!/professor/4652414e434553434143494f464649434646464e4336384136374638333950/riferimenti"
     
 blocks:
  
 
 speakers: 
+
 ---
 
 
