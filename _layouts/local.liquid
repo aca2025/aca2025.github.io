@@ -24,7 +24,10 @@ layout: default
                     <h4 class="card-title"><a href="{{ hotel.website }}"> {{ hotel.name }}</a> </h4>
                     {% for room in hotel.rooms %}
                        <h6 class="card-text">{{ room.price }} € for {{ room.name }} <br></h6>      
-                     {% endfor %} 
+                     {% endfor %}
+                     {% if hotel.deadline %} Reserve before {{ hotel.deadline }}. {% endif %}
+                      <br>
+                     {% if hotel.number_of_rooms %}{{ hotel.number_of_rooms }} rooms reserved for ACA 2025. {% endif %}
                   </div>
                 </div>
               </div>

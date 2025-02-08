@@ -1,6 +1,8 @@
 - name: Marin hotel
   website: "https://marinhotel.gr/"
   picture: "../assets/hotel/marin.png"
+  deadline: "15 May 2025"
+  number_of_rooms: 10
   rooms:
     - 1:  
       name: "single standard room"
@@ -41,5 +43,30 @@
 - name: Castello City
   website: "https://www.castellocity.com/"
   picture: "../assets/hotel/castello.png"
+  deadline: "July"
+  rooms:  
+    - name: "Any room"
+    - price: "10% reduction"
+
+- name: ATRION
+  website: "https://www.atrion.gr/en"
+  picture: "../assets/hotel/atrion.png"
+  deadline: "15 April 2025"
   rooms:
- 
+    - 1:  
+      name: "double room with breakfast"
+      price: 88
+
+- name: ΚΑΣΤΡΟ
+  website: "https://www.kastro-hotel.gr/"
+  picture: "../assets/hotel/kastro.png"
+  deadline: "the conference"
+  rooms:
+    - 1:  
+      name: "single room with breakfast"
+      price: 85
+    - 1:  
+      name: "double room with breakfast"
+      price: 105
+
+
