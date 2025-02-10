@@ -2,7 +2,7 @@
 title: "Algebraic geometry from an algorithmic point of view"
 layout: session
 AA: 9
-webpage: 
+webpage: "https://sites.google.com/view/cristinabertone/acasession2025"
 organizers:
   - name: Cristina Bertone
     org: "Dipartimento di Matematica G. Peano, Università di Torino, Italy"
