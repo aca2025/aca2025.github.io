@@ -1,14 +1,14 @@
 ---
-title: "Finite Fields and Applicationss"
+title: "Finite Fields and Applications"
 layout: session
 AA: 14
 webpage: " "
 organizers:
   - name: Daniel Panario
-    org: "Carleton University (Canada)"
+    org: "Carleton University, Canada"
     homepage: "https://people.math.carleton.ca/~daniel/"
   - name:  Theodoulos Garefalakis
-    org: University of Crete  (Greece)
+    org: University of Crete, Greece
     homepage:  "http://users.math.uoc.gr/~tgaref/"  
 
 blocks:
