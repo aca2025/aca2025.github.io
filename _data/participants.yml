@@ -1,0 +1,156 @@
+- id: 1
+  first_name: Eleni
+  last_name: Tzanaki
+  email: etzanaki@uoc.gr 
+  org: "University of Crete"
+  country: Greece
+  homepage: "https://sites.google.com/view/tzanakel/"
+  student : 
+  speaker: 
+  role: General Chair
+  session: 
+  fee: waived
+
+- id: 2
+  first_name: Giorgos
+  last_name: Kapetanakis
+  email: gnkapet@gmail.com
+  org: "University of Thessaly"
+  country: Greece
+  homepage: "http://gkapet.users.uth.gr/"
+  student:
+  session: 
+  speaker: 
+  role: Program Chair
+  fee: waived
+ 
+- id: 3
+  first_name: Zafeirakis
+  last_name: Zafeirakopoulos
+  email: zafeirakopoulos@gmail.com
+  org: "University of Geneva"
+  country: Switzerland
+  homepage: "https://zafeirakopoulos.github.io"
+  student: 
+  session: 
+  speaker: 
+  role: Program Chair
+  fee: waived
+ 
+- id: 4
+  first_name: Theodoulos
+  last_name: Garefalakis
+  email: tgaref@uoc.gr
+  org: "University of Crete"
+  country:  Greece
+  homepage: "http://users.math.uoc.gr/~tgaref/"
+  student: 
+  session: 
+  speaker: false
+  role: Local Chair
+  fee: waived	
+
+- id: 5
+  first_name: Gianira Nicoletta
+  last_name: Alfarano   
+  email:  gianira-nicoletta.alfarano@univ-rennes.fr
+  org: "Rennes University"
+  country:  France
+  homepage: "https://user.math.uzh.ch/alfarano/"
+  student: 
+  session: 
+  speaker: invited
+  role: Invited Speaker
+  fee: waived	
+
+- id: 6
+  first_name: Daniel
+  last_name: Panario
+  email:  daniel@math.carleton.ca
+  org: "Carleton University"
+  country:  Canada
+  homepage: "https://people.math.carleton.ca/~daniel/"
+  student: 
+  session: 
+  speaker: invited
+  role: Invited Speaker
+  fee: waived	
+
+- id: 7
+  first_name: Veronika
+  last_name: Pillwein  
+  email:  veronika.pillwein@risc.jku.at
+  org: "Johannes Kepler University - RISC"
+  country:  Austria
+  homepage: "https://risc.jku.at/m/veronika-pillwein/"
+  srtudent:  
+  session: 
+  speaker: invited
+  role: Invited Speaker
+  fee: waived	
+
+
+- id: 8
+  first_name: Ioannis
+  last_name: Emiris
+  email:  gianira-nicoletta.alfarano@univ-rennes.fr
+  org: "ATHENA RC and University of Athens"
+  country:  Greece
+  homepage: "https://www.athenarc.gr/en/people/527"
+  student:
+  session: 
+  speaker: invited
+  role: Invited Speaker
+  fee: waived	
+
+- id: 10 
+  first_name : Alexander
+  last_name : Prokopenya
+  email : alexander_prokopenya@sggw.edu.pl
+  org : Warsaw University of Life Sciences
+  country : Poland
+  homepage : 
+  srudent : 
+  speaker : 
+  role : 
+  session : 
+  fee : 
+
+- id: 11 
+  first_name : Francesca
+  last_name : Cioffi
+  email : cioffifr@unina.it
+  org : Università di Napoli Federico II, Dipartimento di Matematica e Applicazioni
+  country : Italia
+  homepage : 
+  srudent : 
+  speaker : 
+  role : 
+  session : 
+  fee : 
+
+- id: 12 
+  first_name : Cristina
+  last_name : Bertone
+  email : cristina.bertone@unito.it
+  org : Università di Torino
+  country : Italy
+  homepage : 
+  srudent : 
+  speaker : 
+  role : 
+  session : 
+  fee : 
+
+- id: 13 
+  first_name : Mark
+  last_name : Giesbrecht
+  email : mwg@uwaterloo.ca
+  org : University of Waterloo
+  country : Canada
+  homepage : 
+  srudent : 
+  speaker : 
+  role : 
+  session : 
+  fee : 
