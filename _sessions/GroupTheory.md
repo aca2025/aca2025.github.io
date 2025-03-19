@@ -2,7 +2,7 @@
 title: Computer algebra in group theory and representation theory
 layout: session
 AA: 3
-webpage: 
+webpage: "https://sites.google.com/view/symatral/workshop"
 organizers:
   - name: Maria Chlouveraki
     org: "National and Kapodistrian University of Athens, Greece"
