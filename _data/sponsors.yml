@@ -1,6 +1,9 @@
 - name: University of Crete
   homepage: "https://uoc.gr"
   picture: "../assets/sponsors/uoc.png"
+- name: University of Thessaly
+  homepage: "https://math.uth.gr/"
+  picture: "../assets/sponsors/uth-txt.png"  
 - name: CARGO lab
   homepage: "https://cargo.wlu.ca/"
   picture: "../assets/sponsors/cargo.jpg"
