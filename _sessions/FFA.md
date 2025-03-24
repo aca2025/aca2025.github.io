@@ -2,7 +2,7 @@
 title: "Finite Fields and Applications"
 layout: session
 AA: 14
-webpage: " "
+webpage: "https://sites.google.com/view/aca-2025-ffa/home"
 organizers:
   - name: Daniel Panario
     org: "Carleton University, Canada"

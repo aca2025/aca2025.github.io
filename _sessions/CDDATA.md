@@ -2,7 +2,7 @@
 title: Computational Differential and Difference Algebra and Their Applications
 layout: session
 AA: 4
-webpage: 
+webpage: "https://sites.google.com/view/computational-diffalg-2025"
 organizers:
   - name: Roberto La Scala
     org: "University of Bari Aldo Moro, Italy"
