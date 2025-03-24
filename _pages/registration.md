@@ -23,5 +23,6 @@ BIC/SWIFT: PIRBGRAA
 <br>
 Beneficiary: ΕΤΑΙΡΙΑ ΕΡΕΥΝΑΣ ΚΑΙ ΠΡΑΞΗΣ
 <br>
+Address: Nikolaou Kazantzaki 12, 26442 Patras, Greece
 <br>
 
