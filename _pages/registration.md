@@ -15,10 +15,13 @@ Coming soon: Clicking on the fee you want to pay in the table below, you will be
 The registration fee covers all conference material, lunch, and conference dinner.
 
 You can pay the registration fee through stripe (following the links below) or 
-through direct bank transfer to the following IBAN:
+through direct bank transfer to the following bank account:
 <br>
-GR34 0172 5040 0055 0411 2105 286
-<br>ΕΤΑΙΡΙΑ ΕΡΕΥΝΑΣ ΚΑΙ ΠΡΑΞΗΣ
+IBAN: GR34 0172 5040 0055 0411 2105 286
+<br>
+BIC/SWIFT: PIRBGRAA
+<br>
+Beneficiary: ΕΤΑΙΡΙΑ ΕΡΕΥΝΑΣ ΚΑΙ ΠΡΑΞΗΣ
 <br>
 <br>
 
