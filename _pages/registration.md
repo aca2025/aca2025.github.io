@@ -6,6 +6,36 @@ nav_order: 6
 nav: true
 ---
 
+
+<p style="background-color:Tomato;">
+BE CAREFUL OF SCAMS
+<br>
+Emails like the one below are not related to ACA 2025 in any way.
+<br>
+If such information is requested from you it will be in a form, with a link 
+provided by one of the organizers directly.
+</p>
+
+<p style="background-color:Tomato;">
+The following email from ops@gtravelmanagement.com you may receive is a scam. 
+<br><br>
+Greetings **************,
+<br><br>
+Kindly provide your your arrival and departure dates in Heraklion and we will reserve your room for the conference in July.
+<br><br>
+We would be grateful if you could reply at the soonest so that we may email you the hotel booking link and confirm the reservation.
+<br><br>
+Remember that our reservations are entirely adjustable, refundable, and flexible up to 14 days prior to the arrival date.
+<br><br>
+Thanks a lot,
+<br><br>
+You can always contact the Global Travel Team at:
+United Kingdom Office : (+44) 20 8123 9190
+Canada Office : (+1) 833 833 2107
+<br><br>
+Our team is ready to support you.
+</p>
+
 Registration for ACA 2025 is [done through this form](https://forms.gle/oMYJXoRNfHN1kzpL7). 
 
 Note that in order to complete the registration, you have to fill in the above form and pay the registration fee. 
