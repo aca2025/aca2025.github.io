@@ -2,7 +2,7 @@
 title: "Reliable numerical computing and differential equations"
 layout: session
 AA: 15
-webpage: ""
+webpage: "https://www.lix.polytechnique.fr/max/max-web/max/events/2025/aca-2025-ss15.html"
 organizers:
   - name: Joris van der Hoeven
     org: "CNRS, École polytechnique, France"
