@@ -110,11 +110,11 @@
   org : Warsaw University of Life Sciences
   country : Poland
   homepage : 
-  srudent : 
+  student : 
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : paid
 
 - id: 11 
   first_name : Francesca
@@ -123,11 +123,11 @@
   org : Università di Napoli Federico II, Dipartimento di Matematica e Applicazioni
   country : Italia
   homepage : 
-  srudent : 
+  student : 
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : paid
 
 - id: 12 
   first_name : Cristina
@@ -136,11 +136,11 @@
   org : Università di Torino
   country : Italy
   homepage : 
-  srudent : 
+  student : 
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : paid
 
 - id: 13 
   first_name : Mark
@@ -149,8 +149,191 @@
   org : University of Waterloo
   country : Canada
   homepage : 
-  srudent : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+- id: 14 
+  first_name : Martin	
+  last_name : Weimann
+  email : martin.weimann@unicaen.fr
+  org : University Caen Normandy
+  country : France
+  homepage : https://weimann.users.lmno.cnrs.fr/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+- id: 15 
+  first_name : Lihong	
+  last_name : Zhi
+  email : lzhi@mmrc.iss.ac.cn
+  org : Academy of Mathematics and Systems Science
+  country : China
+  homepage : http://www.mmrc.iss.ac.cn/~lzhi
+  student : 
   speaker : 
   role : 
   session : 
   fee : 
+  
+- id: 16 
+  first_name : Alev	
+  last_name : Topuzoglu
+  email : alev@sabanciuniv.edu
+  org : Sabanci University
+  country : Turkey
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : 
+
+- id: 17
+  first_name : Henning	 	
+  last_name : Stichtenoth
+  email : henning@sabanciuniv.edu
+  org : Sabanci University
+  country : Turkey
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : 
+ 
+
+- id: 18
+  first_name : Ilias	 	
+  last_name : Kotsireas
+  email : ikotsire@gmail.com
+  org : WLU	
+  country : Canada
+  homepage : www.cargo.wlu.ca	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : waived
+
+- id: 19
+  first_name : Michael	 	
+  last_name : Wester
+  email : wester@unm.edu
+  org : University of New Mexico	
+  country : USA
+  homepage : https://math.unm.edu/~wester
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : waived
+
+- id: 20
+  first_name : Michel		 	
+  last_name : Beaudin
+  email : michel.beaudin@etsmtl.ca
+  org : École de technologie supérieure	
+  country : Canada
+  homepage : https://cours.etsmtl.ca/seg/mbeaudin/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+- id: 21
+  first_name : Meirav		 	
+  last_name : Amram (Topol)	
+  email : meiravt@sce.ac.il
+  org : SCE	
+  country : Israel
+  homepage : https://en.sce.ac.il/faculty/merav-topol
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+- id: 22
+  first_name : Irene			 	
+  last_name : Villa
+  email : irene.villa@unitn.it
+  org : University of Trento	
+  country : Italy
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+
+- id: 23
+  first_name : AmirHosein				 	
+  last_name : Sadeghimanesh
+  email : amirhossein.sadeghimanesh@coventry.ac.uk
+  org : Coventry University
+  country : United Kingdom
+  homepage : https://amir.coventry.domains/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+- id: 24
+  first_name : Alexander					 	
+  last_name : Levin
+  email : levin@cua.edu	
+  org : The Catholic University of America	
+  country : USA
+  homepage : https://sites.google.com/a/cua.edu/levin/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+- id: 25
+  first_name : Gal 						 	
+  last_name : Goren
+  email : galzivgoren@gmail.com
+  org : Technion - Israel Institute of Technology	
+  country : Israel
+  homepage :  
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+- id: 26
+  first_name : Jack	 						 	
+  last_name : Jansma
+  email : jackjansma@sun.ac.za
+  org : 	University of Stellenbosch
+  country : South Africa
+  homepage : https://researcherprofiles.sun.ac.za/44652-jack-jansma/publications
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+    
+- id: 27
+  first_name : Manuel		 						 	
+  last_name : Kauers
+  email : jackjansma@sun.ac.za
+  org : 	Johannes Kepler University	Linz
+  country : Austria
+  homepage : manuel@kauers.de
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :   
