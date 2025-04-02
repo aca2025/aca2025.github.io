@@ -2,7 +2,7 @@
 title: "Solving Matrix and Tensor Equations"
 layout: session
 AA: 16
-webpage: "https://sites.google.com/view/computational-diffalg-2025"
+webpage: 
 organizers:
   - name: Dragana Cvetkovic Ilic
     org: "Department of Mathematics, University of Nis, Serbia"
