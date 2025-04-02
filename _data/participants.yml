@@ -328,12 +328,26 @@
 - id: 27
   first_name : Manuel		 						 	
   last_name : Kauers
-  email : jackjansma@sun.ac.za
+  email : manuel@kauers.de
   org : 	Johannes Kepler University	Linz
   country : Austria
-  homepage : manuel@kauers.de
+  homepage : 
   student : 
   speaker : 
   role : 
   session : 
   fee :   
+  
+- id: 28
+  first_name : Ryszard		 						 	
+  last_name : Kozera
+  email : ryszard.kozera@gmail.com
+  org : 	Warsaw University of Life Sciences - SGGW
+  country : Poland
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  paid
+  
