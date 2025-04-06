@@ -6,12 +6,12 @@
 - name: Ioannis Emiris
   org: "ATHENA RC and University of Athens (Greece)"
   homepage: "https://www.athenarc.gr/en/people/527"
-  title: Α sparse overview of sparse elimination 
+  title: "A sparse overview of sparse elimination"
   picture: "../assets/invited/Emiris.png"
 - name: Daniel Panario
   org: "Carleton University (Canada)"
   homepage: "https://people.math.carleton.ca/~daniel/"
-  title: TBA 
+  title: "Iterating Generalized Cyclotomic Mappings of Finite Fields" 
   picture: "../assets/invited/Panario.jpg"
 - name: Veronika Pillwein
   org: "Johannes Kepler University - RISC (Austria)"
