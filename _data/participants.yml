@@ -351,3 +351,486 @@
   session : 
   fee :  paid
   
+- id: 29
+  first_name : Roberto			 						 	
+  last_name : La Scala
+  email : robertlascala@gmail.com
+  org : 	Università degli Studi di Bari
+  country : Italy
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+  
+- id: 30
+  first_name : Saltanat				 						 	
+  last_name : Bizhanova
+  email : bizhanova.saltanat92@gmail.com
+  org : 	Al-Farabi Kazakh National University	
+  country : Kazakstan
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+  
+- id: 31
+  first_name : Bryan					 						 	
+  last_name : Hernandez
+  email : bhernandez@math.upd.edu.ph
+  org : 	University of the Philippines Diliman	
+  country : Philippines
+  homepage : https://math.upd.edu.ph/faculty/hernandez-bryan
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+
+- id: 32
+  first_name : Thierry Noah					 						 	
+  last_name : Dana-Picard	
+  email : ndp@jct.ac.il	
+  org : 	Jerusalem College of Technology
+  country : Israel
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+  
+- id: 33
+  first_name : Yang					 						 	
+  last_name : Zhang
+  email : yang.zhang@umanitoba.ca
+  org : University of Manitoba
+  country : Canada
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+   
+- id: 34
+  first_name : Götz					 						 	
+  last_name : Pfeiffer
+  email : goetz.pfeiffer@universityofgalway.ie
+  org : 	University of Galway
+  country : Ireland
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+   
+- id: 35
+  first_name : Joseph					 						 	
+  last_name : Baranoski
+  email : jabaranoski@gmail.com
+  org : 	The Catholic University of America
+  country : USA
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+
+    
+- id: 36
+  first_name : Jakob					 						 	
+  last_name : Obrovsky
+  email : Jakob.Obrovsky@risc.jku.at
+  org : 	Johannes Kepler University Linz
+  country : Austria
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+
+- id: 37
+  first_name : Karsten					 						 	
+  last_name : Schmidt
+  email : 	kschmidt@hs-sm.de
+  org : Schmalkalden University of Applied Sciences
+  country : Germany
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+
+- id: 38
+  first_name : Roberto					 						 	
+  last_name : La Scala
+  email : roberto.lascala@uniba.it
+  org : Università degli Studi di Bari
+  country : Italy
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+  
+- id: 39
+  first_name : Mengyan					 						 	
+  last_name : Xie
+  email : xiemengyan15@163.com
+  org : Shanghai Ocean University
+  country : China
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+
+  
+- id: 40
+  first_name : Jürgen					 						 	
+  last_name : Gerhard
+  email : jgerhard@maplesoft.com
+  org : Maplesoft
+  country : Canada
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+   
+  
+- id: 40
+  first_name : Florian					 						 	
+  last_name : Fürnsinn
+  email : florian.fuernsinn@univie.ac.at
+  org : University of Vienna
+  country : Austria
+  homepage : https://homepage.univie.ac.at/florian.fuernsinn/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+   
+  
+- id: 41
+  first_name : Clemens					 						 	
+  last_name : Hofstadler
+  email : clemens.hofstadler@jku.at
+  org : Johannes Kepler University
+  country : Austria
+  homepage : 	https://clemenshofstadler.com/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+    
+  
+- id: 42
+  first_name : Raffaele					 						 	
+  last_name : Vitolo
+  email : raffaele.vitolo@unisalento.it
+  org : University of Salento
+  country : Italy
+  homepage : 	https://poincare.unisalento.it/vitolo/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+    
+  
+- id: 43
+  first_name : Xiaodong					 						 	
+  last_name : Zhang
+  email : xiaodong@sjtu.edu.cn
+  org : Shanghai Jiao Tong University
+  country : China
+  homepage :  
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+
+  
+- id: 44
+  first_name : Sara						 						 	
+  last_name : Asensio
+  email : sara.asensio@uva.es
+  org : University of  Valladolid
+  country : Spain
+  homepage :  
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+  
+  
+- id: 45
+  first_name : 	Valentino						 						 	
+  last_name : Smaldore
+  email : valentino.smaldore@unipd.it
+  org : 	Università degli Studi di Padova
+  country : Italy
+  homepage :  https://sites.google.com/d/1EYqdUYLW9kBvfCBIWHHYCxftiI-0BP34/p/1_-97gLEDzEPoF8mel99hzTftniYNS7Ot/edit
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+ 
+ - id: 46
+  first_name : 	Stephen						 						 	
+  last_name : Watt
+  email : smwatt@uwaterloo.ca
+  org : 	University of Waterloo
+  country : Canada
+  homepage :  https://cs.uwaterloo.ca/~smwatt/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+ 
+ - id: 47
+  first_name : 	Shachar						 						 	
+  last_name : Weinbaum
+  email : shacharwein@gmail.com	
+  org : 	Technion - Israel Institute of Technology
+  country : Israel
+  homepage : https://www.ramanujanmachine.com/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+ 
+ - id: 48
+  first_name : 	Haiduke						 						 	
+  last_name : Sarafian
+  email : has2@psu.edu
+  org : 	Pennsylvania State University
+  country : USA
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid 
+   
+ 
+ - id: 49
+  first_name : 	Daniel						 						 	
+  last_name : Robertz
+  email : daniel.robertz@rwth-aachen.de
+  org : RWTH Aachen University
+  country : Germany
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+ 
+ - id: 50
+  first_name : Yi						 						 	
+  last_name : Zhang
+  email : Yi.Zhang03@xjtlu.edu.cn
+  org : Xi'an Jiaotong-Liverpool University
+  country : China
+  homepage : https://yzhang1616.github.io/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :   
+
+ - id: 51
+  first_name : Mariya						 						 	
+  last_name : Dzhumalieva-Stoeva
+  email : m.dzhumalieva@ts.uni-vt.bg
+  org :  
+  country : Bulgaria
+  homepage : https://orcid.org/0009-0008-2832-9672	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+ - id: 52
+  first_name : Margherita						 						 	
+  last_name : Guida
+  email : maguida@unina.it
+  org :  Università di Napoli Federico II
+  country : Italy
+  homepage :  
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :   
+
+ - id: 53
+  first_name : Varadharaj						 						 	
+  last_name :  Ravi	Srinivasan
+  email : ravisri@iisermohali.ac.in
+  org : Indian Insititute of Science Education and Research Mohali
+  country : India
+  homepage :  
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :   
+
+ - id: 54
+  first_name : Atsushi						 						 	
+  last_name :  Mochizuki
+  email : mochi@infront.kyoto-u.ac.jp	
+  org : Institute for Life and Medical Sciences, Kyoto University
+  country : Japan
+  homepage :  https://mathbio.infront.kyoto-u.ac.jp/en/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+ - id: 54
+  first_name : William						 						 	
+  last_name :  Bauldry
+  email : bauldrywc@gmail.com
+  org : ASU
+  country : USA
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+ 
+ - id: 55
+  first_name : Ahmet Melih					 						 	
+  last_name :  Gül
+  email : a.gul2025@gtu.edu.tr
+  org : Gebze Technical University
+  country : Turkey
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :   
+ 
+ - id: 56
+  first_name : Mark 					 						 	
+  last_name :  Adongo Adindaa	
+  email : adongo035@gmail.com
+  org : 	Accra Technical  University
+  country : Ghana
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :   
+
+ 
+ - id: 57
+  first_name : Koji 					 						 	
+  last_name :  Nishiura
+  email : nishiura@fukushima-nct.ac.jp
+  org : 	National Institute of Technology, Fukushima College
+  country : Japan
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+ 
+ - id: 58
+  first_name : Masaki 					 						 	
+  last_name :  Suzuki
+  email : 	m-suzuki@numazu-ct.ac.jp
+  org : National Institute of Technology, Numazu College
+  country : Japan
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+ - id: 59
+  first_name : Setsuo 					 						 	
+  last_name :  Takato
+  email : 	setsuotakato@gmail.com
+  org : KeTCindy Center
+  country : Japan
+  homepage : https://s-takato.github.io/ketcindyorg/indexe.html
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid  
+
+ - id: 60
+  first_name : Yasuyuki 					 						 	
+  last_name :  Kubo
+  email : 	kuboMath@gmail.com	
+  org : Yuge KOSEN
+  country : Japan
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+
+ - id: 61
+  first_name : Chieko 					 						 	
+  last_name :  Komoda
+  email : 	komoda@kurume-nct.ac.jp
+  org : National Institute of Technology, Kurume College
+  country : Japan
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+
+
+ - id: 62
+  first_name : Tülay 					 						 	
+  last_name :  Ayyıldız
+  email : tulayayyildiz@gtu.edu.tr
+  org : Gebze Technical University
+  country : Turkey
+  homepage : https://sites.google.com/view/tayyildiz/home
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+
