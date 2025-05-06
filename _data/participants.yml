@@ -87,13 +87,13 @@
   session: 
   speaker: invited
   role: Invited Speaker
-  fee: waived	
+  fee: waived
 
 
 - id: 8
   first_name: Ioannis
   last_name: Emiris
-  email:  gianira-nicoletta.alfarano@univ-rennes.fr
+  email:  
   org: "ATHENA RC and University of Athens"
   country:  Greece
   homepage: "https://www.athenarc.gr/en/people/527"
