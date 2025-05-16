@@ -2,7 +2,7 @@
 title: "Noncommutative Symbolic Computation"
 layout: session
 AA: 18
-webpage: https://www-lipn.univ-paris13.fr/~duchamp/Conferences/ACA-NSC-25.html
+webpage: https://www-lipn.univ-paris13.fr/~duchamp/Conferences/ACA-NSC-25.pdf
 organizers:
   - name: Gérard H.E. Duchamp
     org: "Sorbonne University - Paris Nord, France"
