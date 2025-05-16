@@ -23,15 +23,22 @@ blocks:
 speakers:
 
 ---
-Noncommutative formal series are considered a successful generalization of language theory in theoretical computer science. 
-The combinatorics of these series is based on that of words, and these two fields reinforce each other. 
-They form an ideal framework for developing software based on computer algebra systems with rigor and efficiency. 
-In particular, they allow the symbolic manipulation of special functions (such as Eulerian functions, hypergeometric functions, hyperlogarithms, harmonic sums, etc.) 
-and of special values (such as multiple zeta values, polyzetas, etc.) involved in solutions of differential equations.  
 
-We invite contributions with the following topics: 
-* Hopf Algebras and Their Combinatorics
+Symbolic computation plays an important role in the study of many important functions and their special values. 
+By constructing noncommutative formal series based on words using these symbols, one can often discover key properties of these functions and values in a uniform way. 
+On the other hand, noncommutative formal series can be considered as a generalization of language theory in theoretical computer science. 
+As the algorithms and combinatorics of these series is based on those of words, these two fields naturally reinforce each other. 
+They form an ideal framework for developing software based on computer algebra systems with rigor and efficiency. 
+In particular, they allow the symbolic manipulation of several classes of special functions (such as Eulerian functions, hypergeometric functions, hyperlogarithms, harmonic sums, etc.) 
+and of special values involved in solutions of differential equations.
+We invite contributions with the following topics:
+* Combinatorial Indexing and Calculus
 * Ecalle's Mould Calculus
 * Free Lie Algebras
+* Hopf Algebras and Their Combinatorics
 * Noncommutative Differential Equations
-* Representative Series 
+* Multiple Zeta Values (or Zeta Polymorphism) and Polylogarithms
+* Representative Series (Sweedler's duals and their combinatorics)
+
+
+
