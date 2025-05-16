@@ -192,7 +192,7 @@
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : waived
 
 - id: 17
   first_name : Henning	 	
@@ -205,7 +205,7 @@
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : waived
  
 
 - id: 18
@@ -271,7 +271,7 @@
   speaker : 
   role : 
   session : 
-  fee :  
+  fee : waived
 
 - id: 23
   first_name : AmirHosein				 	
@@ -995,9 +995,9 @@
      				
 - id: 75
   first_name : Stefka
-  last_name :  Bouyuklieva
+  last_name : Bouyuklieva
   email : stefka@ts.uni-vt.bg
-  org : 	St. Cyril and St. Methodius University of Veliko Tarnovo	
+  org : St. Cyril and St. Methodius University of Veliko Tarnovo	
   country : Bulgaria
   homepage : 
   student : 
