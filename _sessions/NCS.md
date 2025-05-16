@@ -42,6 +42,6 @@ We invite contributions with the following topics:
 * Hopf Algebras and Their Combinatorics
 * Noncommutative Differential Equations
 * Multiple Zeta Values (or Zeta Polymorphism) and Polylogarithms
-* Representative Series (Sweedler's duals and their combinatorics)
+* Representative functions (Sweedler's duals and their combinatorics)
 
 
