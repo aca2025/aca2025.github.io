@@ -978,11 +978,11 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   				
+  fee :
+
 - id: 74
   first_name : Maryam
-  last_name :  Bajalan
+  last_name : Bajalan
   email : maryam.bajalan@math.bas.bg
   org : Institute of Mathematics and Informatics, Bulgarian Academy of Sciences		
   country : Bulgaria
@@ -991,8 +991,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-     				
+  fee : 
+
 - id: 75
   first_name : Stefka
   last_name : Bouyuklieva
