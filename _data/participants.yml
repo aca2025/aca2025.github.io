@@ -42,7 +42,7 @@
   last_name: Garefalakis
   email: tgaref@uoc.gr
   org: "University of Crete"
-  country:  Greece
+  country: Greece
   homepage: "http://users.math.uoc.gr/~tgaref/"
   student: 
   session: 
@@ -52,10 +52,10 @@
 
 - id: 5
   first_name: Gianira Nicoletta
-  last_name: Alfarano   
-  email:  gianira-nicoletta.alfarano@univ-rennes.fr
+  last_name: Alfarano
+  email: gianira-nicoletta.alfarano@univ-rennes.fr
   org: "Rennes University"
-  country:  France
+  country: France
   homepage: "https://user.math.uzh.ch/alfarano/"
   student: 
   session: 
@@ -66,9 +66,9 @@
 - id: 6
   first_name: Daniel
   last_name: Panario
-  email:  daniel@math.carleton.ca
+  email: daniel@math.carleton.ca
   org: "Carleton University"
-  country:  Canada
+  country: Canada
   homepage: "https://people.math.carleton.ca/~daniel/"
   student: 
   session: 
@@ -78,12 +78,12 @@
 
 - id: 7
   first_name: Veronika
-  last_name: Pillwein  
-  email:  veronika.pillwein@risc.jku.at
+  last_name: Pillwein
+  email: veronika.pillwein@risc.jku.at
   org: "Johannes Kepler University - RISC"
-  country:  Austria
+  country: Austria
   homepage: "https://risc.jku.at/m/veronika-pillwein/"
-  srtudent:  
+  srtudent: 
   session: 
   speaker: invited
   role: Invited Speaker
@@ -93,9 +93,9 @@
 - id: 8
   first_name: Ioannis
   last_name: Emiris
-  email:  
+  email: 
   org: "ATHENA RC and University of Athens"
-  country:  Greece
+  country: Greece
   homepage: "https://www.athenarc.gr/en/people/527"
   student:
   session: 
@@ -180,7 +180,7 @@
   role : 
   session : 
   fee : 
-  
+
 - id: 16 
   first_name : Alev	
   last_name : Topuzoglu
@@ -324,7 +324,7 @@
   role : 
   session : 
   fee: 
-   
+ 
 - id: 27
   first_name : Manuel		 						 	
   last_name : Kauers
@@ -336,8 +336,8 @@
   speaker : 
   role : 
   session : 
-  fee :   
-  
+  fee : 
+
 - id: 28
   first_name : Ryszard		 						 	
   last_name : Kozera
@@ -349,8 +349,8 @@
   speaker : 
   role : 
   session : 
-  fee :  paid
-  
+  fee : paid
+
 - id: 29
   first_name : Roberto			 						 	
   last_name : La Scala
@@ -363,7 +363,7 @@
   role : 
   session : 
   fee : paid
-  
+
 - id: 30
   first_name : Saltanat				 						 	
   last_name : Bizhanova
@@ -388,7 +388,7 @@
   speaker : 
   role : 
   session : 
-  fee :  
+  fee : 
 
 - id: 32
   first_name : Thierry Noah					 						 	
@@ -415,7 +415,7 @@
   role : 
   session : 
   fee : paid
-   
+
 - id: 34
   first_name : Götz					 						 	
   last_name : Pfeiffer
@@ -429,7 +429,6 @@
   session : 
   fee : paid
 
-   
 - id: 35
   first_name : Joseph					 						 	
   last_name : Baranoski
@@ -441,9 +440,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
+  fee : 
 
-    
 - id: 36
   first_name : Jakob					 						 	
   last_name : Obrovsky
@@ -455,7 +453,7 @@
   speaker : 
   role : 
   session : 
-  fee :  
+  fee :
 
 - id: 37
   first_name : Karsten					 						 	
@@ -468,7 +466,7 @@
   speaker : 
   role : 
   session : 
-  fee :  
+  fee : 
 
 - id: 38
   first_name : Roberto					 						 	
@@ -494,9 +492,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
+  fee : 
 
-  
 - id: 40
   first_name : Jürgen					 						 	
   last_name : Gerhard
@@ -509,8 +506,7 @@
   role : 
   session : 
   fee : paid
-   
-  
+
 - id: 40
   first_name : Florian					 						 	
   last_name : Fürnsinn
@@ -523,8 +519,7 @@
   role : 
   session : 
   fee : paid
-   
-  
+
 - id: 41
   first_name : Clemens					 						 	
   last_name : Hofstadler
@@ -537,8 +532,7 @@
   role : 
   session : 
   fee : paid
-    
-  
+
 - id: 42
   first_name : Raffaele					 						 	
   last_name : Vitolo
@@ -551,36 +545,33 @@
   role : 
   session : 
   fee: 
-   
-  
+
 - id: 43
   first_name : Xiaodong					 						 	
   last_name : Zhang
   email : xiaodong@sjtu.edu.cn
   org : Shanghai Jiao Tong University
   country : China
-  homepage :  
+  homepage :
   student : 
   speaker : 
   role : 
   session : 
-  fee :  
+  fee : 
 
-  
 - id: 44
   first_name : Sara						 						 	
   last_name : Asensio
   email : sara.asensio@uva.es
-  org : University of  Valladolid
+  org : University of Valladolid
   country : Spain
-  homepage :  
+  homepage : 
   student : 
   speaker : 
   role : 
   session : 
   fee: 
- 
-  
+
 - id: 45
   first_name : 	Valentino						 						 	
   last_name : Smaldore
@@ -632,7 +623,6 @@
   role : 
   session : 
   fee : paid 
-   
  
 - id: 49
   first_name : 	Daniel						 						 	
@@ -658,13 +648,13 @@
   speaker : 
   role : 
   session : 
-  fee :   
+  fee : 
 
 - id: 51
   first_name : Mariya						 						 	
   last_name : Dzhumalieva-Stoeva
   email : m.dzhumalieva@ts.uni-vt.bg
-  org :  
+  org : 
   country : Bulgaria
   homepage : https://orcid.org/0009-0008-2832-9672	
   student : 
@@ -684,28 +674,28 @@
   speaker : 
   role : 
   session : 
-  fee :   
+  fee : 
 
 - id: 53
   first_name : Varadharaj						 						 	
-  last_name :  Ravi	Srinivasan
+  last_name : Ravi	Srinivasan
   email : ravisri@iisermohali.ac.in
   org : Indian Insititute of Science Education and Research Mohali
   country : India
-  homepage :  
+  homepage :
   student : 
   speaker : 
   role : 
   session : 
-  fee :   
+  fee : 
 
 - id: 54
   first_name : Atsushi						 						 	
-  last_name :  Mochizuki
+  last_name : Mochizuki
   email : mochi@infront.kyoto-u.ac.jp	
   org : Institute for Life and Medical Sciences, Kyoto University
   country : Japan
-  homepage :  https://mathbio.infront.kyoto-u.ac.jp/en/
+  homepage : https://mathbio.infront.kyoto-u.ac.jp/en/
   student : 
   speaker : 
   role : 
@@ -736,22 +726,21 @@
   speaker : 
   role : 
   session : 
-  fee :   
+  fee : 
  
 - id: 56
   first_name : Mark 					 						 	
-  last_name :  Adongo Adindaa	
+  last_name : Adongo Adindaa	
   email : adongo035@gmail.com
-  org : 	Accra Technical  University
+  org : 	Accra Technical University
   country : Ghana
   homepage : 
   student : 
   speaker : 
   role : 
   session : 
-  fee :   
+  fee : 
 
- 
 - id: 57
   first_name : Koji 					 						 	
   last_name :  Nishiura
@@ -790,11 +779,11 @@
   speaker : 
   role : 
   session : 
-  fee : paid  
+  fee : paid
 
 - id: 60
   first_name : Yasuyuki 					 						 	
-  last_name :  Kubo
+  last_name : Kubo
   email : 	kuboMath@gmail.com	
   org : Yuge KOSEN
   country : Japan
@@ -817,8 +806,7 @@
   speaker : 
   role : 
   session : 
-  fee :  
-
+  fee : 
 
 - id: 62
   first_name : Tülay 					 						 	
@@ -849,7 +837,7 @@
 
 - id: 64
   first_name : Chia
-  last_name :  Zargeh
+  last_name : Zargeh
   email : Chia.Zargeh@mcbs.edu.om
   org : 	Modern College of Business and Science
   country : Oman
@@ -862,7 +850,7 @@
 
 - id: 65
   first_name : Qiang (Steven)
-  last_name :  Wang
+  last_name : Wang
   email : wang@math.carleton.ca
   org : 	Carleton University
   country : Canada
@@ -871,13 +859,11 @@
   speaker : 
   role : 
   session : 
-  fee :  
-
-
- 			 				
+  fee : 
+		
 - id: 66
   first_name : Jing
-  last_name :  Yang
+  last_name : Yang
   email : yangjing0930@gmail.com
   org : Guangxi Minzu University
   country : China
@@ -914,7 +900,6 @@
   session : 
   fee : paid
  					
-
 - id: 69
   first_name : Ferruh
   last_name :  Ozbudak
@@ -930,7 +915,7 @@
  				
 - id: 70
   first_name : Steven
-  last_name :  Charlton
+  last_name : Charlton
   email : charlton@mpim-bonn.mpg.de
   org : Max Planck Institute for Mathematics, Bonn
   country : Germany
@@ -943,7 +928,7 @@
 				
 - id: 71
   first_name : Peter
-  last_name :  Boyvalenkov
+  last_name : Boyvalenkov
   email : peter@math.bas.bg
   org : Institute of Mathematics and Informatics, Bulgarian Academy of Sciences
   country : Bulgaria
@@ -953,10 +938,10 @@
   role : 
   session : 
   fee: 
-  				
+
 - id: 72
   first_name : Eli
-  last_name :  Bagno
+  last_name : Bagno
   email : bagnoe@gmail.com
   org : Jerusalem college of Technology	
   country : Israel
@@ -966,7 +951,7 @@
   role : 
   session : 
   fee: 
-  				
+
 - id: 73
   first_name : Jianqiang
   last_name : Zhao
@@ -1005,10 +990,10 @@
   role : 
   session : 
   fee: 
-    				
+
 - id: 76
   first_name : Iliya
-  last_name :  Bouyukliev
+  last_name : Bouyukliev
   email : iliyab@math.bas.bg
   org : Institute of Mathematics and Informatics, BAS
   country : Bulgaria
@@ -1018,7 +1003,7 @@
   role : 
   session : 
   fee: 
-    				
+
 - id: 77
   first_name : Özhan
   last_name :  Genç
@@ -1031,7 +1016,7 @@
   role : 
   session : 
   fee: 
-    				
+
 - id: 78
   first_name : Elisa
   last_name :  Junghans
@@ -1044,13 +1029,12 @@
   role : 
   session : 
   fee : paid
-   			 			
-     				
+
 - id: 79
   first_name : Joao
-  last_name :  Ruiz
+  last_name : Ruiz
   email : joao.ruiz@imj-prg.fr
-  org : 	Institut de Mathématiques de Jussieu (IMJ-PRG) / INRIA  
+  org : 	Institut de Mathématiques de Jussieu (IMJ-PRG) / INRIA
   country : France
   homepage : 
   student : yes
@@ -1058,8 +1042,7 @@
   role : 
   session : 
   fee: 
-  			 			
-     				
+
 - id: 80
   first_name : Georg
   last_name :  Regensburger
@@ -1072,11 +1055,10 @@
   role : 
   session : 
   fee: 
-  			 			
-     				
+
 - id: 81
   first_name : Thierry
-  last_name :  Combot
+  last_name : Combot
   email : thierry.combot@u-bourgogne.fr
   org : 	Université de Bourgogne
   country : France
@@ -1086,11 +1068,10 @@
   role : 
   session : 
   fee : paid
-   			 			
-     				
+
 - id: 82
   first_name : Stela
-  last_name :  Zhelezova
+  last_name : Zhelezova
   email : stzhelezova@gmail.com	
   org : 	Institute of Mathematics and Informatics, BAS
   country : Bulgaria	
@@ -1100,7 +1081,7 @@
   role : 
   session : 
   fee: 
-  		     				
+
 - id: 83
   first_name : Manfred
   last_name :  Buchacher
@@ -1113,10 +1094,10 @@
   role : 
   session : 
   fee: 
-  		     				
+
 - id: 84
   first_name : Hadrien
-  last_name :  Brochet
+  last_name : Brochet
   email : hadrien.brochet@inria.fr
   org : Inria Saclay
   country : France
@@ -1125,11 +1106,11 @@
   speaker : 
   role : 
   session : 
-  fee :  paid
-   		     				
+  fee : paid
+
 - id: 85
   first_name : Frédéric
-  last_name :  Chyzak
+  last_name : Chyzak
   email : frederic.chyzak@inria.fr	
   org : Inria
   country : France
@@ -1139,10 +1120,10 @@
   role : 
   session : 
   fee : paid
-   		     				
+
 - id: 86
   first_name : Julia		
-  last_name :  Lieb
+  last_name : Lieb
   email : julia.lieb@tu-ilmenau.de
   org : TU Ilmenau		
   country : Germany
@@ -1152,10 +1133,10 @@
   role : 
   session : 
   fee : paid
-   			    		     				
+
 - id: 87
   first_name : Tobias
-  last_name :  Metzlaff
+  last_name : Metzlaff
   email : math@tobiasmetzlaff.com	
   org : 	LAAS-CNRS		
   country : France
@@ -1165,10 +1146,10 @@
   role : 
   session : 
   fee: 
-  			    		     				
+
 - id: 88
   first_name : 	Moulay				
-  last_name :  Barkatou
+  last_name : Barkatou
   email : moulay.barkatou@unilim.fr
   org : XLIM- University of Limoges	
   country : France
@@ -1178,10 +1159,10 @@
   role : 
   session : 
   fee: 
-  			    		     				
+
 - id: 89
   first_name : 	Cyrille
-  last_name :  Chenavier
+  last_name : Chenavier
   email : cyrille.chenavier@unilim.fr
   org : Limoges University
   country : France
@@ -1191,9 +1172,8 @@
   role : 
   session : 
   fee: 
-  			    			 			 		 		 					
- 
- 	
+
+
  
  
 
