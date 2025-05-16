@@ -323,8 +323,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-    
+  fee: 
+   
 - id: 27
   first_name : Manuel		 						 	
   last_name : Kauers
@@ -375,8 +375,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-  
+  fee: 
+ 
 - id: 31
   first_name : Bryan					 						 	
   last_name : Hernandez
@@ -401,8 +401,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-  
+  fee: 
+ 
 - id: 33
   first_name : Yang					 						 	
   last_name : Zhang
@@ -481,8 +481,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-  
+  fee: 
+ 
 - id: 39
   first_name : Mengyan					 						 	
   last_name : Xie
@@ -550,8 +550,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-    
+  fee: 
+   
   
 - id: 43
   first_name : Xiaodong					 						 	
@@ -578,8 +578,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-  
+  fee: 
+ 
   
 - id: 45
   first_name : 	Valentino						 						 	
@@ -645,8 +645,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
- 
+  fee: 
+
 - id: 50
   first_name : Yi						 						 	
   last_name : Zhang
@@ -886,8 +886,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
- 				
+  fee: 
+				
 - id: 67
   first_name : Piedad
   last_name : Tolmos
@@ -899,8 +899,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
- 				
+  fee: 
+				
 - id: 68
   first_name : Giovanni
   last_name : Longobardi
@@ -939,8 +939,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
- 				
+  fee: 
+				
 - id: 71
   first_name : Peter
   last_name :  Boyvalenkov
@@ -952,8 +952,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   				
+  fee: 
+  				
 - id: 72
   first_name : Eli
   last_name :  Bagno
@@ -965,8 +965,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   				
+  fee: 
+  				
 - id: 73
   first_name : Jianqiang
   last_name : Zhao
@@ -1004,8 +1004,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-     				
+  fee: 
+    				
 - id: 76
   first_name : Iliya
   last_name :  Bouyukliev
@@ -1017,8 +1017,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-     				
+  fee: 
+    				
 - id: 77
   first_name : Özhan
   last_name :  Genç
@@ -1030,8 +1030,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-     				
+  fee: 
+    				
 - id: 78
   first_name : Elisa
   last_name :  Junghans
@@ -1057,8 +1057,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   			 			
+  fee: 
+  			 			
      				
 - id: 80
   first_name : Georg
@@ -1071,8 +1071,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   			 			
+  fee: 
+  			 			
      				
 - id: 81
   first_name : Thierry
@@ -1099,8 +1099,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   		     				
+  fee: 
+  		     				
 - id: 83
   first_name : Manfred
   last_name :  Buchacher
@@ -1112,8 +1112,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   		     				
+  fee: 
+  		     				
 - id: 84
   first_name : Hadrien
   last_name :  Brochet
@@ -1164,8 +1164,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   			    		     				
+  fee: 
+  			    		     				
 - id: 88
   first_name : 	Moulay				
   last_name :  Barkatou
@@ -1177,8 +1177,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   			    		     				
+  fee: 
+  			    		     				
 - id: 89
   first_name : 	Cyrille
   last_name :  Chenavier
@@ -1190,8 +1190,8 @@
   speaker : 
   role : 
   session : 
-  fee :  
-   			    			 			 		 		 					
+  fee: 
+  			    			 			 		 		 					
  
  	
  
