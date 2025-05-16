@@ -834,3 +834,374 @@
   fee : paid
 
 
+- id: 63
+  first_name : Luca
+  last_name :  Bastioni
+  email : lbastioni@usf.edu
+  org : University of South Florida
+  country : USA
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+- id: 64
+  first_name : Chia
+  last_name :  Zargeh
+  email : Chia.Zargeh@mcbs.edu.om
+  org : 	Modern College of Business and Science
+  country : Oman
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : 
+
+- id: 65
+  first_name : Qiang (Steven)
+  last_name :  Wang
+  email : wang@math.carleton.ca
+  org : 	Carleton University
+  country : Canada
+  homepage : https://people.math.carleton.ca/~wang/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+
+
+ 			 				
+- id: 66
+  first_name : Jing
+  last_name :  Yang
+  email : yangjing0930@gmail.com
+  org : Guangxi Minzu University
+  country : China
+  homepage : https://jyangmath.github.io/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+ 				
+- id: 67
+  first_name : Piedad
+  last_name : Tolmos
+  email : piedad.tolmos@urjc.es
+  org : Juan Carlos University
+  country : Spain
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+ 				
+- id: 68
+  first_name : Giovanni
+  last_name : Longobardi
+  email : giovanni.longobardi@unina.it
+  org : University of Naples Federico II
+  country : Italy
+  homepage : giovanni.longobardi.it
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+ 					
+
+- id: 69
+  first_name : Ferruh
+  last_name :  Ozbudak
+  email : ferruh.ozbudak@sabanciuniv.edu
+  org : Sabanci University
+  country : Türkiye
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+ 				
+- id: 70
+  first_name : Steven
+  last_name :  Charlton
+  email : charlton@mpim-bonn.mpg.de
+  org : Max Planck Institute for Mathematics, Bonn
+  country : Germany
+  homepage : https://guests.mpim-bonn.mpg.de/spc/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+ 				
+- id: 71
+  first_name : Peter
+  last_name :  Boyvalenkov
+  email : peter@math.bas.bg
+  org : Institute of Mathematics and Informatics, Bulgarian Academy of Sciences
+  country : Bulgaria
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   				
+- id: 72
+  first_name : Eli
+  last_name :  Bagno
+  email : bagnoe@gmail.com
+  org : Jerusalem college of Technology	
+  country : Israel
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   				
+- id: 73
+  first_name : Jianqiang
+  last_name : Zhao
+  email : zhaoj8888@gmail.com
+  org : The Bishop's School
+  country : USA
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   				
+- id: 74
+  first_name : Maryam
+  last_name :  Bajalan
+  email : maryam.bajalan@math.bas.bg
+  org : Institute of Mathematics and Informatics, Bulgarian Academy of Sciences		
+  country : Bulgaria
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+     				
+- id: 75
+  first_name : Stefka
+  last_name :  Bouyuklieva
+  email : stefka@ts.uni-vt.bg
+  org : 	St. Cyril and St. Methodius University of Veliko Tarnovo	
+  country : Bulgaria
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+     				
+- id: 76
+  first_name : Iliya
+  last_name :  Bouyukliev
+  email : iliyab@math.bas.bg
+  org : Institute of Mathematics and Informatics, BAS
+  country : Bulgaria
+  homepage : http://www.moi.math.bas.bg/moiuser/~iliya/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+     				
+- id: 77
+  first_name : Özhan
+  last_name :  Genç
+  email : ozhangenc@gmail.com
+  org : Jagiellonian University
+  country : Poland
+  homepage : https://sites.google.com/view/ozhangenc/home	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+     				
+- id: 78
+  first_name : Elisa
+  last_name :  Junghans
+  email : elisa.junghans@tu-ilmenau.de
+  org : Ilmenau University of Technology
+  country : Germany
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+   			 			
+     				
+- id: 79
+  first_name : Joao
+  last_name :  Ruiz
+  email : joao.ruiz@imj-prg.fr
+  org : 	Institut de Mathématiques de Jussieu (IMJ-PRG) / INRIA  
+  country : France
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   			 			
+     				
+- id: 80
+  first_name : Georg
+  last_name :  Regensburger
+  email : regensburger@mathematik.uni-kassel.de
+  org : University of Kassel
+  country : Germany
+  homepage : http://gregensburger.com/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   			 			
+     				
+- id: 81
+  first_name : Thierry
+  last_name :  Combot
+  email : thierry.combot@u-bourgogne.fr
+  org : 	Université de Bourgogne
+  country : France
+  homepage : http://combot.perso.math.cnrs.fr/		
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+   			 			
+     				
+- id: 82
+  first_name : Stela
+  last_name :  Zhelezova
+  email : stzhelezova@gmail.com	
+  org : 	Institute of Mathematics and Informatics, BAS
+  country : Bulgaria	
+  homepage : http://www.moi.math.bas.bg/moiuser/~stela/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   		     				
+- id: 83
+  first_name : Manfred
+  last_name :  Buchacher
+  email : manfredi.buchacher@gmail.com
+  org : 	Johannes Kepler Universität Linz	
+  country : Austria
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   		     				
+- id: 84
+  first_name : Hadrien
+  last_name :  Brochet
+  email : hadrien.brochet@inria.fr
+  org : Inria Saclay
+  country : France
+  homepage : https://hbrochet.github.io/
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee :  paid
+   		     				
+- id: 85
+  first_name : Frédéric
+  last_name :  Chyzak
+  email : frederic.chyzak@inria.fr	
+  org : Inria
+  country : France
+  homepage : https://mathexp.eu/chyzak/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+   		     				
+- id: 86
+  first_name : Julia		
+  last_name :  Lieb
+  email : julia.lieb@tu-ilmenau.de
+  org : TU Ilmenau		
+  country : Germany
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+   			    		     				
+- id: 87
+  first_name : Tobias
+  last_name :  Metzlaff
+  email : math@tobiasmetzlaff.com	
+  org : 	LAAS-CNRS		
+  country : France
+  homepage : https://tobiasmetzlaff.com/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   			    		     				
+- id: 88
+  first_name : 	Moulay				
+  last_name :  Barkatou
+  email : moulay.barkatou@unilim.fr
+  org : XLIM- University of Limoges	
+  country : France
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   			    		     				
+- id: 89
+  first_name : 	Cyrille
+  last_name :  Chenavier
+  email : cyrille.chenavier@unilim.fr
+  org : Limoges University
+  country : France
+  homepage : https://cchenavier.pages.math.cnrs.fr/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee :  
+   			    			 			 		 		 					
+ 
+ 	
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+  
+ 
