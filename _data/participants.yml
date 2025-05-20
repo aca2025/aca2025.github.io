@@ -558,6 +558,19 @@
   session : 
   fee : paid
 
+- id: 64
+  first_name : Chia
+  last_name : Zargeh
+  email : Chia.Zargeh@mcbs.edu.om
+  org : 	Modern College of Business and Science
+  country : Oman
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
 - id: 68
   first_name : Giovanni
   last_name : Longobardi
@@ -649,6 +662,46 @@
   session : 
   fee : paid
 
+- id: 91
+  first_name : Volodymyr 
+  last_name : Bavula
+  email : :v.bavula@sheffield.ac.uk
+  org :	University of Sheffield
+  country : UK
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+  
+- id: 95
+  first_name : John	
+  last_name : Sheekey
+  email : john.sheekey@ucd.ie
+  org : University College Dublin
+  country : Ireland
+  homepage : https://people.ucd.ie/john.sheekey/about
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+
+- id: 97
+  first_name : Buket
+  last_name : Özkaya
+  email : ozkayab@metu.edu.tr
+  org : 	Middle East Technical University
+  country : Türkiye
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+ 
 - id: 15 
   first_name : Lihong	
   last_name : Zhi
@@ -922,18 +975,7 @@
   session : 
   fee : 
 
-- id: 64
-  first_name : Chia
-  last_name : Zargeh
-  email : Chia.Zargeh@mcbs.edu.om
-  org : 	Modern College of Business and Science
-  country : Oman
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee : 
+
 
 - id: 65
   first_name : Qiang (Steven)
@@ -1169,3 +1211,68 @@
   session : 
   fee: 
 
+- id: 90
+  first_name : Arthur
+  last_name : Norman
+  email : acn1@cam.ac.uk
+  org : Trinity College, Cambridge
+  country : England
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 92
+  first_name : Michael		
+  last_name : Schaller
+  email : michael.schaller@math.uzh.ch
+  org : University of Zürich
+  country : Switzerland
+  homepage : https://sites.google.com/view/michaelschaller/about
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 93
+  first_name : Máté	
+  last_name : László
+  email : mate.telek@mis.mpg.de
+  org : Max Planck Institute for Mathematics in the Sciences
+  country : Germany
+  homepage : https://matetelek.wordpress.com/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 94
+  first_name : Sasaki	
+  last_name : Tateaki
+  email : stateaki@gmail.com
+  org : University of Tsukuba
+  country : Japan
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+
+- id: 96
+  first_name : Robert	
+  last_name : Green
+  email : robert.green@colorado.edu
+  org : University of Colorado, Boulder	
+  country : USA
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: 
