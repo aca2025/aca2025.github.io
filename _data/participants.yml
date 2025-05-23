@@ -702,6 +702,85 @@
   session : 
   fee: paid
  
+
+- id: 98
+  first_name : Burcu
+  last_name : Gülmez Temür
+  email : burcu.temur@atilim.edu.tr
+  org : Atılım University	 
+  country : Turkey
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 99
+  first_name : Peter
+  last_name : Krug
+  email : peter-krug@outlook.com
+  org : Universität Kassel
+  country : Germany
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 101
+  first_name : Robert
+  last_name : Lewis
+  email : rlewis@fordham.edu
+  org : Fordham University
+  country : USA
+  homepage : https://fordham.academia.edu/RobertLewis
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 104
+  first_name : Magdalena	
+  last_name : Skrzypiec
+  email : magdalena.skrzypiec@umcs.pl
+  org : Maria Curie-Sklodowska University		
+  country : Poland
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 107
+  first_name : Michael	
+  last_name : Monagan
+  email : mmonagan@sfu.ca
+  org : Fraser University	
+  country : Canada
+  homepage : http://www.cecm.sfu.ca/~mmonagan/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 108
+  first_name : Carlos
+  last_name : Vela Cabello
+  email : carlos.velacabello@unisg.ch
+  org : Universität St Gallen		
+  country : Switzerland
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 15 
   first_name : Lihong	
   last_name : Zhi
@@ -1272,6 +1351,58 @@
   country : USA
   homepage : 
   student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 100
+  first_name : Sara
+  last_name : Asensio
+  email : sara.asensio@uva.es
+  org : Universidad de Valladolid
+  country : Spain	
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 103
+  first_name : Domingo
+  last_name : Gómez-Pérez
+  email : gomezd@unican.es
+  org : Universidad de Cantabria
+  country : Sapin
+  homepage : personales.unican.es/gomezd	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 105
+  first_name : Rob
+  last_name : Corless
+  email : rob.corless@gmail.com
+  org : Western University
+  country : Canada
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 106
+  first_name : Arkadiusz
+  last_name : Orłowski
+  email : arkadiusz_orlowski@sggw.edu.pl
+  org : Instytut Informatyki Technicznej SGGW w Warszawie
+  country : Poland
+  homepage : 
+  student : 
   speaker : 
   role : 
   session : 
