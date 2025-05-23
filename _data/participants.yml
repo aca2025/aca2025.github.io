@@ -440,7 +440,20 @@
   role : 
   session : 
   fee : paid 
- 
+
+- id: 49
+  first_name : 	Daniel						 						 	
+  last_name : Robertz
+  email : daniel.robertz@rwth-aachen.de
+  org : RWTH Aachen University
+  country : Germany
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 51
   first_name : Mariya						 						 	
   last_name : Dzhumalieva-Stoeva
@@ -674,7 +687,33 @@
   role : 
   session : 
   fee: paid
-  
+
+- id: 92
+  first_name : Michael		
+  last_name : Schaller
+  email : michael.schaller@math.uzh.ch
+  org : University of Zürich
+  country : Switzerland
+  homepage : https://sites.google.com/view/michaelschaller/about
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 93
+  first_name : Máté	
+  last_name : László
+  email : mate.telek@mis.mpg.de
+  org : Max Planck Institute for Mathematics in the Sciences
+  country : Germany
+  homepage : https://matetelek.wordpress.com/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 95
   first_name : John	
   last_name : Sheekey
@@ -742,6 +781,19 @@
   session : 
   fee: paid
 
+- id: 103
+  first_name : Domingo
+  last_name : Gómez-Pérez
+  email : gomezd@unican.es
+  org : Universidad de Cantabria
+  country : Sapin
+  homepage : personales.unican.es/gomezd	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 104
   first_name : Magdalena	
   last_name : Skrzypiec
@@ -781,6 +833,32 @@
   session : 
   fee: paid
 
+- id: 109
+  first_name : Bertrand
+  last_name : Teguia Tabuguia 
+  email : bertrand.teguia@cs.ox.ac.uk
+  org : 	University of Oxford
+  country : UK
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 110
+  first_name : Anthony
+  last_name : O'Hare
+  email : anthony.ohare@stir.ac.uk
+  org : University of Stirling
+  country : UK
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+  
 - id: 15 
   first_name : Lihong	
   last_name : Zhi
@@ -963,19 +1041,6 @@
   session : 
   fee: 
 
-- id: 49
-  first_name : 	Daniel						 						 	
-  last_name : Robertz
-  email : daniel.robertz@rwth-aachen.de
-  org : RWTH Aachen University
-  country : Germany
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 50
   first_name : Yi						 						 	
   last_name : Zhang
@@ -1053,8 +1118,6 @@
   role : 
   session : 
   fee : 
-
-
 
 - id: 65
   first_name : Qiang (Steven)
@@ -1303,32 +1366,6 @@
   session : 
   fee: 
 
-- id: 92
-  first_name : Michael		
-  last_name : Schaller
-  email : michael.schaller@math.uzh.ch
-  org : University of Zürich
-  country : Switzerland
-  homepage : https://sites.google.com/view/michaelschaller/about
-  student : yes
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
-- id: 93
-  first_name : Máté	
-  last_name : László
-  email : mate.telek@mis.mpg.de
-  org : Max Planck Institute for Mathematics in the Sciences
-  country : Germany
-  homepage : https://matetelek.wordpress.com/
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 94
   first_name : Sasaki	
   last_name : Tateaki
@@ -1369,19 +1406,6 @@
   session : 
   fee: 
 
-- id: 103
-  first_name : Domingo
-  last_name : Gómez-Pérez
-  email : gomezd@unican.es
-  org : Universidad de Cantabria
-  country : Sapin
-  homepage : personales.unican.es/gomezd	
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 105
   first_name : Rob
   last_name : Corless
@@ -1407,3 +1431,5 @@
   role : 
   session : 
   fee: 
+
+ 
