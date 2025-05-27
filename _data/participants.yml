@@ -1330,7 +1330,8 @@
 - id: 80
   first_name : Georg
   last_name :  Regensburger
-  email : regensburger@mathematik.uni-kassel.destudent : y
+  email : regensburger@mathematik.uni-kassel.de
+  student : 
   org : University of Kassel
   country : Germany
   homepage : http://gregensburger.com/	
@@ -1570,6 +1571,19 @@
   country : Italy
   homepage : 
   student : yes
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 122
+  first_name : Simone	
+  last_name : Pesatori
+  email : simone.pesatori@uniroma3.it
+  org : Università degli Studi Roma Tre
+  country : Italy
+  homepage : 
+  student :
   speaker : 
   role : 
   session : 
