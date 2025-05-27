@@ -168,6 +168,19 @@
   session : 
   fee : paid
 
+- id: 15 
+  first_name : Lihong	
+  last_name : Zhi
+  email : lzhi@mmrc.iss.ac.cn
+  org : Academy of Mathematics and Systems Science
+  country : China
+  homepage : http://www.mmrc.iss.ac.cn/~lzhi
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
 - id: 16 
   first_name : Alev	
   last_name : Topuzoglu
@@ -454,6 +467,19 @@
   session : 
   fee: paid
 
+- id: 50
+  first_name : Yi						 						 	
+  last_name : Zhang
+  email : Yi.Zhang03@xjtlu.edu.cn
+  org : Xi'an Jiaotong-Liverpool University
+  country : China
+  homepage : https://yzhang1616.github.io/	
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
 - id: 51
   first_name : Mariya						 						 	
   last_name : Dzhumalieva-Stoeva
@@ -492,7 +518,7 @@
   role : 
   session : 
   fee : paid
- 
+
 - id: 57
   first_name : Koji 					 						 	
   last_name : Nishiura
@@ -858,19 +884,58 @@
   role : 
   session : 
   fee: paid
-  
-- id: 15 
-  first_name : Lihong	
-  last_name : Zhi
-  email : lzhi@mmrc.iss.ac.cn
-  org : Academy of Mathematics and Systems Science
-  country : China
-  homepage : http://www.mmrc.iss.ac.cn/~lzhi
+
+- id: 112
+  first_name : Barbara
+  last_name : Betti
+  email : barbara.betti@mis.mpg.de
+  org : Max Planck Institute MiS Leipzig
+  country : Germany
+  homepage : https://sites.google.com/view/barbarabetti/home
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 115
+  first_name : Antonio	
+  last_name : Jiménez-Pastor
+  email : antonio.jimenezp@upm.es
+  org : Universidad Politécnica de Madrid
+  country : Spain
+  homepage : https://github.com/Antonio-JP
   student : 
   speaker : 
   role : 
   session : 
-  fee : 
+  fee: paid
+
+- id: 117
+  first_name : Long	
+  last_name : Qian
+  email : longq@andrew.cmu.edu
+  org : Carnegie Mellon University	
+  country : USA
+  homepage : https://longqianql.github.io/
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 120
+  first_name : Alexandre	
+  last_name : Guillemot
+  email : alexandre.guillemot@inria.fr
+  org : Inria Saclay
+  country : France
+  homepage : https://alexandre-guillemot.github.io/
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
 
 - id: 26
   first_name : Jack	 						 	
@@ -1040,19 +1105,6 @@
   role : 
   session : 
   fee: 
-
-- id: 50
-  first_name : Yi						 						 	
-  last_name : Zhang
-  email : Yi.Zhang03@xjtlu.edu.cn
-  org : Xi'an Jiaotong-Liverpool University
-  country : China
-  homepage : https://yzhang1616.github.io/	
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee : 
 
 - id: 52
   first_name : Margherita						 						 	
@@ -1278,7 +1330,7 @@
 - id: 80
   first_name : Georg
   last_name :  Regensburger
-  email : regensburger@mathematik.uni-kassel.de
+  email : regensburger@mathematik.uni-kassel.destudent : y
   org : University of Kassel
   country : Germany
   homepage : http://gregensburger.com/	
@@ -1432,4 +1484,93 @@
   session : 
   fee: 
 
- 
+- id: 111
+  first_name : Tefjol
+  last_name : Pllaha
+  email : tpllaha@usf.edu
+  org : University of South Florida
+  country : USA
+  homepage : https://pllahat.github.io/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 113
+  first_name : Rocco
+  last_name : Trombetti
+  email : rocco.trombetti@unina.it
+  org : Università degli Studi di Napoli Federico II
+  country : Italy
+  homepage : https://www.docenti.unina.it/#!/professor/524f43434f54524f4d424554544954524d52434337354c31314239363346/curriculum
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 114
+  first_name : Dinushi
+  last_name : Munasinghe
+  email : dinushi.y.m@gmail.com
+  org : National and Kapodistrian University of Athens
+  country : Greece
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 116
+  first_name : Arnaud	
+  last_name : Minondo
+  email : arnaud.minondo@lix.polytechnique.fr
+  org : CNRS, LIX, 	
+  country : France
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee:  
+
+- id: 118
+  first_name : Florent	
+  last_name : Corniquel
+  email : florent.corniquel@imj-prg.fr
+  org : orbonne University and INRIA Paris
+  country : France
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee:  
+ 		
+- id: 119
+  first_name : Nicola	
+  last_name : Vassena
+  email : nicola.vassena@uni-leipzig.de
+  org : Leipzig University
+  country : Germany
+  homepage : https://nvassena.github.io
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee:  
+
+- id: 121
+  first_name : Elena	
+  last_name : Sammarco
+  email : elena.sammarco@uniroma3.it
+  org : Università degli studi Roma Tre
+  country : Italy
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee:
