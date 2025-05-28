@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% assign talks = site.data.talks | sort: 'id' | where_exp: "item", "item.session==page.id"  %}
 
+{% assign talks = site.data.talks | sort: 'id' | where_exp: "item", "item.session==page.id"  %}
 
 
 
@@ -33,7 +33,7 @@ layout: default
   <tbody>
     {% for talk in talks %}  
       <tr>
-        <td style="text-align: left">{{ talk }}</td>
+        <td style="text-align: left">{{ talk.speaker }} 1d</td>
       </tr>
     {% endfor %}
   </tbody>

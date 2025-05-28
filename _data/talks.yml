@@ -96,9 +96,345 @@
   session : 2
   abstract :
 
+- id : 15
+  title : "Secular perturbations in the four-body system with anisotropically varying masses"
+  speaker : 30
+  authors :
+  session : 5
+  abstract :
 
+- id : 15
+  title : "Studying the secular perturbations in the three-planetary four-body problem with isotropically varying masses"
+  speaker : 30
+  authors :
+  session : 5
+  abstract :
 
+- id : 15
+  title : "Symbolic computations in studying the stability of nonlinear oscillations of the mathematical pendulum"
+  speaker : 10
+  authors :
+  session : 5
+  abstract :
 
+- id : 15
+  title : "Oscillation analysis of a bifilar pendulum with Mathematica"
+  speaker : 48
+  authors :
+  session : 5
+  abstract :
 
+- id : 15
+  title : "Kinematics of a point-like charged particle under the influence of electric fields of unusually charged washers"
+  speaker : 48
+  authors :
+  session : 5
+  abstract :
+
+- id : 15
+  title : "Convergence order in trajectory estimation with piecewise Bezier cubic curves based on reduced data"
+  speaker : 28
+  authors :
+  session : 5
+  abstract :
+
+- id : 15
+  title : "Possible ordering of mode, median, and mean in unimodal distributions"
+  speaker : 106
+  authors :
+  session : 5
+  abstract :
+
+- id : 15
+  title : "Classification of universal decision elements using computer algebra system"
+  speaker : 106
+  authors :
+  session : 5
+  abstract :
+
+- id : 15
+  title : "An attempt to create teaching materials for the Brachistochrone curve using Alberrite and TeTLTS"
+  speaker : 59
+  authors :
+  session : 5
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 47
+  authors :
+  session : 8
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 
+  authors :
+  session : 8
+  abstract :
+
+- id : 15
+  title : "Arithmetic and guessing of D-algebraic sequences"
+  speaker : 109
+  authors :
+  session : 8
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 80
+  authors :
+  session : 8
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 36
+  authors :
+  session : 8
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 27
+  authors :
+  session : 8
+  abstract :
+
+- id : 15
+  title : "Non-commutative D-finite & D-algebraic power series and formal languages"
+  speaker : 96
+  authors :
+  session : 8
+  abstract :
+
+- id : 15
+  title : "Improving convex-dense bivariate factorization"
+  speaker : 14
+  authors :
+  session : 9
+  abstract :
+
+- id : 15
+  title : "Constructing nonspecial divisors in the moduli space of cubic fourfolds"
+  speaker : 121
+  authors :
+  session : 9
+  abstract :
+
+- id : 15
+  title : "The moduli space of rational elliptic surfaces"
+  speaker : 122
+  authors :
+  session : 9
+  abstract :
+
+- id : 15
+  title : "Computational Generation of Zariski Pairs in Conic-Line Arrangements"
+  speaker : 25
+  authors :
+  session : 9
+  abstract :
+
+- id : 15
+  title : "Homogenous Instanton Bundles on Grassmannians"
+  speaker : 77
+  authors :
+  session : 9
+  abstract :
+
+- id : 15
+  title : "Khovanskii bases in computer algebra"
+  speaker : 112
+  authors :
+  session : 9
+  abstract :
+
+- id : 15
+  title : "On the shape of Betti diagrams of edge ideals"
+  speaker : 44
+  authors :
+  session : 9
+  abstract :
+
+- id : 15
+  title : "Computational Classification and Generation of Algebraic Surfaces and Curves via Algorithms"
+  speaker : 21
+  authors :
+  session : 9
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 27
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 115
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 41
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 40
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 81
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 89
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 83
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 84
+  authors :
+  session : 10
+  abstract :
  
+- id : 15
+  title : ""
+  speaker : 99
+  authors :
+  session : 10
+  abstract :
 
+- id : 15
+  title : ""
+  speaker : 24
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 87
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 109
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 64
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 50
+  authors :
+  session : 10
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 65
+  authors :
+  session : 14
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 22
+  authors :
+  session : 14
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 16
+  authors :
+  session : 14
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 95
+  authors :
+  session : 14
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 69
+  authors :
+  session : 14
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 2
+  authors :
+  session : 14
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 103
+  authors :
+  session : 14
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 110
+  authors :
+  session : 15
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 120
+  authors :
+  session : 15
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 65
+  authors :
+  session : 15
+  abstract :
+
+- id : 15
+  title : ""
+  speaker : 
+  authors :
+  session : 15
+  abstract :
