@@ -880,7 +880,7 @@
   country : UK
   homepage : 
   student : 
-  speaker : 
+  speaker : Betti
   role : 
   session : 
   fee: paid
@@ -1051,7 +1051,7 @@
   student : 
   speaker : 
   role : 
-  session : 
+  session : Betti
   fee: 
  
 - id: 39
@@ -1548,7 +1548,7 @@
   role : 
   session : 
   fee:  
- 		
+
 - id: 119
   first_name : Nicola	
   last_name : Vassena
