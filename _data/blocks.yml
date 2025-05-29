@@ -37,6 +37,8 @@
   room: A
   chair: TBD    
   slots: 4
+  session : 1
+  talks : [1,2,3]
 
 - id: 6
   day : 1
