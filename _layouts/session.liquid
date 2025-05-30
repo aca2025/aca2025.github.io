@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign blocks = site.data.blocks | where_exp: "item", 'page.AA in item.session'  %}
 
 {% assign talks = site.data.talks | sort: 'id' | where_exp: "item", "item.session==page.id"  %}
 
