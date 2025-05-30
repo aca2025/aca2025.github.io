@@ -857,6 +857,19 @@
   session : 
   fee: paid
 
+- id: 94
+  first_name : Sasaki	
+  last_name : Tateaki
+  email : stateaki@gmail.com
+  org : University of Tsukuba
+  country : Japan
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: onsite
+
 - id: 95
   first_name : John	
   last_name : Sheekey
@@ -870,7 +883,6 @@
   session : 
   fee: paid
 
-
 - id: 97
   first_name : Buket
   last_name : Özkaya
@@ -883,7 +895,6 @@
   role : 
   session : 
   fee: paid
- 
 
 - id: 98
   first_name : Burcu
@@ -1535,20 +1546,6 @@
   role : 
   session : 
   fee: 
-
-- id: 94
-  first_name : Sasaki	
-  last_name : Tateaki
-  email : stateaki@gmail.com
-  org : University of Tsukuba
-  country : Japan
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: onsite
-
 
 - id: 96
   first_name : Robert	

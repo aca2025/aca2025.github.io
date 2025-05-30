@@ -1,39 +1,39 @@
 - id: 1
   day : Monday
-  start : 12:00
-  end : 13:00
+  start : '12:00'
+  end : '13:00'
   room: A
   chair: TBD    
   slots: 1
 
 - id: 2
   day : Tuesday
-  start : 12:00
-  end : 13:00
+  start : '12:00'
+  end : '13:00'
   room: A
   chair: TBD    
   slots: 1
 
 - id: 3
   day : Thursday
-  start : 12:00
-  end : 13:00
+  start : '12:00'
+  end : '13:00'
   room: A
   chair: TBD    
   slots: 1
 
 - id: 4
   day : Friday
-  start : 12:00
-  end : 13:00
+  start : '12:00'
+  end : '13:00'
   room: A
   chair: TBD    
   slots: 1
 
 - id: 5
   day : Monday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: A
   chair: TBD    
   slots: 4
@@ -42,47 +42,47 @@
 
 - id: 6
   day : Monday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: B
   chair: TBD    
   slots: 4
 
 - id: 7
   day : Monday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: C
   chair: TBD     
   slots: 4
 
 - id: 8
   day : Monday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: A
   chair: TBD    
   slots: 3
 
 - id: 9
   day : Monday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: B
   chair: TBD    
   slots: 3
 
 - id: 10
   day : Monday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: C
   chair: TBD       
   slots: 3
 
 - id: 11
   day : Monday
-  start : 16:30
+  start : '16:30'
   end : 18:30
   room: A
   chair: TBD    
@@ -90,71 +90,71 @@
 
 - id: 12
   day : Monday
-  start : 16:30
-  end : 18:00
+  start : '16:30'
+  end : '18:00'
   room: B
   chair: TBD    
   slots: 4
 
 - id: 13
   day : Monday
-  start : 16:30
-  end : 18:00
+  start : '16:30'
+  end : '18:00'
   room: C
   chair: TBD       
   slots: 4
 
 - id: 14
   day : Tuesday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: A
   chair: TBD    
   slots: 4
 
 - id: 15
   day : Tuesday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: B
   chair: TBD    
   slots: 4
 
 - id: 16
   day : Tuesday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: C
   chair: TBD     
   slots: 4
 
 - id: 17
   day : Tuesday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: A
   chair: TBD    
   slots: 3
 
 - id: 18
   day : Tuesday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: B
   chair: TBD    
   slots: 3
 
 - id: 19
   day : Tuesday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: C
   chair: TBD       
   slots: 3
 
 - id: 20
   day : Tuesday
-  start : 16:30
+  start : '16:30'
   end : 18:30
   room: A
   chair: TBD    
@@ -162,95 +162,95 @@
 
 - id: 21
   day : Tuesday
-  start : 16:30
-  end : 18:00
+  start : '16:30'
+  end : '18:00'
   room: B
   chair: TBD    
   slots: 4
 
 - id: 22
   day : Tuesday
-  start : 16:30
-  end : 18:00
+  start : '16:30'
+  end : '18:00'
   room: C
   chair: TBD       
   slots: 4
   
 - id: 23
   day : Wednesday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: A
   chair: TBD    
   slots: 4
 
 - id: 24
   day : Wednesday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: B
   chair: TBD    
   slots: 4
 
 - id: 25
   day : Wednesday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: C
   chair: TBD     
   slots: 4
 
 - id: 26
   day : Thursday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: A
   chair: TBD    
   slots: 4
 
 - id: 27
   day : Thursday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: B
   chair: TBD    
   slots: 4
 
 - id: 28
   day : Thursday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: C
   chair: TBD     
   slots: 4
 
 - id: 29
   day : Thursday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: A
   chair: TBD    
   slots: 3
 
 - id: 30
   day : Thursday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: B
   chair: TBD    
   slots: 3
 
 - id: 31
   day : Thursday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: C
   chair: TBD       
   slots: 3
 
 - id: 32
   day : Thursday
-  start : 16:30
+  start : '16:30'
   end : 18:30
   room: A
   chair: TBD    
@@ -258,71 +258,71 @@
 
 - id: 33
   day : Thursday
-  start : 16:30
-  end : 18:00
+  start : '16:30'
+  end : '18:00'
   room: B
   chair: TBD    
   slots: 4
 
 - id: 34
   day : Thursday
-  start : 16:30
-  end : 18:00
+  start : '16:30'
+  end : '18:00'
   room: C
   chair: TBD    
   slots: 4
 
 - id: 35
   day : Friday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: A
   chair: TBD    
   slots: 4
 
 - id: 36
   day : Friday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: B
   chair: TBD    
   slots: 4
 
 - id: 37
   day : Friday
-  start : 9:30
-  end : 11:30
+  start : '9:30'
+  end : '11:30'
   room: C
   chair: TBD     
   slots: 4
 
 - id: 38
   day : Friday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: A
   chair: TBD    
   slots: 3
 
 - id: 39
   day : Friday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: B
   chair: TBD    
   slots: 3
 
 - id: 40
   day : Friday
-  start : 14:30
-  end : 16:00
+  start : '14:30'
+  end : '16:00'
   room: C
   chair: TBD       
   slots: 3
 
 - id: 41
   day : Friday
-  start : 16:30
+  start : '16:30'
   end : 18:30
   room: A
   chair: TBD    
@@ -330,16 +330,16 @@
 
 - id: 42
   day : Friday
-  start : 16:30
-  end : 18:00
+  start : '16:30'
+  end : '18:00'
   room: B
   chair: TBD    
   slots: 4
 
 - id: 43
   day : Friday
-  start : 16:30
-  end : 18:00
+  start : '16:30'
+  end : '18:00'
   room: C
   chair: TBD    
   slots: 4
