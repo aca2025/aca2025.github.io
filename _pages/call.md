@@ -3,7 +3,7 @@ layout: page
 title: Call for Sessions
 permalink: call
 nav_order: 2
-nav: true
+nav: false
 ---
 
 The ACA conference series is devoted to promoting all aspects of computer algebra applications, encouraging the interaction of developers of computer algebra systems with researchers and users (including scientists, engineers, educators, mathematicians and practitioners). Topics include, but are not limited to, computer algebra in the sciences, engineering, medicine, pure and applied mathematics, cryptology, education, and computer science.
