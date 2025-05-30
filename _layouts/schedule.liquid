@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+ {% assign monday = site.data.blocks | sort: 'id' | where_exp: "item", "item.day=='Monday'"  %}
+
+
+<table class="table table-striped">
+  <tbody>
+    {% for block in monday %}  
+        {% for talkid in block.talks %}      
+          <tr>
+             {% assign talk = site.data.talks |  where_exp: "item", "item.id==talkid"  %}
+             <td style="text-align: left">{{ block.day }} {{ block.start }}-{{ block.end }} in room {{ block.room }}: {{ talk.title }} - - {{ talk.speaker }} </td>
+          </tr>
+        {% endfor %}
+     {% endfor %}
+
+
+  </tbody>
+</table>

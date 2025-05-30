@@ -7,7 +7,7 @@
   slots: 1
 
 - id: 2
-  day : 3
+  day : Tuesday
   start : 12:00
   end : 13:00
   room: A
@@ -15,7 +15,7 @@
   slots: 1
 
 - id: 3
-  day : 4
+  day : Thursday
   start : 12:00
   end : 13:00
   room: A
@@ -23,7 +23,7 @@
   slots: 1
 
 - id: 4
-  day : 5
+  day : Friday
   start : 12:00
   end : 13:00
   room: A
