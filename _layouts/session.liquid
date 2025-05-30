@@ -7,7 +7,7 @@ layout: default
 
 {% assign speakers = "" | split: ',' %}
 {% for talk in talks %}  
-    {% assign speaker = site.data.participants |  where_exp: "item", "item.id==talk.speaker"  %}
+    {% assign speaker = site.data.participants |  where_exp: "item", 'item.id==talk.speaker'"  %}
     {% assign speakers = speakers | push: speaker %}
 {% endfor %}
 
