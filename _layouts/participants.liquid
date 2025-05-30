@@ -11,9 +11,11 @@ layout: default
 
 <table class="table table-striped">
   <tbody>
+    {% assign cou = 0 %}   
     {% for participant in sorted_participants %}   
+      {% assign cou = cou +1 %}   
       <tr>
-          <td style="text-align: left"><strong><a href="{{ participant.homepage }}">{{ participant.first_name }} {{ participant.last_name }} - {{ participant.org }} ({{ participant.country }})</a></strong></td>
+          <td style="text-align: left"><strong><a href="{{ participant.homepage }}">{{ cou }}. {{ participant.first_name }} {{ participant.last_name }} - {{ participant.org }} ({{ participant.country }})</a></strong></td>
         </tr>
       
     {% endfor %}
