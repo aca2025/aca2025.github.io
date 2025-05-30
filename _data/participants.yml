@@ -305,7 +305,7 @@
   org : Technion - Israel Institute of Technology	
   country : Israel
   homepage :  
-  student : 
+  student : yes
   speaker : 
   role : 
   session : 
@@ -336,6 +336,19 @@
   role : 
   session : 
   fee : paid
+
+- id: 32
+  first_name : Thierry Noah					 						 	
+  last_name : Dana-Picard	
+  email : ndp@jct.ac.il	
+  org : 	Jerusalem College of Technology
+  country : Israel
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
 
 - id: 33
   first_name : Yang					 						 	
@@ -571,6 +584,19 @@
   session : 
   fee : paid
 
+- id: 61
+  first_name : Chieko 					 						 	
+  last_name :  Komoda
+  email : 	komoda@kurume-nct.ac.jp
+  org : National Institute of Technology, Kurume College
+  country : Japan
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
 - id: 62
   first_name : Tülay 					 						 	
   last_name :  Ayyıldız
@@ -636,6 +662,58 @@
   session : 
   fee : paid
 
+- id: 71
+  first_name : Peter
+  last_name : Boyvalenkov
+  email : peter@math.bas.bg
+  org : Institute of Mathematics and Informatics, Bulgarian Academy of Sciences
+  country : Bulgaria
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 72
+  first_name : Eli
+  last_name : Bagno
+  email : bagnoe@gmail.com
+  org : Jerusalem college of Technology	
+  country : Israel
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 75
+  first_name : Stefka
+  last_name : Bouyuklieva
+  email : stefka@ts.uni-vt.bg
+  org : St. Cyril and St. Methodius University of Veliko Tarnovo	
+  country : Bulgaria
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 77
+  first_name : Özhan
+  last_name : Genç
+  email : ozhangenc@gmail.com
+  org : Jagiellonian University
+  country : Poland
+  homepage : https://sites.google.com/view/ozhangenc/home	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 78
   first_name : Elisa
   last_name : Junghans
@@ -661,6 +739,19 @@
   role : 
   session : 
   fee : paid
+
+- id: 82
+  first_name : Stela
+  last_name : Zhelezova
+  email : stzhelezova@gmail.com	
+  org : 	Institute of Mathematics and Informatics, BAS
+  country : Bulgaria	
+  homepage : http://www.moi.math.bas.bg/moiuser/~stela/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
 
 - id: 84
   first_name : Hadrien
@@ -700,6 +791,19 @@
   role : 
   session : 
   fee : paid
+
+- id: 87
+  first_name : Tobias
+  last_name : Metzlaff
+  email : math@tobiasmetzlaff.com	
+  org : 	LAAS-CNRS		
+  country : France
+  homepage : https://tobiasmetzlaff.com/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
 
 - id: 91
   first_name : Volodymyr 
@@ -885,6 +989,19 @@
   session : 
   fee: paid
 
+- id: 111
+  first_name : Tefjol
+  last_name : Pllaha
+  email : tpllaha@usf.edu
+  org : University of South Florida
+  country : USA
+  homepage : https://pllahat.github.io/	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 112
   first_name : Barbara
   last_name : Betti
@@ -893,6 +1010,19 @@
   country : Germany
   homepage : https://sites.google.com/view/barbarabetti/home
   student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 113
+  first_name : Rocco
+  last_name : Trombetti
+  email : rocco.trombetti@unina.it
+  org : Università degli Studi di Napoli Federico II
+  country : Italy
+  homepage : https://www.docenti.unina.it/#!/professor/524f43434f54524f4d424554544954524d52434337354c31314239363346/curriculum
+  student : 
   speaker : 
   role : 
   session : 
@@ -932,6 +1062,97 @@
   country : France
   homepage : https://alexandre-guillemot.github.io/
   student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 123
+  first_name : Fredrik
+  last_name : Johansson
+  email : fredrik.johansson@inria.fr
+  org : Inria Bordeaux
+  country : France
+  homepage : https://fredrikj.net
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 127
+  first_name : Olivier
+  last_name : Bouillot
+  email : olivier.bouillot@univ-eiffel.fr
+  org : Gustave Eiffel University
+  country : France
+  homepage : http://igm.univ-mlv.fr/~bouillot/?lang=en
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 128
+  first_name : Grégoire
+  last_name : Lecerf
+  email : gregoire.lecerf@lix.polytechnique.fr
+  org : CNRS & École polytechnique
+  country : France
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 131
+  first_name : Ramonika
+  last_name : Sengupta
+  email : r.sengupta@tue.nl
+  org : Eindhoven University of Technology
+  country : The Netherlands
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 133
+  first_name : Matthias
+  last_name : Orth
+  email : matthias.orth@kuleuven.be
+  org : KU Leuven
+  country : Belgium
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 136
+  first_name : Lucia
+  last_name : Moura
+  email : lmoura@uottawa.ca
+  org : University of Ottawa
+  country : Canada
+  homepage : https://www.site.uottawa.ca/~lucia/
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 138
+  first_name : Cem
+  last_name : Güneri
+  email : cem.guneri@sabanciuniv.edu
+  org : Sabancı University
+  country : Türkiye
+  homepage : https://people.sabanciuniv.edu/guneri/
+  student :
   speaker : 
   role : 
   session : 
@@ -988,19 +1209,6 @@
   role : 
   session : 
   fee : 
-
-- id: 32
-  first_name : Thierry Noah					 						 	
-  last_name : Dana-Picard	
-  email : ndp@jct.ac.il	
-  org : 	Jerusalem College of Technology
-  country : Israel
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
  
 - id: 35
   first_name : Joseph					 						 	
@@ -1158,19 +1366,6 @@
   session : 
   fee : 
 
-- id: 61
-  first_name : Chieko 					 						 	
-  last_name :  Komoda
-  email : 	komoda@kurume-nct.ac.jp
-  org : National Institute of Technology, Kurume College
-  country : Japan
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee : 
-
 - id: 65
   first_name : Qiang (Steven)
   last_name : Wang
@@ -1223,32 +1418,6 @@
   session : 
   fee: 
 
-- id: 71
-  first_name : Peter
-  last_name : Boyvalenkov
-  email : peter@math.bas.bg
-  org : Institute of Mathematics and Informatics, Bulgarian Academy of Sciences
-  country : Bulgaria
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
-- id: 72
-  first_name : Eli
-  last_name : Bagno
-  email : bagnoe@gmail.com
-  org : Jerusalem college of Technology	
-  country : Israel
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 73
   first_name : Jianqiang
   last_name : Zhao
@@ -1275,19 +1444,6 @@
   session : 
   fee : 
 
-- id: 75
-  first_name : Stefka
-  last_name : Bouyuklieva
-  email : stefka@ts.uni-vt.bg
-  org : St. Cyril and St. Methodius University of Veliko Tarnovo	
-  country : Bulgaria
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 76
   first_name : Iliya
   last_name : Bouyukliev
@@ -1301,18 +1457,6 @@
   session : 
   fee: 
 
-- id: 77
-  first_name : Özhan
-  last_name : Genç
-  email : ozhangenc@gmail.com
-  org : Jagiellonian University
-  country : Poland
-  homepage : https://sites.google.com/view/ozhangenc/home	
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
 
 - id: 79
   first_name : Joao
@@ -1340,19 +1484,6 @@
   session : 
   fee: 
 
-- id: 82
-  first_name : Stela
-  last_name : Zhelezova
-  email : stzhelezova@gmail.com	
-  org : 	Institute of Mathematics and Informatics, BAS
-  country : Bulgaria	
-  homepage : http://www.moi.math.bas.bg/moiuser/~stela/
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 83
   first_name : Manfred
   last_name : Buchacher
@@ -1360,19 +1491,6 @@
   org : 	Johannes Kepler Universität Linz	
   country : Austria
   homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
-- id: 87
-  first_name : Tobias
-  last_name : Metzlaff
-  email : math@tobiasmetzlaff.com	
-  org : 	LAAS-CNRS		
-  country : France
-  homepage : https://tobiasmetzlaff.com/	
   student : 
   speaker : 
   role : 
@@ -1484,32 +1602,6 @@
   session : 
   fee: 
 
-- id: 111
-  first_name : Tefjol
-  last_name : Pllaha
-  email : tpllaha@usf.edu
-  org : University of South Florida
-  country : USA
-  homepage : https://pllahat.github.io/	
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
-- id: 113
-  first_name : Rocco
-  last_name : Trombetti
-  email : rocco.trombetti@unina.it
-  org : Università degli Studi di Napoli Federico II
-  country : Italy
-  homepage : https://www.docenti.unina.it/#!/professor/524f43434f54524f4d424554544954524d52434337354c31314239363346/curriculum
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 114
   first_name : Dinushi
   last_name : Munasinghe
@@ -1580,6 +1672,121 @@
   last_name : Pesatori
   email : simone.pesatori@uniroma3.it
   org : Università degli Studi Roma Tre
+  country : Italy
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 124
+  first_name : Bart
+  last_name : De Bruyn
+  email : bart.debruyn@UGent.be	
+  org : Ghent University
+  country : Begium
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 125
+  first_name : Andrzej
+  last_name : Mizera
+  email : amizera@mimuw.edu.pl
+  org : University of Warsaw; IDEAS Research Institute
+  country : Poland
+  homepage : https://www.mimuw.edu.pl/~amizera/
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 126
+  first_name : Cristina
+  last_name : Fernández-Córdoba 
+  email : cristina.fernandez@uab.cat
+  org : Universitat Autònoma de Barcelona
+  country : Spain
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 129
+  first_name : Ali K.
+  last_name : Uncu
+  email : aku21@bath.ac.uk
+  org : University of Bath
+  country : United Kingdom
+  homepage : www.akuncu.com	
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 130
+  first_name : Vincel
+  last_name : Hoang Ngoc Minh
+  email : vincel.hoang-ngoc-minh@univ-lille.fr
+  org : University of Lille
+  country : France
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 132
+  first_name : Wen-shin
+  last_name : Lee
+  email : wen-shin.lee@stir.ac.uk
+  org : University of Stirling
+  country : United Kingdom
+  homepage : https://www.cs.stir.ac.uk/~wsl/
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 134
+  first_name : Yota
+  last_name : Maeda
+  email : y.maeda.math@gmail.com
+  org : TU Darmstadt/Tohoku University
+  country : Germany/Japan
+  homepage : https://yota-maeda.vercel.app/
+  student :Ramonika
+  session : 
+  fee:
+
+- id: 137
+  first_name : Annie
+  last_name : Cuyt
+  email : annie.cuyt@uantwerpen.be
+  org : University of Stirling and University of Antwerp
+  country : United Kingdom and Belgium
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 135
+  first_name : Valentina
+  last_name : Pepe
+  email : valentina.pepe@uniroma1.it
+  org : Sapienza University of Rome
   country : Italy
   homepage : 
   student :
