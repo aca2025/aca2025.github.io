@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-{% assign blocks = site.data.blocks | where_exp: "item", 'page.AA in item.session'  %}
 
 {% assign talks = site.data.talks | sort: 'id' | where_exp: "item", "item.session==page.id"  %}
 
 
+{% assign blocks = site.data.blocks | where_exp: "item", 'item.session contains page.AA'  %}
 
 <h2>SS{{ page.AA }} - {{  page.title }}</h2>
 <h3> link to the <a href="{{ page.webpage}}">session's webpage</a></h3> 
