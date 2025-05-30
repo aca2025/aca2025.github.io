@@ -32,11 +32,14 @@ layout: default
 <h3>Timetable</h3>
 <table class="table table-striped">
   <tbody>
-    {% for talk in talks %}  
-      <tr>
-        <td style="text-align: left">{{ talk.speaker }} 1d</td>
-      </tr>
-    {% endfor %}
+    {% for block in blocks %}  
+        {% for talkid in block.talks %} 
+          <tr>
+             {% assign talk = site.data.talks |  where_exp: "item", "item.id==talkid"  %}
+             <td style="text-align: left">{{ block.day }} {{ block.start }}-{{ block.end }} in room {{ block.room }}: {{ talk.title }} - - {{ talk.speaker }} </td>
+          </tr>
+        {% endfor %}
+     {% endfor %}
   </tbody>
 </table>
  
