@@ -5,13 +5,6 @@ layout: default
 {% assign blocks = site.data.blocks | sort: 'id' | where_exp: "item", "page.AA in item.session"  %}
 {% assign talks = site.data.talks | sort: 'id' | where_exp: "item", "item.session==page.AA"  %}
 
-{% assign speakers = "" | split: ',' %}
-{% for talk in talks %}  
-    {% assign speaker = site.data.participants |  where_exp: "item", "item.id==talk.speaker"  %}
-    {% assign speakers = speakers | push: speaker %}
-{% endfor %}
-
-{{ speakers }}
 
 <h2>SS{{ page.AA }} - {{  page.title }}</h2>
 <h3> link to the <a href="{{ page.webpage}}">session's webpage</a></h3> 
@@ -49,16 +42,5 @@ layout: default
   </tbody>
 </table>
 
- 
-<h3>Speakers</h3>
-<table class="table table-striped">
-  <tbody>
-    {% for speaker in page.speakers %}  
-      <tr>
-        <td style="text-align: left"><strong><a href="{{ speaker.homepage }}">{{ speaker.first_name }} {{ speaker.last_name }}</a></strong> ({{ speaker.org }})</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
- 
+
  
