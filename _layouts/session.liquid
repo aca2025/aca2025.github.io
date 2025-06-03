@@ -37,6 +37,7 @@ layout: default
           <tr>
             {{ talkid }}
              {% assign talk = site.data.talks |  where_exp: "item", "item.id==talkid"  %}
+             {{ talκ }}
              <td style="text-align: left">{{ block.day }} {{ block.start }}-{{ block.end }} in room {{ block.room }}: {{ talk.title }} - - {{ talk.speaker }} </td>
           </tr>
         {% endfor %}
