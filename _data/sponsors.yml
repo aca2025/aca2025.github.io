@@ -7,3 +7,6 @@
 - name: CARGO lab
   homepage: "https://cargo.wlu.ca/"
   picture: "../assets/sponsors/cargo.jpg"
+- name: MapleSoft
+  homepage: "https://www.maplesoft.com/"
+  picture: "../assets/sponsors/MapleSoft.jpg"
