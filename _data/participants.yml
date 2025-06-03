@@ -532,18 +532,18 @@
   session : 
   fee : paid
 
-- id: 54
-  first_name : William						 						 	
-  last_name :  Bauldry
-  email : bauldrywc@gmail.com
-  org : ASU
-  country : USA
+- id: 55
+  first_name : Ahmet Melih					 						 	
+  last_name : Gül
+  email : a.gul2025@gtu.edu.tr
+  org : Gebze Technical University
+  country : Turkey
   homepage : 
   student : 
   speaker : 
   role : 
   session : 
-  fee : paid
+  fee : waived
 
 - id: 57
   first_name : Koji 					 						 	
@@ -604,7 +604,7 @@
   org : National Institute of Technology, Kurume College
   country : Japan
   homepage : 
-  student : 
+  student : yes
   speaker : 
   role : 
   session : 
@@ -674,6 +674,19 @@
   role : 
   session : 
   fee : paid
+
+- id: 70
+  first_name : Steven
+  last_name : Charlton
+  email : charlton@mpim-bonn.mpg.de
+  org : Max Planck Institute for Mathematics, Bonn
+  country : Germany
+  homepage : https://guests.mpim-bonn.mpg.de/spc/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
 
 - id: 71
   first_name : Peter
@@ -1091,6 +1104,32 @@
   session : 
   fee: paid
 
+- id: 121
+  first_name : Elena	
+  last_name : Sammarco
+  email : elena.sammarco@uniroma3.it
+  org : Università degli studi Roma Tre
+  country : Italy
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: waived
+
+- id: 122
+  first_name : Simone	
+  last_name : Pesatori
+  email : simone.pesatori@uniroma3.it
+  org : Università degli Studi Roma Tre
+  country : Italy
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: waived
+
 - id: 123
   first_name : Fredrik
   last_name : Johansson
@@ -1124,6 +1163,19 @@
   org : CNRS & École polytechnique
   country : France
   homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 129
+  first_name : Ali K.
+  last_name : Uncu
+  email : aku21@bath.ac.uk
+  org : University of Bath
+  country : United Kingdom
+  homepage : www.akuncu.com	
   student :
   speaker : 
   role : 
@@ -1181,6 +1233,71 @@
   role : 
   session : 
   fee: paid
+
+- id: 139
+  first_name : Ilias
+  last_name : Andreou
+  email : iliasandreou95@gmail.com
+  org : NKUA, Department of Mathematics		
+  country : Greece
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: onsite
+
+- id: 140
+  first_name : Kostas
+  last_name : Psaromiligkos
+  email : konstantinos.psaromligkos@uca.fr
+  org : Université Clermont Auvergne
+  country : France
+  homepage : kostaspsa.github.io
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: onsite
+
+- id: 143
+  first_name : Maria
+  last_name : Chlouveraki
+  email : mchlouve@math.uoa.gr
+  org : National and Kapodistrian University of Athens	
+  country : Greece
+  homepage : https://chlouveraki.perso.math.cnrs.fr/
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: onsite
+
+- id: 144
+  first_name : Yuta
+  last_name : Kambe
+  email : yuta.kambe.math@gmail.com
+  org : Mitsubishi Electric	
+  country : Japan
+  homepage : https://researchmap.jp/yuta-kambe-math?lang=en
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 146
+  first_name : William						 						 	
+  last_name :  Bauldry
+  email : bauldrywc@gmail.com
+  org : ASU
+  country : USA
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
 
 - id: 26
   first_name : Jack	 						 	
@@ -1350,19 +1467,6 @@
   role : 
   session : 
   fee : 
-
-- id: 55
-  first_name : Ahmet Melih					 						 	
-  last_name : Gül
-  email : a.gul2025@gtu.edu.tr
-  org : Gebze Technical University
-  country : Turkey
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee : 
  
 - id: 56
   first_name : Mark 					 						 	
@@ -1410,19 +1514,6 @@
   org : Juan Carlos University
   country : Spain
   homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
-- id: 70
-  first_name : Steven
-  last_name : Charlton
-  email : charlton@mpim-bonn.mpg.de
-  org : Max Planck Institute for Mathematics, Bonn
-  country : Germany
-  homepage : https://guests.mpim-bonn.mpg.de/spc/
   student : 
   speaker : 
   role : 
@@ -1651,32 +1742,6 @@
   session : 
   fee:  
 
-- id: 121
-  first_name : Elena	
-  last_name : Sammarco
-  email : elena.sammarco@uniroma3.it
-  org : Università degli studi Roma Tre
-  country : Italy
-  homepage : 
-  student : yes
-  speaker : 
-  role : 
-  session : 
-  fee:
-
-- id: 122
-  first_name : Simone	
-  last_name : Pesatori
-  email : simone.pesatori@uniroma3.it
-  org : Università degli Studi Roma Tre
-  country : Italy
-  homepage : 
-  student :
-  speaker : 
-  role : 
-  session : 
-  fee:
-
 - id: 124
   first_name : Bart
   last_name : De Bruyn
@@ -1710,19 +1775,6 @@
   org : Universitat Autònoma de Barcelona
   country : Spain
   homepage : 
-  student :
-  speaker : 
-  role : 
-  session : 
-  fee:
-
-- id: 129
-  first_name : Ali K.
-  last_name : Uncu
-  email : aku21@bath.ac.uk
-  org : University of Bath
-  country : United Kingdom
-  homepage : www.akuncu.com	
   student :
   speaker : 
   role : 
@@ -1791,3 +1843,42 @@
   role : 
   session : 
   fee:
+
+- id: 141
+  first_name : Van Chien
+  last_name : Bui
+  email : bvchien@hueuni.edu.vn
+  org : University of Sciences, Hue University
+  country : Vietnam
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 142
+  first_name : Christos
+  last_name : Pallikaros
+  email : pallikaros.christos@ucy.ac.cy
+  org : University of Cyprus
+  country : Cyprus
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 145
+  first_name : Francesco
+  last_name : Ghiandoni
+  email : francesco.ghiandoni@unipg.it	
+  org : 	University of Perugia
+  country : Italy
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:	 			 				 				
