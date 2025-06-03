@@ -28,8 +28,8 @@
   first_name: Zafeirakis
   last_name: Zafeirakopoulos
   email: zafeirakopoulos@gmail.com
-  org: "University of Geneva"
-  country: Switzerland
+  org: "University of Athens"
+  country: Greece
   homepage: "https://zafeirakopoulos.github.io"
   student: 
   session: 
@@ -48,7 +48,7 @@
   session: 
   speaker: false
   role: Local Chair
-  fee: waived	
+  fee: waived
 
 - id: 5
   first_name: Gianira Nicoletta
@@ -61,7 +61,7 @@
   session: 
   speaker: invited
   role: Invited Speaker
-  fee: waived	
+  fee: waived
 
 - id: 6
   first_name: Daniel
@@ -74,7 +74,7 @@
   session: 
   speaker: invited
   role: Invited Speaker
-  fee: waived	
+  fee: waived
 
 - id: 7
   first_name: Veronika
@@ -83,7 +83,7 @@
   org: "Johannes Kepler University - RISC"
   country: Austria
   homepage: "https://risc.jku.at/m/veronika-pillwein/"
-  srtudent: 
+  student: 
   session: 
   speaker: invited
   role: Invited Speaker
@@ -101,7 +101,7 @@
   session: 
   speaker: invited
   role: Invited Speaker
-  fee: waived	
+  fee: waived
 
 - id: 10 
   first_name : Alexander
@@ -156,7 +156,7 @@
   fee : paid
 
 - id: 14 
-  first_name : Martin	
+  first_name : Martin
   last_name : Weimann
   email : martin.weimann@unicaen.fr
   org : University Caen Normandy
@@ -169,7 +169,7 @@
   fee : paid
 
 - id: 15 
-  first_name : Lihong	
+  first_name : Lihong
   last_name : Zhi
   email : lzhi@mmrc.iss.ac.cn
   org : Academy of Mathematics and Systems Science
@@ -182,7 +182,7 @@
   fee : paid
 
 - id: 16 
-  first_name : Alev	
+  first_name : Alev
   last_name : Topuzoglu
   email : alev@sabanciuniv.edu
   org : Sabanci University
@@ -195,7 +195,7 @@
   fee : waived
 
 - id: 17
-  first_name : Henning	 	
+  first_name : Henning 
   last_name : Stichtenoth
   email : henning@sabanciuniv.edu
   org : Sabanci University
@@ -208,12 +208,12 @@
   fee : waived
 
 - id: 18
-  first_name : Ilias	 	
+  first_name : Ilias 
   last_name : Kotsireas
   email : ikotsire@gmail.com
-  org : WLU	
+  org : WLU
   country : Canada
-  homepage : www.cargo.wlu.ca	
+  homepage : www.cargo.wlu.ca
   student : 
   speaker : 
   role : 
@@ -221,10 +221,10 @@
   fee : waived
 
 - id: 19
-  first_name : Michael	 	
+  first_name : Michael 
   last_name : Wester
   email : wester@unm.edu
-  org : University of New Mexico	
+  org : University of New Mexico
   country : USA
   homepage : https://math.unm.edu/~wester
   student : 
@@ -234,10 +234,10 @@
   fee : waived
 
 - id: 20
-  first_name : Michel		 	
+  first_name : Michel 
   last_name : Beaudin
   email : michel.beaudin@etsmtl.ca
-  org : École de technologie supérieure	
+  org : École de technologie supérieure
   country : Canada
   homepage : https://cours.etsmtl.ca/seg/mbeaudin/
   student : 
@@ -247,10 +247,10 @@
   fee : paid
 
 - id: 21
-  first_name : Meirav		 	
-  last_name : Amram (Topol)	
+  first_name : Meirav 
+  last_name : Amram (Topol)
   email : meiravt@sce.ac.il
-  org : SCE	
+  org : SCE
   country : Israel
   homepage : https://en.sce.ac.il/faculty/merav-topol
   student : 
@@ -260,10 +260,10 @@
   fee : paid
 
 - id: 22
-  first_name : Irene			 	
+  first_name : Irene 
   last_name : Villa
   email : irene.villa@unitn.it
-  org : University of Trento	
+  org : University of Trento
   country : Italy
   homepage : 
   student : 
@@ -273,7 +273,7 @@
   fee : waived
 
 - id: 23
-  first_name : AmirHosein				 	
+  first_name : AmirHosein 
   last_name : Sadeghimanesh
   email : amirhossein.sadeghimanesh@coventry.ac.uk
   org : Coventry University
@@ -286,12 +286,12 @@
   fee : paid
 
 - id: 24
-  first_name : Alexander					 	
+  first_name : Alexander 
   last_name : Levin
-  email : levin@cua.edu	
-  org : The Catholic University of America	
+  email : levin@cua.edu
+  org : The Catholic University of America
   country : USA
-  homepage : https://sites.google.com/a/cua.edu/levin/	
+  homepage : https://sites.google.com/a/cua.edu/levin/
   student : 
   speaker : 
   role : 
@@ -299,10 +299,10 @@
   fee : paid
 
 - id: 25
-  first_name : Gal 						 	
+  first_name : Gal  
   last_name : Goren
   email : galzivgoren@gmail.com
-  org : Technion - Israel Institute of Technology	
+  org : Technion - Israel Institute of Technology
   country : Israel
   homepage :  
   student : yes
@@ -312,10 +312,10 @@
   fee : paid
 
 - id: 28
-  first_name : Ryszard		 						 	
+  first_name : Ryszard  
   last_name : Kozera
   email : ryszard.kozera@gmail.com
-  org : 	Warsaw University of Life Sciences - SGGW
+  org : Warsaw University of Life Sciences - SGGW
   country : Poland
   homepage : 
   student : 
@@ -325,10 +325,10 @@
   fee : paid
 
 - id: 29
-  first_name : Roberto			 						 	
+  first_name : Roberto  
   last_name : La Scala
   email : robertlascala@gmail.com
-  org : 	Università degli Studi di Bari
+  org : Università degli Studi di Bari
   country : Italy
   homepage : 
   student : 
@@ -338,10 +338,10 @@
   fee : paid
 
 - id: 32
-  first_name : Thierry Noah					 						 	
-  last_name : Dana-Picard	
-  email : ndp@jct.ac.il	
-  org : 	Jerusalem College of Technology
+  first_name : Thierry Noah  
+  last_name : Dana-Picard
+  email : ndp@jct.ac.il
+  org : Jerusalem College of Technology
   country : Israel
   homepage : 
   student : 
@@ -351,7 +351,7 @@
   fee: paid
 
 - id: 33
-  first_name : Yang					 						 	
+  first_name : Yang  
   last_name : Zhang
   email : yang.zhang@umanitoba.ca
   org : University of Manitoba
@@ -364,10 +364,10 @@
   fee : paid
 
 - id: 34
-  first_name : Götz					 						 	
+  first_name : Götz  
   last_name : Pfeiffer
   email : goetz.pfeiffer@universityofgalway.ie
-  org : 	University of Galway
+  org : University of Galway
   country : Ireland
   homepage : 
   student : 
@@ -377,7 +377,7 @@
   fee : paid
 
 - id: 40
-  first_name : Jürgen					 						 	
+  first_name : Jürgen  
   last_name : Gerhard
   email : jgerhard@maplesoft.com
   org : Maplesoft
@@ -390,7 +390,7 @@
   fee : paid
 
 - id: 200
-  first_name : Florian					 						 	
+  first_name : Florian  
   last_name : Fürnsinn
   email : florian.fuernsinn@univie.ac.at
   org : University of Vienna
@@ -403,12 +403,12 @@
   fee : paid
 
 - id: 41
-  first_name : Clemens					 						 	
+  first_name : Clemens  
   last_name : Hofstadler
   email : clemens.hofstadler@jku.at
   org : Johannes Kepler University
   country : Austria
-  homepage : 	https://clemenshofstadler.com/	
+  homepage : https://clemenshofstadler.com/
   student : 
   speaker : 
   role : 
@@ -416,12 +416,12 @@
   fee : paid
 
 - id: 42
-  first_name : Raffaele					 						 	
+  first_name : Raffaele  
   last_name : Vitolo
   email : raffaele.vitolo@unisalento.it
   org : University of Salento
   country : Italy
-  homepage : 	https://poincare.unisalento.it/vitolo/
+  homepage : https://poincare.unisalento.it/vitolo/
   student : 
   speaker : 
   role : 
@@ -429,10 +429,10 @@
   fee: paid
 
 - id: 45
-  first_name : 	Valentino						 						 	
+  first_name : Valentino  
   last_name : Smaldore
   email : valentino.smaldore@unipd.it
-  org : 	Università degli Studi di Padova
+  org : Università degli Studi di Padova
   country : Italy
   homepage :  https://sites.google.com/d/1EYqdUYLW9kBvfCBIWHHYCxftiI-0BP34/p/1_-97gLEDzEPoF8mel99hzTftniYNS7Ot/edit
   student : 
@@ -442,10 +442,10 @@
   fee : paid
  
 - id: 46
-  first_name : 	Stephen						 						 	
+  first_name : Stephen  
   last_name : Watt
   email : smwatt@uwaterloo.ca
-  org : 	University of Waterloo
+  org : University of Waterloo
   country : Canada
   homepage :  https://cs.uwaterloo.ca/~smwatt/
   student : 
@@ -455,10 +455,10 @@
   fee : paid
  
 - id: 47
-  first_name : 	Shachar						 						 	
+  first_name : Shachar  
   last_name : Weinbaum
-  email : shacharwein@gmail.com	
-  org : 	Technion - Israel Institute of Technology
+  email : shacharwein@gmail.com
+  org : Technion - Israel Institute of Technology
   country : Israel
   homepage : https://www.ramanujanmachine.com/
   student : 
@@ -468,10 +468,10 @@
   fee : paid
  
 - id: 48
-  first_name : 	Haiduke						 						 	
+  first_name : Haiduke  
   last_name : Sarafian
   email : has2@psu.edu
-  org : 	Pennsylvania State University
+  org : Pennsylvania State University
   country : USA
   homepage : 
   student : 
@@ -481,7 +481,7 @@
   fee : paid 
 
 - id: 49
-  first_name : 	Daniel						 						 	
+  first_name : Daniel  
   last_name : Robertz
   email : daniel.robertz@rwth-aachen.de
   org : RWTH Aachen University
@@ -494,12 +494,12 @@
   fee: paid
 
 - id: 50
-  first_name : Yi						 						 	
+  first_name : Yi  
   last_name : Zhang
   email : Yi.Zhang03@xjtlu.edu.cn
   org : Xi'an Jiaotong-Liverpool University
   country : China
-  homepage : https://yzhang1616.github.io/	
+  homepage : https://yzhang1616.github.io/
   student : yes
   speaker : 
   role : 
@@ -507,12 +507,12 @@
   fee : paid
 
 - id: 51
-  first_name : Mariya						 						 	
+  first_name : Mariya  
   last_name : Dzhumalieva-Stoeva
   email : m.dzhumalieva@ts.uni-vt.bg
   org : 
   country : Bulgaria
-  homepage : https://orcid.org/0009-0008-2832-9672	
+  homepage : https://orcid.org/0009-0008-2832-9672
   student : 
   speaker : 
   role : 
@@ -520,9 +520,9 @@
   fee : paid
 
 - id: 54
-  first_name : Atsushi						 						 	
+  first_name : Atsushi  
   last_name : Mochizuki
-  email : mochi@infront.kyoto-u.ac.jp	
+  email : mochi@infront.kyoto-u.ac.jp
   org : Institute for Life and Medical Sciences, Kyoto University
   country : Japan
   homepage : https://mathbio.infront.kyoto-u.ac.jp/en/
@@ -533,7 +533,7 @@
   fee : paid
 
 - id: 55
-  first_name : Ahmet Melih					 						 	
+  first_name : Ahmet Melih  
   last_name : Gül
   email : a.gul2025@gtu.edu.tr
   org : Gebze Technical University
@@ -546,10 +546,10 @@
   fee : waived
 
 - id: 57
-  first_name : Koji 					 						 	
+  first_name : Koji   
   last_name : Nishiura
   email : nishiura@fukushima-nct.ac.jp
-  org : 	National Institute of Technology, Fukushima College
+  org : National Institute of Technology, Fukushima College
   country : Japan
   homepage : 
   student : 
@@ -559,9 +559,9 @@
   fee : paid
  
 - id: 58
-  first_name : Masaki 					 						 	
+  first_name : Masaki   
   last_name : Suzuki
-  email : 	m-suzuki@numazu-ct.ac.jp
+  email : m-suzuki@numazu-ct.ac.jp
   org : National Institute of Technology, Numazu College
   country : Japan
   homepage : 
@@ -572,9 +572,9 @@
   fee : paid
 
 - id: 59
-  first_name : Setsuo 					 						 	
+  first_name : Setsuo   
   last_name : Takato
-  email : 	setsuotakato@gmail.com
+  email : setsuotakato@gmail.com
   org : KeTCindy Center
   country : Japan
   homepage : https://s-takato.github.io/ketcindyorg/indexe.html
@@ -585,9 +585,9 @@
   fee : paid
 
 - id: 60
-  first_name : Yasuyuki 					 						 	
+  first_name : Yasuyuki   
   last_name : Kubo
-  email : 	kuboMath@gmail.com	
+  email : kuboMath@gmail.com
   org : Yuge KOSEN
   country : Japan
   homepage : 
@@ -598,9 +598,9 @@
   fee : paid
 
 - id: 61
-  first_name : Chieko 					 						 	
+  first_name : Chieko   
   last_name :  Komoda
-  email : 	komoda@kurume-nct.ac.jp
+  email : komoda@kurume-nct.ac.jp
   org : National Institute of Technology, Kurume College
   country : Japan
   homepage : 
@@ -611,7 +611,7 @@
   fee : paid
 
 - id: 62
-  first_name : Tülay 					 						 	
+  first_name : Tülay   
   last_name :  Ayyıldız
   email : tulayayyildiz@gtu.edu.tr
   org : Gebze Technical University
@@ -640,7 +640,7 @@
   first_name : Chia
   last_name : Zargeh
   email : Chia.Zargeh@mcbs.edu.om
-  org : 	Modern College of Business and Science
+  org : Modern College of Business and Science
   country : Oman
   homepage : 
   student : yes
@@ -705,7 +705,7 @@
   first_name : Eli
   last_name : Bagno
   email : bagnoe@gmail.com
-  org : Jerusalem college of Technology	
+  org : Jerusalem college of Technology
   country : Israel
   homepage : 
   student : 
@@ -718,7 +718,7 @@
   first_name : Stefka
   last_name : Bouyuklieva
   email : stefka@ts.uni-vt.bg
-  org : St. Cyril and St. Methodius University of Veliko Tarnovo	
+  org : St. Cyril and St. Methodius University of Veliko Tarnovo
   country : Bulgaria
   homepage : 
   student : 
@@ -733,7 +733,7 @@
   email : ozhangenc@gmail.com
   org : Jagiellonian University
   country : Poland
-  homepage : https://sites.google.com/view/ozhangenc/home	
+  homepage : https://sites.google.com/view/ozhangenc/home
   student : 
   speaker : 
   role : 
@@ -757,9 +757,9 @@
   first_name : Thierry
   last_name : Combot
   email : thierry.combot@u-bourgogne.fr
-  org : 	Université de Bourgogne
+  org : Université de Bourgogne
   country : France
-  homepage : http://combot.perso.math.cnrs.fr/		
+  homepage : http://combot.perso.math.cnrs.fr/
   student : 
   speaker : 
   role : 
@@ -769,9 +769,9 @@
 - id: 82
   first_name : Stela
   last_name : Zhelezova
-  email : stzhelezova@gmail.com	
-  org : 	Institute of Mathematics and Informatics, BAS
-  country : Bulgaria	
+  email : stzhelezova@gmail.com
+  org : Institute of Mathematics and Informatics, BAS
+  country : Bulgaria
   homepage : http://www.moi.math.bas.bg/moiuser/~stela/
   student : 
   speaker : 
@@ -795,10 +795,10 @@
 - id: 85
   first_name : Frédéric
   last_name : Chyzak
-  email : frederic.chyzak@inria.fr	
+  email : frederic.chyzak@inria.fr
   org : Inria
   country : France
-  homepage : https://mathexp.eu/chyzak/	
+  homepage : https://mathexp.eu/chyzak/
   student : 
   speaker : 
   role : 
@@ -806,10 +806,10 @@
   fee : paid
 
 - id: 86
-  first_name : Julia		
+  first_name : Julia
   last_name : Lieb
   email : julia.lieb@tu-ilmenau.de
-  org : TU Ilmenau		
+  org : TU Ilmenau
   country : Germany
   homepage : 
   student : 
@@ -821,10 +821,10 @@
 - id: 87
   first_name : Tobias
   last_name : Metzlaff
-  email : math@tobiasmetzlaff.com	
-  org : 	LAAS-CNRS		
+  email : math@tobiasmetzlaff.com
+  org : LAAS-CNRS
   country : France
-  homepage : https://tobiasmetzlaff.com/	
+  homepage : https://tobiasmetzlaff.com/
   student : 
   speaker : 
   role : 
@@ -835,7 +835,7 @@
   first_name : Volodymyr 
   last_name : Bavula
   email : :v.bavula@sheffield.ac.uk
-  org :	University of Sheffield
+  org : University of Sheffield
   country : UK
   homepage : 
   student : 
@@ -845,7 +845,7 @@
   fee: paid
 
 - id: 92
-  first_name : Michael		
+  first_name : Michael
   last_name : Schaller
   email : michael.schaller@math.uzh.ch
   org : University of Zürich
@@ -858,7 +858,7 @@
   fee: paid
 
 - id: 93
-  first_name : Máté	
+  first_name : Máté
   last_name : László
   email : mate.telek@mis.mpg.de
   org : Max Planck Institute for Mathematics in the Sciences
@@ -871,7 +871,7 @@
   fee: paid
 
 - id: 94
-  first_name : Sasaki	
+  first_name : Sasaki
   last_name : Tateaki
   email : stateaki@gmail.com
   org : University of Tsukuba
@@ -884,7 +884,7 @@
   fee: onsite
 
 - id: 95
-  first_name : John	
+  first_name : John
   last_name : Sheekey
   email : john.sheekey@ucd.ie
   org : University College Dublin
@@ -900,7 +900,7 @@
   first_name : Buket
   last_name : Özkaya
   email : ozkayab@metu.edu.tr
-  org : 	Middle East Technical University
+  org : Middle East Technical University
   country : Türkiye
   homepage : 
   student : 
@@ -913,7 +913,7 @@
   first_name : Burcu
   last_name : Gülmez Temür
   email : burcu.temur@atilim.edu.tr
-  org : Atılım University	 
+  org : Atılım University 
   country : Turkey
   homepage : 
   student : 
@@ -954,7 +954,7 @@
   email : gomezd@unican.es
   org : Universidad de Cantabria
   country : Sapin
-  homepage : personales.unican.es/gomezd	
+  homepage : personales.unican.es/gomezd
   student : 
   speaker : 
   role : 
@@ -962,10 +962,10 @@
   fee: paid
 
 - id: 104
-  first_name : Magdalena	
+  first_name : Magdalena
   last_name : Skrzypiec
   email : magdalena.skrzypiec@umcs.pl
-  org : Maria Curie-Sklodowska University		
+  org : Maria Curie-Sklodowska University
   country : Poland
   homepage : 
   student : 
@@ -975,10 +975,10 @@
   fee: paid
 
 - id: 107
-  first_name : Michael	
+  first_name : Michael
   last_name : Monagan
   email : mmonagan@sfu.ca
-  org : Fraser University	
+  org : Fraser University
   country : Canada
   homepage : http://www.cecm.sfu.ca/~mmonagan/
   student : 
@@ -991,7 +991,7 @@
   first_name : Carlos
   last_name : Vela Cabello
   email : carlos.velacabello@unisg.ch
-  org : Universität St Gallen		
+  org : Universität St Gallen
   country : Switzerland
   homepage : 
   student : 
@@ -1004,7 +1004,7 @@
   first_name : Bertrand
   last_name : Teguia Tabuguia 
   email : bertrand.teguia@cs.ox.ac.uk
-  org : 	University of Oxford
+  org : University of Oxford
   country : UK
   homepage : 
   student : yes
@@ -1032,7 +1032,7 @@
   email : tpllaha@usf.edu
   org : University of South Florida
   country : USA
-  homepage : https://pllahat.github.io/	
+  homepage : https://pllahat.github.io/
   student : 
   speaker : 
   role : 
@@ -1065,8 +1065,21 @@
   session : 
   fee: paid
 
+- id: 114
+  first_name : Dinushi
+  last_name : Munasinghe
+  email : dinushi.y.m@gmail.com
+  org : National and Kapodistrian University of Athens
+  country : Greece
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: onsite
+
 - id: 115
-  first_name : Antonio	
+  first_name : Antonio
   last_name : Jiménez-Pastor
   email : antonio.jimenezp@upm.es
   org : Universidad Politécnica de Madrid
@@ -1079,10 +1092,10 @@
   fee: paid
 
 - id: 117
-  first_name : Long	
+  first_name : Long
   last_name : Qian
   email : longq@andrew.cmu.edu
-  org : Carnegie Mellon University	
+  org : Carnegie Mellon University
   country : USA
   homepage : https://longqianql.github.io/
   student : yes
@@ -1092,7 +1105,7 @@
   fee: paid
 
 - id: 120
-  first_name : Alexandre	
+  first_name : Alexandre
   last_name : Guillemot
   email : alexandre.guillemot@inria.fr
   org : Inria Saclay
@@ -1105,7 +1118,7 @@
   fee: paid
 
 - id: 121
-  first_name : Elena	
+  first_name : Elena
   last_name : Sammarco
   email : elena.sammarco@uniroma3.it
   org : Università degli studi Roma Tre
@@ -1118,7 +1131,7 @@
   fee: waived
 
 - id: 122
-  first_name : Simone	
+  first_name : Simone
   last_name : Pesatori
   email : simone.pesatori@uniroma3.it
   org : Università degli Studi Roma Tre
@@ -1175,7 +1188,7 @@
   email : aku21@bath.ac.uk
   org : University of Bath
   country : United Kingdom
-  homepage : www.akuncu.com	
+  homepage : www.akuncu.com
   student :
   speaker : 
   role : 
@@ -1238,7 +1251,7 @@
   first_name : Ilias
   last_name : Andreou
   email : iliasandreou95@gmail.com
-  org : NKUA, Department of Mathematics		
+  org : NKUA, Department of Mathematics
   country : Greece
   homepage : 
   student :
@@ -1253,7 +1266,7 @@
   email : konstantinos.psaromligkos@uca.fr
   org : Université Clermont Auvergne
   country : France
-  homepage : kostaspsa.github.io
+  homepage : https://kostaspsa.github.io
   student :
   speaker : 
   role : 
@@ -1264,7 +1277,7 @@
   first_name : Maria
   last_name : Chlouveraki
   email : mchlouve@math.uoa.gr
-  org : National and Kapodistrian University of Athens	
+  org : National and Kapodistrian University of Athens
   country : Greece
   homepage : https://chlouveraki.perso.math.cnrs.fr/
   student :
@@ -1277,7 +1290,7 @@
   first_name : Yuta
   last_name : Kambe
   email : yuta.kambe.math@gmail.com
-  org : Mitsubishi Electric	
+  org : Mitsubishi Electric
   country : Japan
   homepage : https://researchmap.jp/yuta-kambe-math?lang=en
   student :
@@ -1287,7 +1300,7 @@
   fee: paid
 
 - id: 146
-  first_name : William						 						 	
+  first_name : William  
   last_name :  Bauldry
   email : bauldrywc@gmail.com
   org : ASU
@@ -1300,10 +1313,10 @@
   fee : paid
 
 - id: 26
-  first_name : Jack	 						 	
+  first_name : Jack  
   last_name : Jansma
   email : jackjansma@sun.ac.za
-  org : 	University of Stellenbosch
+  org : University of Stellenbosch
   country : South Africa
   homepage : https://researcherprofiles.sun.ac.za/44652-jack-jansma/publications
   student : 
@@ -1313,10 +1326,10 @@
   fee: 
  
 - id: 27
-  first_name : Manuel		 						 	
+  first_name : Manuel  
   last_name : Kauers
   email : manuel@kauers.de
-  org : 	Johannes Kepler University	Linz
+  org : Johannes Kepler UniversityLinz
   country : Austria
   homepage : 
   student : 
@@ -1326,10 +1339,10 @@
   fee : 
 
 - id: 30
-  first_name : Saltanat				 						 	
+  first_name : Saltanat  
   last_name : Bizhanova
   email : bizhanova.saltanat92@gmail.com
-  org : 	Al-Farabi Kazakh National University	
+  org : Al-Farabi Kazakh National University
   country : Kazakstan
   homepage : 
   student : 
@@ -1339,10 +1352,10 @@
   fee: 
  
 - id: 31
-  first_name : Bryan					 						 	
+  first_name : Bryan  
   last_name : Hernandez
   email : bhernandez@math.upd.edu.ph
-  org : 	University of the Philippines Diliman	
+  org : University of the Philippines Diliman
   country : Philippines
   homepage : https://math.upd.edu.ph/faculty/hernandez-bryan
   student : 
@@ -1352,10 +1365,10 @@
   fee : 
  
 - id: 35
-  first_name : Joseph					 						 	
+  first_name : Joseph  
   last_name : Baranoski
   email : jabaranoski@gmail.com
-  org : 	The Catholic University of America
+  org : The Catholic University of America
   country : USA
   homepage : 
   student : 
@@ -1365,10 +1378,10 @@
   fee : 
 
 - id: 36
-  first_name : Jakob					 						 	
+  first_name : Jakob  
   last_name : Obrovsky
   email : Jakob.Obrovsky@risc.jku.at
-  org : 	Johannes Kepler University Linz
+  org : Johannes Kepler University Linz
   country : Austria
   homepage : 
   student : 
@@ -1378,9 +1391,9 @@
   fee :
 
 - id: 37
-  first_name : Karsten					 						 	
+  first_name : Karsten  
   last_name : Schmidt
-  email : 	kschmidt@hs-sm.de
+  email : kschmidt@hs-sm.de
   org : Schmalkalden University of Applied Sciences
   country : Germany
   homepage : 
@@ -1391,7 +1404,7 @@
   fee : 
 
 - id: 38
-  first_name : Roberto					 						 	
+  first_name : Roberto  
   last_name : La Scala
   email : roberto.lascala@uniba.it
   org : Università degli Studi di Bari
@@ -1404,7 +1417,7 @@
   fee: 
  
 - id: 39
-  first_name : Mengyan					 						 	
+  first_name : Mengyan  
   last_name : Xie
   email : xiemengyan15@163.com
   org : Shanghai Ocean University
@@ -1417,7 +1430,7 @@
   fee : 
 
 - id: 43
-  first_name : Xiaodong					 						 	
+  first_name : Xiaodong  
   last_name : Zhang
   email : xiaodong@sjtu.edu.cn
   org : Shanghai Jiao Tong University
@@ -1430,7 +1443,7 @@
   fee : 
 
 - id: 44
-  first_name : Sara						 						 	
+  first_name : Sara  
   last_name : Asensio
   email : sara.asensio@uva.es
   org : University of Valladolid
@@ -1443,7 +1456,7 @@
   fee: 
 
 - id: 52
-  first_name : Margherita						 						 	
+  first_name : Margherita  
   last_name : Guida
   email : maguida@unina.it
   org : Università di Napoli Federico II
@@ -1456,8 +1469,8 @@
   fee : 
 
 - id: 53
-  first_name : Varadharaj						 						 	
-  last_name : Ravi	Srinivasan
+  first_name : Varadharaj  
+  last_name : RaviSrinivasan
   email : ravisri@iisermohali.ac.in
   org : Indian Insititute of Science Education and Research Mohali
   country : India
@@ -1469,10 +1482,10 @@
   fee : 
  
 - id: 56
-  first_name : Mark 					 						 	
-  last_name : Adongo Adindaa	
+  first_name : Mark   
+  last_name : Adongo Adindaa
   email : adongo035@gmail.com
-  org : 	Accra Technical University
+  org : Accra Technical University
   country : Ghana
   homepage : 
   student : 
@@ -1485,7 +1498,7 @@
   first_name : Qiang (Steven)
   last_name : Wang
   email : wang@math.carleton.ca
-  org : 	Carleton University
+  org : Carleton University
   country : Canada
   homepage : https://people.math.carleton.ca/~wang/
   student : 
@@ -1537,7 +1550,7 @@
   first_name : Maryam
   last_name : Bajalan
   email : maryam.bajalan@math.bas.bg
-  org : Institute of Mathematics and Informatics, Bulgarian Academy of Sciences		
+  org : Institute of Mathematics and Informatics, Bulgarian Academy of Sciences
   country : Bulgaria
   homepage : 
   student : 
@@ -1564,7 +1577,7 @@
   first_name : Joao
   last_name : Ruiz
   email : joao.ruiz@imj-prg.fr
-  org : 	Institut de Mathématiques de Jussieu (IMJ-PRG) / INRIA
+  org : Institut de Mathématiques de Jussieu (IMJ-PRG) / INRIA
   country : France
   homepage : 
   student : yes
@@ -1579,7 +1592,7 @@
   email : regensburger@mathematik.uni-kassel.de
   org : University of Kassel
   country : Germany
-  homepage : http://gregensburger.com/	
+  homepage : http://gregensburger.com/
   student : 
   speaker : 
   role : 
@@ -1590,7 +1603,7 @@
   first_name : Manfred
   last_name : Buchacher
   email : manfredi.buchacher@gmail.com
-  org : 	Johannes Kepler Universität Linz	
+  org : Johannes Kepler Universität Linz
   country : Austria
   homepage : 
   student : 
@@ -1600,10 +1613,10 @@
   fee: 
 
 - id: 88
-  first_name : 	Moulay				
+  first_name : Moulay
   last_name : Barkatou
   email : moulay.barkatou@unilim.fr
-  org : XLIM- University of Limoges	
+  org : XLIM- University of Limoges
   country : France
   homepage : 
   student : 
@@ -1613,12 +1626,12 @@
   fee: 
 
 - id: 89
-  first_name : 	Cyrille
+  first_name : Cyrille
   last_name : Chenavier
   email : cyrille.chenavier@unilim.fr
   org : Limoges University
   country : France
-  homepage : https://cchenavier.pages.math.cnrs.fr/	
+  homepage : https://cchenavier.pages.math.cnrs.fr/
   student : 
   speaker : 
   role : 
@@ -1639,10 +1652,10 @@
   fee: 
 
 - id: 96
-  first_name : Robert	
+  first_name : Robert
   last_name : Green
   email : robert.green@colorado.edu
-  org : University of Colorado, Boulder	
+  org : University of Colorado, Boulder
   country : USA
   homepage : 
   student : yes
@@ -1656,7 +1669,7 @@
   last_name : Asensio
   email : sara.asensio@uva.es
   org : Universidad de Valladolid
-  country : Spain	
+  country : Spain
   homepage : 
   student : yes
   speaker : 
@@ -1690,24 +1703,11 @@
   session : 
   fee: 
 
-- id: 114
-  first_name : Dinushi
-  last_name : Munasinghe
-  email : dinushi.y.m@gmail.com
-  org : National and Kapodistrian University of Athens
-  country : Greece
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 116
-  first_name : Arnaud	
+  first_name : Arnaud
   last_name : Minondo
   email : arnaud.minondo@lix.polytechnique.fr
-  org : CNRS, LIX, 	
+  org : CNRS, LIX, 
   country : France
   homepage : 
   student : yes
@@ -1717,7 +1717,7 @@
   fee:  
 
 - id: 118
-  first_name : Florent	
+  first_name : Florent
   last_name : Corniquel
   email : florent.corniquel@imj-prg.fr
   org : orbonne University and INRIA Paris
@@ -1730,7 +1730,7 @@
   fee:  
 
 - id: 119
-  first_name : Nicola	
+  first_name : Nicola
   last_name : Vassena
   email : nicola.vassena@uni-leipzig.de
   org : Leipzig University
@@ -1745,7 +1745,7 @@
 - id: 124
   first_name : Bart
   last_name : De Bruyn
-  email : bart.debruyn@UGent.be	
+  email : bart.debruyn@UGent.be
   org : Ghent University
   country : Begium
   homepage : 
@@ -1873,12 +1873,12 @@
 - id: 145
   first_name : Francesco
   last_name : Ghiandoni
-  email : francesco.ghiandoni@unipg.it	
-  org : 	University of Perugia
+  email : francesco.ghiandoni@unipg.it
+  org : University of Perugia
   country : Italy
   homepage : 
   student :
   speaker : 
   role : 
   session : 
-  fee:	 			 				 				
+  fee:   
