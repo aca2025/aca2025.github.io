@@ -1312,6 +1312,19 @@
   session : 
   fee : paid
 
+- id: 148
+  first_name : Arne
+  last_name : Storjohann
+  email : tstroganoff@yahoo.ca
+  org : University of Waterloo
+  country : Canada
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 26
   first_name : Jack  
   last_name : Jansma
@@ -1881,4 +1894,30 @@
   speaker : 
   role : 
   session : 
-  fee:   
+  fee:
+
+- id: 149
+  first_name : Christos	
+  last_name : Tatakis
+  email : chtatakis@uowm.gr
+  org : University of Western Macedonia, Department of Mathematics
+  country : Greece
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 150
+  first_name : Ovidiu
+  last_name : Radulescu
+  email : ovidiu.radulescu@umontpellier.fr
+  org : University of Montpellier
+  country : France
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
