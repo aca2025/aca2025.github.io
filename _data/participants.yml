@@ -195,18 +195,6 @@
   fee : waived
 
 - id: 17 
-- id: 27
-  first_name : Manuel  
-  last_name : Kauers
-  email : manuel@kauers.de
-  org : Johannes Kepler UniversityLinz
-  country : Austria
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee : paid
   first_name : Henning 
   last_name : Stichtenoth
   email : henning@sabanciuniv.edu
