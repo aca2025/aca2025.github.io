@@ -194,7 +194,19 @@
   session : 
   fee : waived
 
-- id: 17
+- id: 17 
+- id: 27
+  first_name : Manuel  
+  last_name : Kauers
+  email : manuel@kauers.de
+  org : Johannes Kepler UniversityLinz
+  country : Austria
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : paid
   first_name : Henning 
   last_name : Stichtenoth
   email : henning@sabanciuniv.edu
@@ -306,6 +318,19 @@
   country : Israel
   homepage :  
   student : yes
+  speaker : 
+  role : 
+  session : 
+  fee : paid
+
+- id: 27
+  first_name : Manuel  
+  last_name : Kauers
+  email : manuel@kauers.de
+  org : Johannes Kepler UniversityLinz
+  country : Austria
+  homepage : 
+  student : 
   speaker : 
   role : 
   session : 
@@ -647,6 +672,31 @@
   speaker : 
   role : 
   session : 
+- id: 149
+  first_name : Christos
+  last_name : Tatakis
+  email : chtatakis@uowm.gr
+  org : University of Western Macedonia, Department of Mathematics
+  country : Greece
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: onsite
+
+- id: 150
+  first_name : Ovidiu
+  last_name : Radulescu
+  email : ovidiu.radulescu@umontpellier.fr
+  org : University of Montpellier
+  country : France
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
   fee : paid
 
 - id: 68
@@ -1325,6 +1375,32 @@
   session : 
   fee: paid
 
+- id: 149
+  first_name : Christos
+  last_name : Tatakis
+  email : chtatakis@uowm.gr
+  org : University of Western Macedonia, Department of Mathematics
+  country : Greece
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: onsite
+
+- id: 150
+  first_name : Ovidiu
+  last_name : Radulescu
+  email : ovidiu.radulescu@umontpellier.fr
+  org : University of Montpellier
+  country : France
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 26
   first_name : Jack  
   last_name : Jansma
@@ -1337,19 +1413,6 @@
   role : 
   session : 
   fee: 
- 
-- id: 27
-  first_name : Manuel  
-  last_name : Kauers
-  email : manuel@kauers.de
-  org : Johannes Kepler UniversityLinz
-  country : Austria
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee : 
 
 - id: 30
   first_name : Saltanat  
@@ -1416,19 +1479,6 @@
   session : 
   fee : 
 
-- id: 38
-  first_name : Roberto  
-  last_name : La Scala
-  email : roberto.lascala@uniba.it
-  org : Università degli Studi di Bari
-  country : Italy
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : Betti
-  fee: 
- 
 - id: 39
   first_name : Mengyan  
   last_name : Xie
@@ -1677,19 +1727,6 @@
   session : 
   fee: 
 
-- id: 100
-  first_name : Sara
-  last_name : Asensio
-  email : sara.asensio@uva.es
-  org : Universidad de Valladolid
-  country : Spain
-  homepage : 
-  student : yes
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 105
   first_name : Rob
   last_name : Corless
@@ -1889,32 +1926,6 @@
   email : francesco.ghiandoni@unipg.it
   org : University of Perugia
   country : Italy
-  homepage : 
-  student :
-  speaker : 
-  role : 
-  session : 
-  fee:
-
-- id: 149
-  first_name : Christos	
-  last_name : Tatakis
-  email : chtatakis@uowm.gr
-  org : University of Western Macedonia, Department of Mathematics
-  country : Greece
-  homepage : 
-  student :
-  speaker : 
-  role : 
-  session : 
-  fee:
-
-- id: 150
-  first_name : Ovidiu
-  last_name : Radulescu
-  email : ovidiu.radulescu@umontpellier.fr
-  org : University of Montpellier
-  country : France
   homepage : 
   student :
   speaker : 
