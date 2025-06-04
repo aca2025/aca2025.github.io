@@ -792,6 +792,19 @@
   session : 
   fee : paid
 
+- id: 80
+  first_name : Georg
+  last_name :  Regensburger
+  email : regensburger@mathematik.uni-kassel.de
+  org : University of Kassel
+  country : Germany
+  homepage : http://gregensburger.com/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 81
   first_name : Thierry
   last_name : Combot
@@ -1234,6 +1247,19 @@
   session : 
   fee: paid
 
+- id: 130
+  first_name : Vincel
+  last_name : Hoang Ngoc Minh
+  email : vincel.hoang-ngoc-minh@univ-lille.fr
+  org : University of Lille
+  country : France
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 131
   first_name : Ramonika
   last_name : Sengupta
@@ -1241,6 +1267,19 @@
   org : Eindhoven University of Technology
   country : The Netherlands
   homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 132
+  first_name : Wen-shin
+  last_name : Lee
+  email : wen-shin.lee@stir.ac.uk
+  org : University of Stirling
+  country : United Kingdom
+  homepage : https://www.cs.stir.ac.uk/~wsl/
   student :
   speaker : 
   role : 
@@ -1638,19 +1677,6 @@
   session : 
   fee: 
 
-- id: 80
-  first_name : Georg
-  last_name :  Regensburger
-  email : regensburger@mathematik.uni-kassel.de
-  org : University of Kassel
-  country : Germany
-  homepage : http://gregensburger.com/
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 83
   first_name : Manfred
   last_name : Buchacher
@@ -1814,32 +1840,6 @@
   org : Universitat Autònoma de Barcelona
   country : Spain
   homepage : 
-  student :
-  speaker : 
-  role : 
-  session : 
-  fee:
-
-- id: 130
-  first_name : Vincel
-  last_name : Hoang Ngoc Minh
-  email : vincel.hoang-ngoc-minh@univ-lille.fr
-  org : University of Lille
-  country : France
-  homepage : 
-  student :
-  speaker : 
-  role : 
-  session : 
-  fee:
-
-- id: 132
-  first_name : Wen-shin
-  last_name : Lee
-  email : wen-shin.lee@stir.ac.uk
-  org : University of Stirling
-  country : United Kingdom
-  homepage : https://www.cs.stir.ac.uk/~wsl/
   student :
   speaker : 
   role : 
