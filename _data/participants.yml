@@ -660,6 +660,8 @@
   speaker : 
   role : 
   session : 
+  fee : paid
+
 - id: 149
   first_name : Christos
   last_name : Tatakis
@@ -685,7 +687,6 @@
   role : 
   session : 
   fee: paid
-  fee : paid
 
 - id: 68
   first_name : Giovanni
