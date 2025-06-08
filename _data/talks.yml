@@ -102,17 +102,10 @@
   authors :
   session : 2
   abstract :
- 
-- id : 10
-  title : ""
-  speaker : 54
-  authors :
-  session : 2
-  abstract :
- 
+
 - id : 11
   title : ""
-  speaker : 26
+  speaker : 156
   authors :
   session : 2
   abstract :
@@ -131,9 +124,37 @@
   session : 2
   abstract :
 
-- id : 14
+- id : 13
   title : ""
-  speaker : 119
+  speaker : 150
+  authors :
+  session : 2
+  abstract :
+
+- id : 13
+  title : ""
+  speaker : 101
+  authors :
+  session : 2
+  abstract :
+
+- id : 13
+  title : ""
+  speaker : 159
+  authors :
+  session : 2
+  abstract :
+
+- id : 13
+  title : ""
+  speaker : 125
+  authors :
+  session : 2
+  abstract :
+
+- id : 13
+  title : ""
+  speaker : 23
   authors :
   session : 2
   abstract :
@@ -471,6 +492,27 @@
 - id : 59
   title : ""
   speaker : 103
+  authors :
+  session : 14
+  abstract :
+
+- id : 59
+  title : ""
+  speaker : 107
+  authors :
+  session : 14
+  abstract :
+
+- id : 59
+  title : ""
+  speaker : 136
+  authors :
+  session : 14
+  abstract :
+
+- id : 59
+  title : ""
+  speaker : 158
   authors :
   session : 14
   abstract :
