@@ -19,7 +19,7 @@ layout: default
          {% if talk.session ==  session.AA  %}
           {% assign speaker = site.data.participants | where_exp: "item", "item.id==talk.speaker"  %}
             <tr>
-              <td style="text-align: left"><strong> {{ speaker }} </td>
+              <td style="text-align: left"><strong> {{ speaker[0] }} </td>
               <td style="text-align: left"><strong> {{ talk }} </td>
               <td style="text-align: left"><strong> {{ speaker["first_name"] }} {{ speaker["last_name"] }} - {{ talk["title"] }} </td>
             </tr>
