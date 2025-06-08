@@ -1,3 +1,52 @@
+- id : 3
+  title : "Creating Stand-Alone Workspaces for Student Explorations with Maple"
+  speaker : 146
+  authors :
+  session : 1
+  abstract :
+
+- id : 3
+  title : "Utilization of Algebrite in KeTLTS"
+  speaker : 60
+  authors :
+  session : 1
+  abstract :
+
+- id : 3
+  title : "Two Methods for Proving 'Japanese Theorem II' Using Maxima and KeTCindy: An Application of the MNR Method"
+  speaker : 59
+  authors :
+  session : 1
+  abstract :
+
+- id : 3
+  title : "Mathematical Experiments for Mathematics Majors"
+  speaker : 107
+  authors :
+  session : 1
+  abstract :
+
+- id : 3
+  title : "Cooperation of KeTCindyJS and Maxima"
+  speaker : 58
+  authors :
+  session : 1
+  abstract :
+
+- id : 3
+  title : "Educational Applications of Solving Sangaku Problems by the MNR Method with Maxima"
+  speaker : 57
+  authors :
+  session : 1
+  abstract :
+
+- id : 3
+  title : "Automatic Grading of Online Graph Plotting Problems"
+  speaker : 61
+  authors :
+  session : 1
+  abstract :
+
 - id : 1
   title : "Questions and ideas from deceased colleagues that help us carry on"
   speaker : 20
@@ -12,13 +61,6 @@
   session : 1
   abstract :
 
-- id : 3
-  title : "Creating Stand-Alone Workspaces for Student Explorations with Maple"
-  speaker : 54
-  authors :
-  session : 1
-  abstract :
-  
 - id : 4
   title : "An educational proposal to interpret linear systems"
   speaker : 52
@@ -32,14 +74,14 @@
   authors :
   session : 1
   abstract :
-    
+
 - id : 6
   title : "Automated methods applied for the exploration of singularities of some curves"
   speaker : 32
   authors :
   session : 1
   abstract :
- 
+
 - id : 7
   title : "Evaluation of the difficulty of a geometric statement: comparing ChatGPT and GeoGebra Discovery"
   speaker : 67
