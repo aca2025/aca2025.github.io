@@ -433,56 +433,78 @@
   abstract :
 
 - id : 63
-  title : ""
+  title : "Characteristic polynomial of linearized polynomials"
   speaker : 63
   authors :
   session : 17
   abstract :
 
 - id : 63
-  title : ""
+  title : "Towards the classification of scattered binomials"
+  speaker : 145
+  authors :
+  session : 17
+  abstract :
+
+- id : 63
+  title : "Codes deriving from some subvarieties of the Segre variety"
+  speaker : 135
+  authors :
+  session : 17
+  abstract :
+
+
+- id : 63
+  title : "Construction of LDPC convolutional codes from Latin squares"
   speaker : 78
   authors :
   session : 17
   abstract :
 
 - id : 63
-  title : ""
+  title : "Construction of partial unit-memory MDP convolutional codes with low encoding and decoding complexity"
   speaker : 86
   authors :
   session : 17
   abstract :
 
 - id : 63
-  title : ""
+  title : "Quantum LDPC codes and decoding challenges"
   speaker : 111
   authors :
   session : 17
   abstract :
 
 - id : 63
-  title : ""
+  title : "Lattices over Non-Archimedean Fields and Their Applications to Coding Theory"
   speaker : 92
   authors :
   session : 17
   abstract :
 
 - id : 63
-  title : ""
+  title : "Equivalences of rank distance codes"
   speaker : 45
   authors :
   session : 17
   abstract :
 
 - id : 63
-  title : ""
+  title : "On the minimum weight of some geometric codes"
   speaker : 113
   authors :
   session : 17
   abstract :
 
 - id : 63
-  title : ""
+  title : "Hamming weight distributions of linear simplex codes over finite chain rings and their Gray map"
+  speaker : 126
+  authors :
+  session : 17
+  abstract :
+
+- id : 63
+  title : "On some properties of the Gray map"
   speaker : 108
   authors :
   session : 17
