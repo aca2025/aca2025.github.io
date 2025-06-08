@@ -1429,6 +1429,175 @@
   session : 
   fee: paid
 
+- id: 151
+  first_name : Thekla
+  last_name : Zampeta
+  email : 	tzampeta@uth.gr
+  org : University of Thessaly
+  country : Greece
+  homepage : 
+  student : yes
+  speaker : 
+  role : organizer
+  session : 
+  fee: waived
+
+- id: 152
+  first_name : Chiara
+  last_name : Castello
+  email : chiara.castello@unicampania.it
+  org : University of Campania "L. Vanvitelli"
+  country : Italy
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: waived
+
+- id: 153
+  first_name : Nikol
+  last_name : Antoniadou
+  email : nantoniadou@uth.gr
+  org : University of Thessaly
+  country : Greece
+  homepage : 
+  student : yes
+  speaker : 
+  role : organizer
+  session : 
+  fee: waived
+
+- id: 154
+  first_name : Panagiota
+  last_name : Vitsiou
+  email : nayavitsiou@gmail.com
+  org : University of Thessaly
+  country : Greece
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: waived
+
+- id: 155
+  first_name : Khalil
+  last_name : Ghorbal
+  email : khalil.ghorbal@inria.fr
+  org : INRIA
+  country : France
+  homepage : https://kghorbal.github.io
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 157
+  first_name : Jean-Yves
+  last_name : Enjalbert
+  email : jyenjalbert@free.fr
+  org : Lycée Jean-Batiste Corort, Savigny sur Orges
+  country : France	
+  homepage : https://www.researchgate.net/profile/Jean-Yves-Enjalbert
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 158
+  first_name : Lucas
+  last_name : Da Silva Reis
+  email : lucasreismat@gmail.com
+  org : Universidade Federal de Minas Gerais
+  country : Brazil
+  homepage : https://sites.google.com/view/lucasreis/
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 159
+  first_name : Marcus
+  last_name : Aichmayr
+  email : aichmayr@mathematik.uni-kassel.de
+  org : University of Kassel
+  country : Germany
+  homepage : https://github.com/MarcusAichmayr
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 30
+  first_name : Saltanat  
+  last_name : Bizhanova
+  email : bizhanova.saltanat92@gmail.com
+  org : Al-Farabi Kazakh National University
+  country : Kazakstan
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: waived
+
+- id: 73
+  first_name : Jianqiang
+  last_name : Zhao
+  email : zhaoj8888@gmail.com
+  org : The Bishop's School
+  country : USA
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : waived
+ 
+- id: 31
+  first_name : Bryan  
+  last_name : Hernandez
+  email : bhernandez@math.upd.edu.ph
+  org : University of the Philippines Diliman
+  country : Philippines
+  homepage : https://math.upd.edu.ph/faculty/hernandez-bryan
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : waived
+
+- id: 52
+  first_name : Margherita  
+  last_name : Guida
+  email : maguida@unina.it
+  org : Università di Napoli Federico II
+  country : Italy
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee : waived
+
+- id: 145
+  first_name : Francesco
+  last_name : Ghiandoni
+  email : francesco.ghiandoni@unipg.it
+  org : University of Perugia
+  country : Italy
+  homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: waived
+
 - id: 26
   first_name : Jack  
   last_name : Jansma
@@ -1442,32 +1611,6 @@
   session : 
   fee: 
 
-- id: 30
-  first_name : Saltanat  
-  last_name : Bizhanova
-  email : bizhanova.saltanat92@gmail.com
-  org : Al-Farabi Kazakh National University
-  country : Kazakstan
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
- 
-- id: 31
-  first_name : Bryan  
-  last_name : Hernandez
-  email : bhernandez@math.upd.edu.ph
-  org : University of the Philippines Diliman
-  country : Philippines
-  homepage : https://math.upd.edu.ph/faculty/hernandez-bryan
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee : 
- 
 - id: 35
   first_name : Joseph  
   last_name : Baranoski
@@ -1546,19 +1689,6 @@
   session : 
   fee: 
 
-- id: 52
-  first_name : Margherita  
-  last_name : Guida
-  email : maguida@unina.it
-  org : Università di Napoli Federico II
-  country : Italy
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee : 
-
 - id: 53
   first_name : Varadharaj  
   last_name : RaviSrinivasan
@@ -1623,19 +1753,6 @@
   role : 
   session : 
   fee: 
-
-- id: 73
-  first_name : Jianqiang
-  last_name : Zhao
-  email : zhaoj8888@gmail.com
-  org : The Bishop's School
-  country : USA
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee :
 
 - id: 74
   first_name : Maryam
@@ -1909,13 +2026,26 @@
   session : 
   fee:
 
-- id: 145
-  first_name : Francesco
-  last_name : Ghiandoni
-  email : francesco.ghiandoni@unipg.it
-  org : University of Perugia
-  country : Italy
+- id: 156
+  first_name : Fabrice
+  last_name : Rouillier
+  email : fabrice.rouillier@inria.fr
+  org : Inria
+  country : France
   homepage : 
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee:
+
+- id: 160
+  first_name : Julien
+  last_name : Roques
+  email : julien.roques@univ-lyon1.fr
+  org : Université Lyon 1
+  country : France
+  homepage : https://math.univ-lyon1.fr/~roques/
   student :
   speaker : 
   role : 
