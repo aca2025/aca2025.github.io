@@ -202,42 +202,42 @@
   abstract :
 
 - id : 24
-  title : ""
+  title : "Conservative Matrix Fields - Algebra and Asymptotics"
   speaker : 47
   authors :
   session : 8
   abstract :
 
 - id : 25
-  title : ""
-  speaker : 
+  title : "A MacMahon Partition Analysis View of Cylindric Partitions"
+  speaker : 129
   authors :
   session : 8
   abstract :
 
 - id : 26
-  title : "Arithmetic and guessing of D-algebraic sequences"
+  title : "Guessing and arithmetic of D-algebraic sequences"
   speaker : 109
   authors :
   session : 8
   abstract :
 
 - id : 27
-  title : ""
+  title : "Integro-differential rings and generalized shuffle relations"
   speaker : 80
   authors :
   session : 8
   abstract :
 
 - id : 28
-  title : ""
+  title : "A direct solver for coupled systems of recurrence equations over ΠΣ∗-fields"
   speaker : 36
   authors :
   session : 8
   abstract :
 
 - id : 29
-  title : ""
+  title : "TBA"
   speaker : 27
   authors :
   session : 8
@@ -302,6 +302,28 @@
 - id : 38
   title : "Computational Classification and Generation of Algebraic Surfaces and Curves via Algorithms"
   speaker : 21
+  authors :
+  session : 9
+  abstract :
+
+
+- id : 38
+  title : "Solving parametric polynomial systems using generic Rational Univariate Representation"
+  speaker : 118
+  authors :
+  session : 9
+  abstract :
+
+- id : 38
+  title : "Geometric Foundations for Transformer in Gröbner Basis Computation"
+  speaker : 134
+  authors :
+  session : 9
+  abstract :
+
+- id : 38
+  title : "The Gröbner basis for powers of a general linear form in a monomial complete intersection"
+  speaker : 133
   authors :
   session : 9
   abstract :
@@ -455,7 +477,7 @@
 
 - id : 60
   title : ""
-  speaker : 110
+  speaker : 112
   authors :
   session : 15
   abstract :
@@ -469,7 +491,14 @@
 
 - id : 62
   title : ""
-  speaker : 65
+  speaker : 123
+  authors :
+  session : 15
+  abstract :
+
+- id : 62
+  title : ""
+  speaker : 117
   authors :
   session : 15
   abstract :
@@ -553,23 +582,130 @@
   abstract :
 
 - id : 63
-  title : ""
+  title : "Unramified Variants of Motivic Multiple Zeta Values"
+  speaker : 73
+  authors :
+  session : 18
+  abstract :
+
+- id : 63
+  title : "Various bialgebras of representative functions on free monoids"
+  speaker : 130
+  authors :
+  session : 18
+  abstract :
+
+- id : 63
+  title : "Goncharov's Programme, and Symmetries of Weight 6 Multiple Polylogarithms"
   speaker : 70
   authors :
   session : 18
   abstract :
 
 - id : 63
-  title : ""
-  speaker : 73
+  title : "Various Products of Representative Series and Some Applications"
+  speaker :  141
+  authors :
+  session : 18
+  abstract :
+
+- id : 63
+  title : "Multiple Divided Bernoulli Polynomials and Numbers"
+  speaker :  127
   authors :
   session : 18
   abstract :
 
 - id : 64
-  title : "The Shimizu–Morioka System Has No Nontrivial Darboux
-Polynomials"
+  title : "The Shimizu–Morioka System Has No Nontrivial Darboux Polynomials"
   speaker : 155
   authors :
   session : 10
+  abstract :
+
+
+- id : 64
+  title : "The representations of the Brauer-Chen algebra associated to the exceptional complex reflection groups"
+  speaker : 139
+  authors :
+  session : 3
+  abstract :
+
+- id : 64
+  title : "Blocks and Schur elements for Hecke algebras of exceptional complex reflection groups"
+  speaker : 143
+  authors :
+  session : 3
+  abstract :
+
+- id : 64
+  title : "Steadied quotients of KLR algebras"
+  speaker : 114
+  authors :
+  session : 3
+  abstract :
+
+- id : 64
+  title : "Reflection Groups in the Light of Formal Concept Analysis"
+  speaker : 34
+  authors :
+  session : 3
+  abstract :
+
+- id : 64
+  title : "The generalized Springer correspondence for disconnected reductive groups"
+  speaker : 140
+  authors :
+  session : 3
+  abstract :
+
+- id : 64
+  title : "Subresultants of Several Ore Polynomials"
+  speaker : 66
+  authors :
+  session : 4
+  abstract :
+
+- id : 64
+  title : "TBA Reduce package for Differential Operators in Mathematical Physics and Theoretical PhysicsA"
+  speaker : 42
+  authors :
+  session : 4
+  abstract :
+ 
+ 
+- id : 64
+  title : "Iterated strongly normal extensions and nonlinear differential equations"
+  speaker : 53
+  authors :
+  session : 4
+  abstract :
+
+- id : 64
+  title : "Gröbner type Bases with Respect to the Effective Order and Bivariate Dimension Polynomials of Difference Modules"
+  speaker : 24
+  authors :
+  session : 4
+  abstract :
+
+- id : 64
+  title : "Stream cipher over Finite Fields: A Difference Algebra Approach"
+  speaker : 29
+  authors :
+  session : 4
+  abstract :
+
+- id : 64
+  title : "Symbolic integration on a planar differential foliation"
+  speaker : 81
+  authors :
+  session : 4
+  abstract :
+
+
+- id : 64
+  title : "Affirmative answer to the Question of Leroy and Matczuk on injectivity of endomorphisms of semiprime left Noetherian rings with large images"
+  speaker : 91
+  authors :
+  session : 4
   abstract :
