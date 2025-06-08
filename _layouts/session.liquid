@@ -28,32 +28,20 @@ layout: default
  
 
 <br><br>
-
-<h3>Timetable</h3>
-<table class="table table-striped">
-  <tbody>
-    {% for block in blocks %}  
-        {% for talkid in block.talks %} 
-          <tr>
-            {{ talkid }} - 
-             {% assign talk = site.data.talks |  where_exp: "item", 'item.id==talkid'  %}
-             {{ talκ }}
-             <td style="text-align: left">{{ block.day }} {{ block.start }}-{{ block.end }} in room {{ block.room }}: {{ talk.title }} - - {{ talk.speaker }} </td>
-          </tr>
-        {% endfor %}
-     {% endfor %}
-  </tbody>
-</table>
  
-<h3>Speakers</h3>
-<table class="table table-striped">
-  <tbody>
-    {% for talk in page.talks %}  
-      <tr>
-        <td style="text-align: left"><strong><a href="{{ talk['speaker'].homepage }}">{{ organizer.name }}</a></strong> ({{ organizer.org }})</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>
+<h3>Talks</h3>
+  <table class="table table-striped">
+    <tbody>
+      {% for talk in site.data.talks %}
+         {% if talk.session ==  page.AA  %}
+          {% assign speaker = site.data.participants | where_exp: "item", "item.id==talk.speaker"  %}
+            <tr> 
+              <td style="text-align: left"><strong> {{ speaker[0]["first_name"] }} {{ speaker[0]["last_name"] }} - {{ talk["title"] }} </td>
+            </tr>
+        {% endif %}    
+      {% endfor %}
+    </tbody>
+  </table>
+ 
  
  
