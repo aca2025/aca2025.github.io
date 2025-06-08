@@ -702,6 +702,20 @@
   abstract :
 
 - id : 64
+  title : "TBA"
+  speaker : 149
+  authors :
+  session : 3
+  abstract :
+
+- id : 64
+  title : "TBA"
+  speaker : 3
+  authors :
+  session : 3
+  abstract :
+
+- id : 64
   title : "Subresultants of Several Ore Polynomials"
   speaker : 66
   authors :
@@ -709,7 +723,7 @@
   abstract :
 
 - id : 64
-  title : "TBA Reduce package for Differential Operators in Mathematical Physics and Theoretical PhysicsA"
+  title : "Reduce package for Differential Operators in Mathematical Physics and Theoretical PhysicsA"
   speaker : 42
   authors :
   session : 4
