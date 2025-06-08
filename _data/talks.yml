@@ -265,98 +265,98 @@
   abstract :
 
 - id : 39
-  title : ""
+  title : " A Shape Lemma for Ideals of Differential Operators"
   speaker : 27
   authors :
   session : 10
   abstract :
 
 - id : 40
-  title : ""
+  title : "Computing centralizers for linear differential operators"
   speaker : 115
   authors :
   session : 10
   abstract :
 
 - id : 41
-  title : ""
+  title : "Recent Advancements in Noncommutative Gröbner Basis Software"
   speaker : 41
   authors :
   session : 10
   abstract :
 
 - id : 42
-  title : ""
+  title : "An Effective Version of the Grothendieck p-curvature Conjecture for Order One Differential Equations"
   speaker : 40
   authors :
   session : 10
   abstract :
 
 - id : 43
-  title : ""
+  title : "Hypergeometric solutions of elliptic difference equations"
   speaker : 81
   authors :
   session : 10
   abstract :
 
 - id : 44
-  title : ""
+  title : "Topological closure of formal powers series ideals and application to topological rewriting theory"
   speaker : 89
   authors :
   session : 10
   abstract :
 
 - id : 45
-  title : ""
+  title : "Separated Variables on Plane Algebraic Curves"
   speaker : 83
   authors :
   session : 10
   abstract :
 
 - id : 46
-  title : ""
+  title : "Faster multivariate integration in D-modules"
   speaker : 84
   authors :
   session : 10
   abstract :
  
 - id : 47
-  title : ""
+  title : "Undecidability of Noncommutative Ideal Membership and Counterexamples of Operator Statements"
   speaker : 99
   authors :
   session : 10
   abstract :
 
 - id : 48
-  title : ""
+  title : "Generalized Gröbner Bases and Dimension Polynomials of D-modules"
   speaker : 24
   authors :
   session : 10
   abstract :
 
 - id : 49
-  title : ""
+  title : "Combining Sparsity and Symmetry Exploitation for SOS-Certificates"
   speaker : 87
   authors :
   session : 10
   abstract :
 
 - id : 50
-  title : ""
+  title : "Closed forms of power series with hypergeometric-type terms"
   speaker : 109
   authors :
   session : 10
   abstract :
 
 - id : 51
-  title : ""
+  title : "An algorithmic problem for Nijenhuis Lie algebras"
   speaker : 64
   authors :
   session : 10
   abstract :
 
 - id : 52
-  title : ""
+  title : "The Expansion Complexity of Ultimately Periodic Sequences over Finite Fields"
   speaker : 50
   authors :
   session : 10
@@ -500,4 +500,12 @@
   speaker : 73
   authors :
   session : 18
+  abstract :
+
+- id : 64
+  title : "The Shimizu–Morioka System Has No Nontrivial Darboux
+Polynomials"
+  speaker : 155
+  authors :
+  session : 10
   abstract :
