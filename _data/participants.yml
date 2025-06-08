@@ -121,7 +121,7 @@
   last_name : Cioffi
   email : cioffifr@unina.it
   org : Università di Napoli Federico II, Dipartimento di Matematica e Applicazioni
-  country : Italia
+  country : Italy
   homepage : 
   student : 
   speaker : 
@@ -186,7 +186,7 @@
   last_name : Topuzoglu
   email : alev@sabanciuniv.edu
   org : Sabanci University
-  country : Turkey
+  country : Türkiye
   homepage : 
   student : 
   speaker : 
@@ -199,7 +199,7 @@
   last_name : Stichtenoth
   email : henning@sabanciuniv.edu
   org : Sabanci University
-  country : Turkey
+  country : Türkiye
   homepage : 
   student : 
   speaker : 
@@ -441,6 +441,19 @@
   session : 
   fee: paid
 
+- id: 44
+  first_name : Sara  
+  last_name : Asensio
+  email : sara.asensio@uva.es
+  org : University of Valladolid
+  country : Spain
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 45
   first_name : Valentino  
   last_name : Smaldore
@@ -550,7 +563,7 @@
   last_name : Gül
   email : a.gul2025@gtu.edu.tr
   org : Gebze Technical University
-  country : Turkey
+  country : Türkiye
   homepage : 
   student : 
   speaker : 
@@ -628,7 +641,7 @@
   last_name :  Ayyıldız
   email : tulayayyildiz@gtu.edu.tr
   org : Gebze Technical University
-  country : Turkey
+  country : Türkiye
   homepage : https://sites.google.com/view/tayyildiz/home
   student : 
   speaker : 
@@ -805,6 +818,19 @@
   session : 
   fee: paid
 
+- id: 83
+  first_name : Manfred
+  last_name : Buchacher
+  email : manfredi.buchacher@gmail.com
+  org : Johannes Kepler Universität Linz
+  country : Austria
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
 - id: 84
   first_name : Hadrien
   last_name : Brochet
@@ -862,7 +888,7 @@
   last_name : Bavula
   email : :v.bavula@sheffield.ac.uk
   org : University of Sheffield
-  country : UK
+  country : United Kingdom
   homepage : 
   student : 
   speaker : 
@@ -940,7 +966,7 @@
   last_name : Gülmez Temür
   email : burcu.temur@atilim.edu.tr
   org : Atılım University 
-  country : Turkey
+  country : Türkiye
   homepage : 
   student : 
   speaker : 
@@ -979,7 +1005,7 @@
   last_name : Gómez-Pérez
   email : gomezd@unican.es
   org : Universidad de Cantabria
-  country : Sapin
+  country : Spain
   homepage : personales.unican.es/gomezd
   student : 
   speaker : 
@@ -1031,7 +1057,7 @@
   last_name : Teguia Tabuguia 
   email : bertrand.teguia@cs.ox.ac.uk
   org : University of Oxford
-  country : UK
+  country : United Kingdom
   homepage : 
   student : yes
   speaker : 
@@ -1044,7 +1070,7 @@
   last_name : O'Hare
   email : anthony.ohare@stir.ac.uk
   org : University of Stirling
-  country : UK
+  country : United Kingdom
   homepage : 
   student : 
   speaker : 
@@ -1125,6 +1151,19 @@
   country : USA
   homepage : https://longqianql.github.io/
   student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 119
+  first_name : Nicola
+  last_name : Vassena
+  email : nicola.vassena@uni-leipzig.de
+  org : Leipzig University
+  country : Germany
+  homepage : https://nvassena.github.io
+  student : 
   speaker : 
   role : 
   session : 
@@ -1650,19 +1689,6 @@
   session : 
   fee : 
 
-- id: 44
-  first_name : Sara  
-  last_name : Asensio
-  email : sara.asensio@uva.es
-  org : University of Valladolid
-  country : Spain
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 53
   first_name : Varadharaj  
   last_name : RaviSrinivasan
@@ -1768,19 +1794,6 @@
   session : 
   fee: 
 
-- id: 83
-  first_name : Manfred
-  last_name : Buchacher
-  email : manfredi.buchacher@gmail.com
-  org : Johannes Kepler Universität Linz
-  country : Austria
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: 
-
 - id: 88
   first_name : Moulay
   last_name : Barkatou
@@ -1812,7 +1825,7 @@
   last_name : Norman
   email : acn1@cam.ac.uk
   org : Trinity College, Cambridge
-  country : England
+  country : United Kingdom
   homepage : 
   student : 
   speaker : 
@@ -1880,19 +1893,6 @@
   country : France
   homepage : 
   student : yes
-  speaker : 
-  role : 
-  session : 
-  fee:  
-
-- id: 119
-  first_name : Nicola
-  last_name : Vassena
-  email : nicola.vassena@uni-leipzig.de
-  org : Leipzig University
-  country : Germany
-  homepage : https://nvassena.github.io
-  student : 
   speaker : 
   role : 
   session : 
