@@ -95,58 +95,65 @@
   authors :
   session : 1
   abstract :
- 
-- id : 9
-  title : ""
+
+- id : 11
+  title : "On solving parametric systems"
+  speaker : 156
+  authors :
+  session : 2
+  abstract :
+
+- id : 11
+  title : "Biological functions and functional modules originated in the structure of chemical reaction network"
   speaker : 54
   authors :
   session : 2
   abstract :
 
 - id : 11
-  title : ""
-  speaker : 156
-  authors :
-  session : 2
-  abstract :
- 
-- id : 12
-  title : ""
+  title : "Analyzing the dynamics and structure of biochemical reaction networks via network decomposition"
   speaker : 31
   authors :
   session : 2
   abstract :
 
 - id : 13
-  title : ""
+  title : "Symbolic bifurcation analysis of reaction networks with Python. Part I: Theory"
   speaker : 119
   authors :
   session : 2
   abstract :
 
 - id : 13
-  title : ""
+  title : "Graph-Theoretic Algorithms for Reducing Chemical Reaction Networks"
   speaker : 150
   authors :
   session : 2
   abstract :
 
 - id : 13
-  title : ""
+  title : "New Results about Bricard’s Flexible Octahedra"
   speaker : 101
   authors :
   session : 2
   abstract :
 
 - id : 13
-  title : ""
+  title : "Reaction networks with (generalized) mass-action kinetics: Sign vector conditions for the existence of a unique general equilibrium"
   speaker : 159
   authors :
   session : 2
   abstract :
 
 - id : 13
-  title : ""
+  title : "Bayesian inference of interaction rates in a metabolite-bacteria network using time-series counts"
+  speaker : 26
+  authors :
+  session : 2
+  abstract :
+
+- id : 13
+  title : "Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks - the GATTACA framework"
   speaker : 125
   authors :
   session : 2
@@ -794,7 +801,7 @@
   abstract :
 
 - id : 64
-  title : "Scattered trinomials of F}_{q^6}[X] in even characteristic"
+  title : "Scattered trinomials of F_{q^6}[X] in even characteristic"
   speaker : 68
   authors :
   session : 13
