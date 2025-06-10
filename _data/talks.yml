@@ -794,7 +794,7 @@
   abstract :
 
 - id : 64
-  title : "Scattered trinomials of $\mathbb{F}_{q^6}[X]$ in even characteristic"
+  title : "Scattered trinomials of F}_{q^6}[X] in even characteristic"
   speaker : 68
   authors :
   session : 13
@@ -841,4 +841,3 @@
   authors :
   session : 13
   abstract :
-
