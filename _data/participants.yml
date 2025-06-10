@@ -1674,7 +1674,7 @@
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : paid
 
 - id: 43
   first_name : Xiaodong  
@@ -1889,14 +1889,14 @@
   first_name : Florent
   last_name : Corniquel
   email : florent.corniquel@imj-prg.fr
-  org : orbonne University and INRIA Paris
+  org : Sorbonne University and INRIA Paris
   country : France
   homepage : 
   student : yes
   speaker : 
   role : 
   session : 
-  fee:  
+  fee: paid
 
 - id: 124
   first_name : Bart
@@ -1998,7 +1998,7 @@
   speaker : 
   role : 
   session : 
-  fee:
+  fee: paid
 
 - id: 156
   first_name : Fabrice
@@ -2025,3 +2025,29 @@
   role : 
   session : 
   fee:
+
+- id: 162
+  first_name : Alessandro
+  last_name : Neri
+  email : alessandro.neri@unina.it
+  org : University of Naples Federico II
+  country : Italy
+  homepage : https://alessandroneri.eu/
+  student :
+  speaker : 
+  role : 
+  session : 
+  fee: waived
+
+- id: 163
+  first_name : Benedek
+  last_name : Dombos
+  email : benedek.dombos@unige.ch
+  org : University of Geneva
+  country : Switzerland
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid

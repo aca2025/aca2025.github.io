@@ -447,6 +447,13 @@
   session : 10
   abstract :
 
+- id : 52
+  title : "Combinatorics of Schubert Cells in Random Network Coding"
+  speaker : 162
+  authors :
+  session : 10
+  abstract :
+
 - id : 53
   title : ""
   speaker : 65
@@ -758,10 +765,80 @@
   session : 4
   abstract :
 
-
 - id : 64
   title : "Affirmative answer to the Question of Leroy and Matczuk on injectivity of endomorphisms of semiprime left Noetherian rings with large images"
   speaker : 91
   authors :
   session : 4
   abstract :
+
+- id : 64
+  title : "Characterization of Nearly Self-Orthogonal Quasi-Twisted Codes and Related Quantum Codes"
+  speaker : 97
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "On the complete characterization of a class of permutation trinomials in characteristic five"
+  speaker : 98
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "Some constructions of asymptotically optimal cyclic subspace codes"
+  speaker : 158
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "Scattered trinomials of $\mathbb{F}_{q^6}[X]$ in even characteristic"
+  speaker : 68
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "Graph isomorphism and isomorphism of binary matrices"
+  speaker : 76
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "Enumeration of optimal binary and ternary linear codes with different hull dimensions"
+  speaker : 51
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "On the minimum distance and covering radius of irredundant orthogonal arrays"
+  speaker : 74
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "On a spherical code with 2025 points"
+  speaker : 71
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "On the hulls of linear codes"
+  speaker : 75
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "Resolutions of cyclic 2-(40,4,1) designs"
+  speaker : 82
+  authors :
+  session : 13
+  abstract :
+
