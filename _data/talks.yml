@@ -88,7 +88,7 @@
   authors :
   session : 1
   abstract :
- 
+
 - id : 8
   title : "Collaboration with ChatGPT for research and teaching in algebraic combinatorics"
   speaker : 72
@@ -155,13 +155,6 @@
 - id : 13
   title : "Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks - the GATTACA framework"
   speaker : 125
-  authors :
-  session : 2
-  abstract :
-
-- id : 13
-  title : ""
-  speaker : 23
   authors :
   session : 2
   abstract :
@@ -716,6 +709,13 @@
   abstract :
 
 - id : 64
+  title : "Decomposition of affine crystals in levels 1 and 2"
+  speaker : 163
+  authors :
+  session : 3
+  abstract :
+
+- id : 64
   title : "TBA"
   speaker : 149
   authors :
@@ -845,6 +845,13 @@
 - id : 64
   title : "Resolutions of cyclic 2-(40,4,1) designs"
   speaker : 82
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
+  title : "Universal polarization of sharp codes in the Leech lattice"
+  speaker : 165
   authors :
   session : 13
   abstract :

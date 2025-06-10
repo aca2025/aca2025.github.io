@@ -2051,3 +2051,29 @@
   role : 
   session : 
   fee: paid
+
+- id: 164
+  first_name : Daniel
+  last_name : Tsirkin
+  email : academictsirkin@gmail.com
+  org : JCT Israel
+  country : Israel
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 165
+  first_name : Peter
+  last_name : Dragnev
+  email : dragnevp@gmail.com
+  org : Purdue University Fort Wayne
+  country : USA
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
