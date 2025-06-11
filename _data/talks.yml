@@ -504,6 +504,12 @@
   session : 14
   abstract :
 
+- id : 54
+  title : "Algebraic and SAT Methods for Classes of Covering Arrays"
+  speaker : 174
+  authors :
+  session : 14
+  abstract :
 
 - id : 56
   title : "Invariant Polynomials and Cyclic Line Spreads"
