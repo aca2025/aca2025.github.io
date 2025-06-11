@@ -1622,7 +1622,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 35
   first_name : Joseph  
@@ -1644,11 +1644,11 @@
   org : Johannes Kepler University Linz
   country : Austria
   homepage : 
-  student : 
+  student : yes
   speaker : 
   role : 
   session : 
-  fee :
+  fee : paid
 
 - id: 37
   first_name : Karsten  
@@ -2115,7 +2115,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 169
   first_name : Abhiram
