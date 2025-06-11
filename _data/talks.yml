@@ -125,6 +125,13 @@
   abstract :
 
 - id : 13
+  title : "Symbolic bifurcation analysis of reaction networks with Python. Part II: Implementation"
+  speaker : 171
+  authors :
+  session : 2
+  abstract :
+
+- id : 13
   title : "Graph-Theoretic Algorithms for Reducing Chemical Reaction Networks"
   speaker : 150
   authors :
@@ -479,6 +486,13 @@
 - id : 53
   title : "On constructing bent functions from cyclotomic mappings"
   speaker : 65
+  authors :
+  session : 14
+  abstract :
+
+- id : 53
+  title : "Bent partitions, vectorial dual-bent functions, and association schemes"
+  speaker : 173
   authors :
   session : 14
   abstract :
@@ -900,4 +914,9 @@
   session : 16
   abstract :
 
-
+- id : 64
+  title : "On minor prime factorization for rank-deficient multivariate polynomial matrices"
+  speaker : 172
+  authors :
+  session : 16
+  abstract :

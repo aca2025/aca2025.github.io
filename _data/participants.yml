@@ -2142,3 +2142,42 @@
   role : 
   session : 
   fee: 
+
+- id: 171
+  first_name : Richard
+  last_name : Golnik
+  email : richard@bioinf.uni-leipzig.de
+  org : Leipzig University
+  country : Germany
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 172
+  first_name : Dingkang
+  last_name : Wang
+  email : dwang@mmrc.iss.ac.cn
+  org : Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+  country : China
+  homepage : http://www.mmrc.iss.ac.cn/~dwang/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 173
+  first_name : Tekgül
+  last_name : Kalaycı
+  email : tekgulkalayci1@gmail.com
+  org : Alpen-Adria-Universitat Klagenfurt
+  country : Austria
+  homepage : https://www.tekgulkalayci.com/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
