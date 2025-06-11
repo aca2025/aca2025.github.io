@@ -1778,7 +1778,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 
 - id: 79
@@ -1805,7 +1805,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 89
   first_name : Cyrille
@@ -1818,7 +1818,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 90
   first_name : Arthur
@@ -2011,7 +2011,7 @@
   speaker : 
   role : 
   session : 
-  fee:
+  fee: paid
 
 - id: 160
   first_name : Julien
@@ -2103,3 +2103,42 @@
   role : 
   session : 
   fee: online
+
+- id: 168
+  first_name : Garrett
+  last_name : Paluck
+  email : gpaluck@sfu.ca
+  org : Simon Fraser University
+  country : Canada
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 169
+  first_name : Abhiram
+  last_name : Natarajan
+  email : abhiram.natarajan.57@gmail.com
+  org : University of Warwick
+  country : United Kingdom
+  homepage : https://abhiramnatarajan.github.io/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 170
+  first_name : David
+  last_name : Jeffrey
+  email : djj@uwo.ca
+  org : University of Western Ontario
+  country : Canada
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 

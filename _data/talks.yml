@@ -300,6 +300,13 @@
   session : 9
   abstract :
 
+- id : 33
+  title : "Gröbner bases native to finitely generated commutative algebras with term order, with application to the Hodge algebra of minors"
+  speaker : 169
+  authors :
+  session : 9
+  abstract :
+
 - id : 34
   title : "Computational Generation of Zariski Pairs in Conic-Line Arrangements"
   speaker : 25
@@ -789,6 +796,13 @@
   abstract :
 
 - id : 64
+  title : "TBA"
+  speaker : 6
+  authors :
+  session : 13
+  abstract :
+
+- id : 64
   title : "Characterization of Nearly Self-Orthogonal Quasi-Twisted Codes and Related Quantum Codes"
   speaker : 97
   authors :
@@ -864,3 +878,39 @@
   authors :
   session : 13
   abstract :
+
+- id : 64
+  title : "Fixed-Time Tensor Gradient Neural Network for Online Sylvester Tensor Equation Solving"
+  speaker : 39
+  authors :
+  session : 16
+  abstract :
+
+- id : 64
+  title : "The A_α-spectral radius of uniform hypergraphs"
+  speaker : 43
+  authors :
+  session : 16
+  abstract :
+
+- id : 64
+  title : "Solving reduced biquaternion tensor equations and applications"
+  speaker : 33
+  authors :
+  session : 16
+  abstract :
+
+- id : 64
+  title : ""
+  speaker : 
+  authors :
+  session : 16
+  abstract :
+
+- id : 64
+  title : ""
+  speaker : 
+  authors :
+  session : 16
+  abstract :
+
