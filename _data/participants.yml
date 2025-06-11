@@ -1661,7 +1661,7 @@
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : paid
 
 - id: 39
   first_name : Mengyan  
@@ -1739,7 +1739,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: onsite
 
 - id: 67
   first_name : Piedad
@@ -1922,7 +1922,7 @@
   speaker : 
   role : 
   session : 
-  fee:
+  fee: onsite
 
 - id: 126
   first_name : Cristina
@@ -2077,3 +2077,29 @@
   role : 
   session : 
   fee: paid
+
+- id: 166
+  first_name : Pietro
+  last_name : Sabatino
+  email : pietro.sabatino@icar.cnr.it
+  org : Institute for High Performance Computing and Networking (ICAR-CNR)
+  country : Italy
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 167
+  first_name : Werner M.
+  last_name : Seiler
+  email : seiler@mathematik.uni-kassel.de
+  org : Kassel University
+  country : Germany
+  homepage : www.mathematik.uni-kassel.de/~seiler	
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: online

@@ -278,6 +278,14 @@
   session : 9
   abstract :
 
+- id : 31
+  title : "A computer-aided construction of non-homeomorphic double Kodaira fibrations that possess the same biregular invariants"
+  speaker : 166
+  authors :
+  session : 9
+  abstract :
+
+
 - id : 32
   title : "Constructing nonspecial divisors in the moduli space of cubic fourfolds"
   speaker : 121
@@ -454,71 +462,72 @@
   session : 10
   abstract :
 
+- id : 55
+  title : "A new tool for differential analysis of functions in characteristic 2"
+  speaker : 16
+  authors :
+  session : 14
+  abstract :
+
 - id : 53
-  title : ""
+  title : "On constructing bent functions from cyclotomic mappings"
   speaker : 65
   authors :
   session : 14
   abstract :
 
 - id : 54
-  title : ""
+  title : "Quadratic-like permutations over F_n^2"
   speaker : 22
   authors :
   session : 14
   abstract :
 
-- id : 55
-  title : ""
-  speaker : 16
-  authors :
-  session : 14
-  abstract :
 
 - id : 56
-  title : ""
+  title : "Invariant Polynomials and Cyclic Line Spreads"
   speaker : 95
   authors :
   session : 14
   abstract :
 
 - id : 57
-  title : ""
+  title : "Further results on covering radii of some codes and their connections"
   speaker : 69
   authors :
   session : 14
   abstract :
 
 - id : 58
-  title : ""
+  title : "Normal and primitive normal elements with prescribed traces in intermediate extensions of finite fields"
   speaker : 2
   authors :
   session : 14
   abstract :
 
 - id : 59
-  title : ""
+  title : "Automatic Sequences Along Polynomial Subsequences and Their Applications"
   speaker : 103
   authors :
   session : 14
   abstract :
 
 - id : 59
-  title : ""
+  title : "Factoring Multilinear Boolean Polynomials"
   speaker : 107
   authors :
   session : 14
   abstract :
 
 - id : 59
-  title : ""
+  title : "New covering arrays of strength-4 and q symbols from three truncated Möbius planes in P G(3, q), for odd prime power q"
   speaker : 136
   authors :
   session : 14
   abstract :
 
 - id : 59
-  title : ""
+  title : "Nilpotent linearized polynomials and applications"
   speaker : 158
   authors :
   session : 14
