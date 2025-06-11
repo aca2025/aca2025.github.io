@@ -1626,16 +1626,16 @@
 
 - id: 35
   first_name : Joseph  
-  last_name : Baranoski
+  last_name : Baranoski II
   email : jabaranoski@gmail.com
   org : The Catholic University of America
   country : USA
   homepage : 
-  student : 
+  student : student
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : paid
 
 - id: 36
   first_name : Jakob  
@@ -1765,7 +1765,7 @@
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : paid
 
 - id: 76
   first_name : Iliya
