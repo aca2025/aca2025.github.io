@@ -22,7 +22,7 @@ layout: default
               <td style="text-align: left"><strong>{% increment cou %}. 
                 {% for t in speaker %}
                   {{ t["first_name"] }} {{ t["last_name"] }} - 
-                {% endif %}    
+                {% endfor %}    
               {{ talk["title"] }} </td>
             </tr>
         {% endif %}    
