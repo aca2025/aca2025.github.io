@@ -55,4 +55,8 @@ Beneficiary: ΕΤΑΙΡΙΑ ΕΡΕΥΝΑΣ ΚΑΙ ΠΡΑΞΗΣ
 <br>
 Address: Nikolaou Kazantzaki 12, 26442 Patras, Greece
 <br>
-
+<br><br>
+Accompanying persons are very welcome to the social program (museum excursion, transportation to the Archanes village and back, conference dinner) of Wednesday 16/6/2025. 
+<br>
+The fee is 60 euros and we prefer if it is paid on site. If this is not convenient for you, please contact us.
+<br><br>
