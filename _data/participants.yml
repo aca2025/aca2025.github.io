@@ -1959,7 +1959,7 @@
   speaker : 
   role : 
   session : 
-  fee:
+  fee: paid
 
 - id: 135
   first_name : Valentina
@@ -2228,6 +2228,19 @@
   org : Beihang University
   country : China
   homepage : https://math-bo.github.io/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 178
+  first_name : Sofia
+  last_name : Triantafyllou
+  email : sof.triantafillou@uoc.gr
+  org : University of Crete
+  country : Greece
+  homepage : 
   student : 
   speaker : 
   role : 
