@@ -1451,7 +1451,7 @@
   homepage : 
   student : yes
   speaker : 
-  role : organizer
+  role : volunteer
   session : 
   fee: waived
 
@@ -1477,7 +1477,7 @@
   homepage : 
   student : yes
   speaker : 
-  role : organizer
+  role : volunteer
   session : 
   fee: waived
 
@@ -1490,7 +1490,7 @@
   homepage : 
   student : yes
   speaker : 
-  role : 
+  role : volunteer
   session : 
   fee: waived
 
@@ -2246,3 +2246,31 @@
   role : 
   session : 
   fee: 
+
+- id: 179
+  first_name : Stelios
+  last_name : Mathioulakis
+  email : steliosmathiou20m@gmail.com
+  org : University of Crete
+  country : Greece
+  homepage : 
+  student : 
+  speaker : 
+  role : volunteer
+  session : 
+  fee: waived
+
+- id: 180
+  first_name : Despoina Maria
+  last_name : Pitsoka
+  email : despoina.pits.30@gmail.com
+  org : University of Thessaly
+  country : Greece
+  homepage : 
+  student : yes
+  speaker : 
+  role : volunteer
+  session : 
+  fee: waived
+
+ 
