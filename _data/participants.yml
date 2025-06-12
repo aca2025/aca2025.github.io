@@ -910,8 +910,8 @@
   fee: paid
 
 - id: 93
-  first_name : Máté
-  last_name : László
+  first_name : Máté László
+  last_name : Telek
   email : mate.telek@mis.mpg.de
   org : Max Planck Institute for Mathematics in the Sciences
   country : Germany
@@ -2189,6 +2189,45 @@
   org : Paris Lodron University of Salzburg and Salzburg University of Applied Sciences
   country : Austria
   homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 175
+  first_name : Elias
+  last_name : Tsigaridas
+  email : elias.tsigaridas@inria.fr
+  org : Inria Paris
+  country : France
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 176
+  first_name : Qingwen
+  last_name : Wang
+  email : wqwshu9@126.com
+  org : Shanghai University
+  country : China
+  homepage : https://math.shu.edu.cn/Portals/721/teacher/Qing-WenWang/Qing-WenWang.htm
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 177
+  first_name : Bo
+  last_name : Huang
+  email : bohuang0407@buaa.edu.cn
+  org : Beihang University
+  country : China
+  homepage : https://math-bo.github.io/
   student : 
   speaker : 
   role : 

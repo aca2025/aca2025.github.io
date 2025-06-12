@@ -385,6 +385,13 @@
   session : 10
   abstract :
 
+- id : 40
+  title : "Solutions of Knizhnik-Zamolodchikov equation by dévissage"
+  speaker : 130
+  authors :
+  session : 10
+  abstract :
+
 - id : 41
   title : "Recent Advancements in Noncommutative Gröbner Basis Software"
   speaker : 41
@@ -473,7 +480,7 @@
   title : "Combinatorics of Schubert Cells in Random Network Coding"
   speaker : 162
   authors :
-  session : 10
+  session : 9
   abstract :
 
 - id : 55
@@ -778,8 +785,14 @@
   authors :
   session : 4
   abstract :
- 
- 
+
+- id : 64
+  title : "Integrability and Linearizability of a Family of Three-Dimensional Polynomial Systems"
+  speaker : 177
+  authors :
+  session : 4
+  abstract :
+
 - id : 64
   title : "Iterated strongly normal extensions and nonlinear differential equations"
   speaker : 53
@@ -925,4 +938,32 @@
   speaker : 172
   authors :
   session : 16
+  abstract :
+
+- id : 64
+  title : "The generalized hand-eye calibration equation and its application"
+  speaker : 176
+  authors :
+  session : 16
+  abstract :
+
+- id : 64
+  title : "Static bounds for straight-line programs"
+  speaker : 116
+  authors :
+  session : 12
+  abstract :
+
+- id : 64
+  title : "Solving bihomogeneous polynomial systems with a zero-dimensional projection"
+  speaker : 
+  authors :
+  session : 12
+  abstract :
+
+- id : 64
+  title : "Copositive geometry of Feynman integrals"
+  speaker : 93
+  authors :
+  session : 12
   abstract :
