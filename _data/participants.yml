@@ -2273,4 +2273,15 @@
   session : 
   fee: waived
 
- 
+- id: 181
+  first_name : Matías
+  last_name : Bender
+  email : matias.bender@inria.fr
+  org : Inria - École Polytechnique
+  country : France
+  homepage : https://mbender.github.io/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
