@@ -17,7 +17,7 @@ layout: default
     <tbody>
       {% for talk in site.data.talks %}
          {% if talk.session ==  session.AA  %}
-          {% assign speaker = site.data.participants | where_exp: "item", "item.id==talk.speaker or 'talk.speaker contains item.id'"  %}
+          {% assign speaker = site.data.participants | where_exp: "item", "item.id==talk.speaker"  %}
             <tr> 
               <td style="text-align: left"><strong>{% increment cou %}. 
                 {% for t in speaker %}
