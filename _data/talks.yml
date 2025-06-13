@@ -146,6 +146,13 @@
   abstract :
 
 - id : 13
+  title : "Learning treatment effects from multiple data"
+  speaker : 178
+  authors :
+  session : 2
+  abstract :
+
+- id : 13
   title : "Reaction networks with (generalized) mass-action kinetics: Sign vector conditions for the existence of a unique general equilibrium"
   speaker : 159
   authors :

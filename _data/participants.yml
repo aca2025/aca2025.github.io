@@ -1831,7 +1831,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: onsite
 
 - id: 96
   first_name : Robert
@@ -1946,7 +1946,7 @@
   homepage : https://yota-maeda.vercel.app/
   student : 
   session : 
-  fee:
+  fee: paid
 
 - id: 137
   first_name : Annie
@@ -2245,7 +2245,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 179
   first_name : Stelios
