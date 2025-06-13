@@ -6,7 +6,7 @@ layout: default
 
 <br><br>
 
-{% assign sorted_participants = site.data.participants | sort: 'last_name' | where_exp: "item", "item.fee=='paid' or item.fee=='waived' or item.fee=='onsite'"  %}
+{% assign sorted_participants = site.data.participants | sort: 'last_name' | where_exp: "item", "item.fee=='paid' or item.fee=='waived' or item.fee=='onsite' or item.fee=='online'"  %}
 
 
 <table class="table table-striped">
