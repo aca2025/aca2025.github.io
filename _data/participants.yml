@@ -2024,7 +2024,7 @@
   speaker : 
   role : 
   session : 
-  fee:
+  fee: paid
 
 - id: 162
   first_name : Alessandro
@@ -2206,7 +2206,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 176
   first_name : Qingwen
