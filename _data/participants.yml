@@ -2285,3 +2285,42 @@
   role : 
   session : 
   fee: paid
+
+- id: 182
+  first_name : Alexandros
+  last_name : Karakonstantakis
+  email : tem2515@tem.uoc.gr
+  org : Department of Mathematics and Applied Mathematics
+  country : Greece
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 182
+  first_name : Hélène
+  last_name : Décoste
+  email : helenedeoste@yahoo.ca
+  org : Collège Lionel-Groulx
+  country : Canada
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
+
+- id: 182
+  first_name : Gilbert
+  last_name : Labelle
+  email : labelle.gilbert@uqam.ca
+  org : Université du Québec à Montréal
+  country : Canada
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid
