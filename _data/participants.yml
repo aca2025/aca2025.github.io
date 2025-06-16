@@ -2324,3 +2324,29 @@
   role : 
   session : 
   fee: paid
+
+- id: 183
+  first_name : Angeliki-Aikaterini
+  last_name : Metallinou
+  email : angelique.metallin@gmail.com
+  org : University of Athens
+  country : Greece
+  homepage : 
+  student : yes
+  speaker : 
+  role : assistant
+  session : 
+  fee: waived
+
+- id: 184
+  first_name : Maria
+  last_name : Chatzikyriakou
+  email : maria.chatz@yahoo.com
+  org : National and Kapodistrian University of Athens
+  country : Greece
+  homepage : 
+  student : yes
+  speaker : 
+  role : assistant
+  session : 
+  fee: waived
