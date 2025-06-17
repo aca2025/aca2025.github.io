@@ -2350,3 +2350,42 @@
   role : assistant
   session : 
   fee: waived
+
+- id: 185
+  first_name : Quoc Hoan
+  last_name : Ngo
+  email : ngoquochoanhp1986@gmail.com
+  org : HaNoi University of science and technology
+  country : Vietnam
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 186
+  first_name : Vu
+  last_name : Nguyen Dinh
+  email : nguyen-dinh.vu@usth.edu.vn
+  org : University of Science and Technology of Hanoi
+  country : Vietnam
+  homepage : https://usth.edu.vn/en/dr-nguyen-dinh-vu-9198/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 187
+  first_name : Maria
+  last_name : Papadopoulou
+  email : math6575@math.uoc.gr
+  org : University of Crete
+  country : Greece
+  homepage : 
+  student : yes
+  speaker : 
+  role : assistant
+  session : 
+  fee: waived

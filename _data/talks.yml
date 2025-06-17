@@ -1015,3 +1015,66 @@
   authors : 
   session : 11
   abstract :
+
+- id : 64
+  title : " 30 Years of Applications of Computer Algebra (ACA), a personal perspective"
+  speaker : 19
+  authors : 
+  session : 7
+  abstract :
+
+- id : 64
+  title : "Portability of early CAS"
+  speaker : 46
+  authors : 
+  session : 7
+  abstract :
+
+- id : 64
+  title : "Symbolic computation in 1974-1976 in Japan"
+  speaker : 94
+  authors : 
+  session : 7
+  abstract :
+
+- id : 64
+  title : "60+ years of applications: a perspective from Reduce"
+  speaker : 90
+  authors : 
+  session : 7
+  abstract :
+
+- id : 64
+  title : "Efficiency problems in the history of Maple"
+  speaker : 107
+  authors : 
+  session : 7
+  abstract :
+
+- id : 64
+  title : "Derive and Computer Algebra"
+  speaker : 170
+  authors : 
+  session : 7
+  abstract :
+
+- id : 64
+  title : "A personal history with computer algebra"
+  speaker : 200
+  authors : 
+  session : 7
+  abstract :
+
+- id : 64
+  title : "Analysis vs algebra in symbolic computation"
+  speaker : 105
+  authors : 
+  session : 7
+  abstract :
+
+- id : 64
+  title : "CAS, Symbolic-Numeric Computation"
+  speaker : 15
+  authors : 
+  session : 7
+  abstract :
