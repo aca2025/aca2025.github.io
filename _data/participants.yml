@@ -1792,7 +1792,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 88
   first_name : Moulay
@@ -1935,7 +1935,7 @@
   speaker : 
   role : 
   session : 
-  fee:
+  fee: paid
 
 - id: 134
   first_name : Yota
@@ -2389,3 +2389,29 @@
   role : assistant
   session : 
   fee: waived
+
+- id: 188
+  first_name : Joris
+  last_name : van der Hoeven
+  email : vdhoeven@lix.polytechnique.fr
+  org : CNRS
+  country : France
+  homepage : https://www.texmacs.org/joris/main/joris.html
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 189
+  first_name : Gérard H. E.
+  last_name : Duchamp
+  email : gheduchamp@gmail.com
+  org : IHP and LIPN, Paris Sorbonne City
+  country : France
+  homepage : https://lipn.univ-paris13.fr/~duchamp/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: paid

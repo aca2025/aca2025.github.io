@@ -574,6 +574,7 @@
   session : 14
   abstract :
 
+
 - id : 59
   title : "Nilpotent linearized polynomials and applications"
   speaker : 158
@@ -849,7 +850,7 @@
   abstract :
 
 - id : 64
-  title : "TBA"
+  title : "Girth Analysis of Quantum Quasi-Cyclic LDPC Codes"
   speaker : 6
   authors :
   session : 13
@@ -871,7 +872,7 @@
 
 - id : 64
   title : "Some constructions of asymptotically optimal cyclic subspace codes"
-  speaker : 158
+  speaker : 152
   authors :
   session : 13
   abstract :
@@ -970,6 +971,13 @@
 - id : 64
   title : "Static bounds for straight-line programs"
   speaker : 116
+  authors :
+  session : 12
+  abstract :
+
+- id : 64
+  title : "Multivariate Complex Solver in Maple 2024"
+  speaker : 200
   authors :
   session : 12
   abstract :
