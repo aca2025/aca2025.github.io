@@ -250,6 +250,20 @@
   session : 8
   abstract :
 
+- id : 25
+  title : "Computing D-Finite Symmetric Scalar Products in Order to Count Regular Graphs"
+  speaker : 85
+  authors :
+  session : 8
+  abstract :
+
+- id : 25
+  title : "TBA"
+  speaker : 160
+  authors :
+  session : 8
+  abstract :
+
 - id : 26
   title : "Guessing and arithmetic of D-algebraic sequences"
   speaker : 109
@@ -272,7 +286,7 @@
   abstract :
 
 - id : 29
-  title : "TBA"
+  title : "Non-Minimality of Minimal Telescopers Explained by Residues"
   speaker : 27
   authors :
   session : 8
