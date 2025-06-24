@@ -48,14 +48,14 @@
   abstract :
 
 - id : 1
-  title : "Questions and ideas from deceased colleagues that help us carry on"
+  title : "Questions and ideas from deceased colleagues that help us carry on (I)"
   speaker : 20
   authors :
   session : 1
   abstract :
 
 - id : 2
-  title : "Questions and ideas from deceased colleagues that help us carry on"
+  title : "Questions and ideas from deceased colleagues that help us carry on (II)"
   speaker : 20
   authors :
   session : 1
@@ -175,7 +175,7 @@
 
 - id : 15
   title : "Secular perturbations in the four-body system with anisotropically varying masses"
-  speaker : 30
+  speaker : 10
   authors :
   session : 5
   abstract :

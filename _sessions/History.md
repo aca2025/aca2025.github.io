@@ -2,7 +2,7 @@
 title: History of Computer Algebra
 layout: session
 AA: 7
-webpage:  
+webpage: "https://github.com/rcorless/ACA-2025-History-of-Computer-Algebra/blob/main/index.md"
 organizers:
   - name: Robert M. Corless
     org: "University of Western Ontario, London, Ontario, Canada"

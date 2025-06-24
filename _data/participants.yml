@@ -1451,7 +1451,7 @@
   homepage : 
   student : yes
   speaker : 
-  role : volunteer
+  role : assistant
   session : 
   fee: waived
 
@@ -1477,7 +1477,7 @@
   homepage : 
   student : yes
   speaker : 
-  role : volunteer
+  role : assistant
   session : 
   fee: waived
 
@@ -1490,7 +1490,7 @@
   homepage : 
   student : yes
   speaker : 
-  role : volunteer
+  role : assistant
   session : 
   fee: waived
 
@@ -2256,7 +2256,7 @@
   homepage : 
   student : 
   speaker : 
-  role : volunteer
+  role : assistant
   session : 
   fee: waived
 
@@ -2269,7 +2269,7 @@
   homepage : 
   student : yes
   speaker : 
-  role : volunteer
+  role : assistant
   session : 
   fee: waived
 
@@ -2293,11 +2293,11 @@
   org : Department of Mathematics and Applied Mathematics
   country : Greece
   homepage : 
-  student : 
+  student : yes
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: waived
 
 - id: 182
   first_name : Hélène
@@ -2415,3 +2415,29 @@
   role : 
   session : 
   fee: paid
+
+- id: 190
+  first_name : Manos
+  last_name : Tsagkarakis
+  email : tem3199@tem.uoc.gr
+  org : University of Crete
+  country : Greece
+  homepage : 
+  student : yes
+  speaker : 
+  role : assistant
+  session : 
+  fee: waived
+
+- id: 191
+  first_name : Maria
+  last_name : Vitsilaki
+  email : mariavtsilaki@gmail.com
+  org : University of Crete
+  country : Greece
+  homepage : 
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: 

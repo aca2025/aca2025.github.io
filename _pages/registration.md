@@ -7,6 +7,33 @@ nav: true
 ---
 
 
+Registration for ACA 2025 is [done through this form](https://forms.gle/oMYJXoRNfHN1kzpL7). 
+
+Note that in order to complete the registration, you have to fill in the above form and pay the registration fee. 
+
+Coming soon: Clicking on the fee you want to pay in the table below, you will be redirected to a secure payment system. 
+
+The registration fee covers all conference material, lunch, and conference dinner.
+
+You can pay the registration fee through stripe (following the links below) or 
+through direct bank transfer to the following bank account:
+<br>
+IBAN: GR34 0172 5040 0055 0411 2105 286
+<br>
+BIC/SWIFT: PIRBGRAA
+<br>
+Beneficiary: ΕΤΑΙΡΙΑ ΕΡΕΥΝΑΣ ΚΑΙ ΠΡΑΞΗΣ
+<br>
+Address: Nikolaou Kazantzaki 12, 26442 Patras, Greece
+<br>
+<br><br>
+Accompanying persons are very welcome to the social program (museum excursion, transportation to the Archanes village and back, conference dinner) of Wednesday 16/7/2025. 
+<br>
+The fee is 60 euros and we prefer if it is paid on site. If this is not convenient for you, please contact us.
+<br><br>
+
+
+
 <p style="background-color:Tomato;">
 BE CAREFUL OF SCAMS
 <br>
@@ -35,28 +62,3 @@ Canada Office : (+1) 833 833 2107
 <br><br>
 Our team is ready to support you.
 </p>
-
-Registration for ACA 2025 is [done through this form](https://forms.gle/oMYJXoRNfHN1kzpL7). 
-
-Note that in order to complete the registration, you have to fill in the above form and pay the registration fee. 
-
-Coming soon: Clicking on the fee you want to pay in the table below, you will be redirected to a secure payment system. 
-
-The registration fee covers all conference material, lunch, and conference dinner.
-
-You can pay the registration fee through stripe (following the links below) or 
-through direct bank transfer to the following bank account:
-<br>
-IBAN: GR34 0172 5040 0055 0411 2105 286
-<br>
-BIC/SWIFT: PIRBGRAA
-<br>
-Beneficiary: ΕΤΑΙΡΙΑ ΕΡΕΥΝΑΣ ΚΑΙ ΠΡΑΞΗΣ
-<br>
-Address: Nikolaou Kazantzaki 12, 26442 Patras, Greece
-<br>
-<br><br>
-Accompanying persons are very welcome to the social program (museum excursion, transportation to the Archanes village and back, conference dinner) of Wednesday 16/7/2025. 
-<br>
-The fee is 60 euros and we prefer if it is paid on site. If this is not convenient for you, please contact us.
-<br><br>
