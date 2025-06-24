@@ -46,6 +46,7 @@ not restricted to:
 * Convolutional codes
 * Quantum codes
 * Algebraic decoding algorithms
-* Combinatorial algorithms* Computational results
+* Combinatorial algorithms
+* Computational results
 * Related algebraic and combinatorial structures
 
