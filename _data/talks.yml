@@ -307,6 +307,13 @@
   abstract :
 
 - id : 31
+  title : "TBC: Deterministic Determination of Axial Constants and Sectional Regularities"
+  speaker : 167
+  authors :
+  session : 9
+  abstract :
+
+- id : 31
   title : "A computer-aided construction of non-homeomorphic double Kodaira fibrations that possess the same biregular invariants"
   speaker : 166
   authors :
