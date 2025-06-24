@@ -469,13 +469,6 @@
   session : 10
   abstract :
 
-- id : 47
-  title : "Solutions of Knizhnik-Zamolodchikov equation by dévissage"
-  speaker : 130
-  authors :
-  session : 10
-  abstract :
-
 - id : 48
   title : "Generalized Gröbner Bases and Dimension Polynomials of D-modules"
   speaker : 24
@@ -629,6 +622,13 @@
   speaker : 117
   authors :
   session : 15
+  abstract :
+
+- id : 63
+  title : "The geometry of one-weight linear codes"
+  speaker : 162
+  authors :
+  session : 17
   abstract :
 
 - id : 63
