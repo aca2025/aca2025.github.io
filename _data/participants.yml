@@ -2441,3 +2441,29 @@
   role : 
   session : 
   fee: 
+
+- id: 192
+  first_name : George
+  last_name : Labahn
+  email : glabahn@uwaterloo.ca
+  org : University of Waterloo
+  country : Canada
+  homepage : www.uwaterloo.ca/~glabahn
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 193
+  first_name : Maria
+  last_name : Loukaki
+  email : loukaki@gmail.com
+  org : University of Crete
+  country : Greece
+  homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 

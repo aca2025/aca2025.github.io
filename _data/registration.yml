@@ -4,12 +4,12 @@ fees:
     early: 300
     late: 350
     currency: euros
-    payment_early: https://buy.stripe.com/bIY01P6Q282t86c3ce
+    payment_early: 
     payment_late: https://buy.stripe.com/7sI4i5fmyfuV5Y44gj   
   - type: student 
     early: 200
     late: 250
     currency: euros
-    payment_early: https://buy.stripe.com/8wMdSF3DQ4Qh3PW3cc
+    payment_early: 
     payment_late: https://buy.stripe.com/3cs15T8YadmNdqwaEF
 
