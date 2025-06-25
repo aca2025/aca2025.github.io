@@ -1128,3 +1128,31 @@
   authors : 
   session : 7
   abstract :
+
+- id : 64
+  title : "On the maximal spread of symmetric Bohemian matrices"
+  speaker : 105
+  authors : 
+  session : 6
+  abstract :
+
+- id : 64
+  title : "From Smith forms to spectra to iterative algorithms for sparse integer matrices"
+  speaker : 13
+  authors : 
+  session : 6
+  abstract :
+
+- id : 64
+  title : "Tools for fast computation of integer matrix normal forms"
+  speaker : 192
+  authors : 
+  session : 6
+  abstract :
+
+- id : 64
+  title : "Computing Hermite normal forms of integer matrices faster"
+  speaker : 148
+  authors : 
+  session : 6
+  abstract :
