@@ -597,7 +597,7 @@
   abstract :
 
 - id : 60
-  title : ""
+  title : "Proudfoot-Speyer degenerations of scattering equations"
   speaker : 112
   authors :
   session : 15
@@ -610,15 +610,22 @@
   session : 15
   abstract :
 
-- id : 62
+- id : 61
   title : ""
+  speaker : 156
+  authors :
+  session : 15
+  abstract :
+
+- id : 62
+  title : "Vector-friendly numbers with n-word precision"
   speaker : 123
   authors :
   session : 15
   abstract :
 
 - id : 62
-  title : ""
+  title : "Logical Completeness of Differential Equations"
   speaker : 117
   authors :
   session : 15
