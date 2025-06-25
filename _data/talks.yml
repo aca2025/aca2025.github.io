@@ -258,7 +258,7 @@
   abstract :
 
 - id : 25
-  title : "TBA"
+  title : "A purity theorem for Mahler equations"
   speaker : 160
   authors :
   session : 8
@@ -712,6 +712,20 @@
 - id : 63
   title : "Unramified Variants of Motivic Multiple Zeta Values"
   speaker : 73
+  authors :
+  session : 18
+  abstract :
+
+- id : 63
+  title : "Families of Eulerian Functions Involved in Regularization of Divergent Polyzetas"
+  speaker : 185
+  authors :
+  session : 18
+  abstract :
+
+- id : 63
+  title : "A Generalization of Magnus Duality"
+  speaker : 186
   authors :
   session : 18
   abstract :
