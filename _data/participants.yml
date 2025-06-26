@@ -93,7 +93,7 @@
 - id: 8
   first_name: Ioannis
   last_name: Emiris
-  email: 
+  email: emiris@athenarc.gr
   org: "ATHENA RC and University of Athens"
   country: Greece
   homepage: "https://www.athenarc.gr/en/people/527"
@@ -557,19 +557,6 @@
   role : 
   session : 
   fee : paid
-
-- id: 55
-  first_name : Ahmet Melih  
-  last_name : Gül
-  email : a.gul2025@gtu.edu.tr
-  org : Gebze Technical University
-  country : Türkiye
-  homepage : 
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee : waived
 
 - id: 57
   first_name : Koji   
@@ -1972,7 +1959,7 @@
   speaker : 
   role : 
   session : 
-  fee:
+  fee: paid
 
 - id: 141
   first_name : Van Chien
@@ -2462,6 +2449,19 @@
   org : University of Crete
   country : Greece
   homepage : 
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 194
+  first_name : Daniel
+  last_name : Juteau
+  email : daniel.juteau@u-picardie.fr
+  org : CNRS / Université de Picardie Jules Verne
+  country : France
+  homepage : https://www.lamfa.u-picardie.fr/annuaire/danjuteau
   student : 
   speaker : 
   role : 
