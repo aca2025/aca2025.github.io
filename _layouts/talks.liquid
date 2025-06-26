@@ -18,8 +18,6 @@ layout: default
       {% for talk in site.data.talks %}
          {% if talk.session ==  session.AA  %}
           {% assign speaker = site.data.participants | where_exp: "item", "item.id==talk.speaker"  %}
-            {{ speaker["fee"] }}
-            {% if speaker.fee=='paid' or speaker.fee=='waived' or speaker.fee=='onsite' or speaker.fee=='online' %}
             <tr> 
               <td style="text-align: left"><strong>{% increment cou %}. 
                 {% for t in speaker %}
@@ -27,7 +25,7 @@ layout: default
                 {% endfor %}    
               {{ talk["title"] }} </td>
             </tr>
-          {% endif %}    
+
         {% endif %}    
       {% endfor %}
     </tbody>
