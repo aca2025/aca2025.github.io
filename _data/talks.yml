@@ -604,14 +604,14 @@
   abstract :
 
 - id : 61
-  title : ""
+  title : "Braid monodromy computations using certified path tracking"
   speaker : 120
   authors :
   session : 15
   abstract :
 
 - id : 61
-  title : ""
+  title : "Some challenges and applications for continuation methods for solving algebraic systems"
   speaker : 156
   authors :
   session : 15
@@ -1071,13 +1071,6 @@
   speaker : 168
   authors : 
   session : 11
-  abstract :
-
-- id : 64
-  title : " 30 Years of Applications of Computer Algebra (ACA), a personal perspective"
-  speaker : 19
-  authors : 
-  session : 7
   abstract :
 
 - id : 64
