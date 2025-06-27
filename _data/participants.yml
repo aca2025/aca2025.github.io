@@ -1844,7 +1844,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: onsite
 
 - id: 106
   first_name : Arkadiusz
@@ -1857,7 +1857,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 116
   first_name : Arnaud
@@ -2462,6 +2462,19 @@
   org : CNRS / Université de Picardie Jules Verne
   country : France
   homepage : https://www.lamfa.u-picardie.fr/annuaire/danjuteau
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 194
+  first_name : Jing
+  last_name : Yang
+  email : yangjing0930@gmail.com
+  org : Guangxi Minzu University
+  country : China
+  homepage : https://jyangmath.github.io/
   student : 
   speaker : 
   role : 
