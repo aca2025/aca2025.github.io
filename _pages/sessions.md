@@ -1,6 +1,6 @@
 ---
 layout: sessions
-title: Special Sessions
+title: Sessions
 permalink: /sessions
 nav_order: 3
 nav: true
