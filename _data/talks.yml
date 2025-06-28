@@ -1046,28 +1046,28 @@
   abstract :
 
 - id : 64
-  title : ""
+  title : "Sparse Interpolation in CS&E"
   speaker : 137
   authors :
   session : 11
   abstract :
 
 - id : 64
-  title : ""
+  title : "Exponential Analysis for Net Operational Balance Forecasting"
   speaker : 110
   authors :
   session : 11
   abstract :
 
 - id : 64
-  title : ""
+  title : "A Fast Exponential Analysis and Variable Projection Based Method for Linear Antenna Array Synthesis"
   speaker : 131
   authors :
   session : 11
   abstract :
 
 - id : 64
-  title : ""
+  title : "A new black box GCD algorithm using sparse Hensel lifting"
   speaker : 168
   authors : 
   session : 11

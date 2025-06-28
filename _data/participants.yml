@@ -2468,13 +2468,26 @@
   session : 
   fee: 
 
-- id: 194
+- id: 195
   first_name : Jing
   last_name : Yang
   email : yangjing0930@gmail.com
   org : Guangxi Minzu University
   country : China
   homepage : https://jyangmath.github.io/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 196
+  first_name : Antonia
+  last_name : Syrigou
+  email : toniasyrigou@yahoo.com
+  org : University of Crete
+  country : Greece
+  homepage :  
   student : 
   speaker : 
   role : 
