@@ -1,5 +1,5 @@
 ---
-layout: schedule
+layout: default
 title: Programme
 permalink: programme
 nav_order: 10
