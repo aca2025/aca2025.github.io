@@ -1137,6 +1137,13 @@
   abstract :
 
 - id : 64
+  title : "Sparse Interpolation in Chebyshev Basis: Early Termination and Georg Heinig’s Toeplitz Solver"
+  speaker :  
+  authors : 
+  session : 6
+  abstract :
+
+- id : 64
   title : "From Smith forms to spectra to iterative algorithms for sparse integer matrices"
   speaker : 13
   authors : 

@@ -2128,7 +2128,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 171
   first_name : Richard
@@ -2154,7 +2154,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 173
   first_name : Tekgül
