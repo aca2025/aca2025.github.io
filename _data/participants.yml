@@ -2519,3 +2519,55 @@
   role : 
   session : 
   fee: waived
+
+- id: 199
+  first_name : Sergei
+  last_name : Abramov
+  email : sergeyabramov@mail.ru
+  org : MSU
+  country : Russia
+  homepage :  http://www.ccas.ru/sabramov/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: online
+
+- id: 201
+  first_name : Yulia
+  last_name : Mukhina
+  email : yulia.mukhina@lix.polytechnique.fr
+  org : LIX, CNRS, École polytechnique, Institute Polytechnique de Paris
+  country : France
+  homepage : https://www.lix.polytechnique.fr/~mukhina/
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 202
+  first_name : Nao
+  last_name : Komiyama
+  email : 70.komiyama@gmail.com
+  org : Osaka university
+  country : Japan
+  homepage :  https://sites.google.com/site/comyshomepage/
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: online
+
+- id: 203
+  first_name : Kohei
+  last_name : Kitamura
+  email : u347758b@ecs.osaka-u.ac.jp
+  org : The University of Osaka
+  country : Japan
+  homepage :  
+  student : yes
+  speaker : 
+  role : 
+  session : 
+  fee: online

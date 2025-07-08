@@ -686,7 +686,7 @@
   speaker : 92
   authors :
   session : 17
-  abstract :
+  abstract : 
 
 - id : 63
   title : "Equivalences of rank distance codes"
@@ -733,6 +733,20 @@
 - id : 63
   title : "A Generalization of Magnus Duality"
   speaker : 186
+  authors :
+  session : 18
+  abstract : 
+
+- id : 63
+  title : "A Combinatorial Property of Multiple Polylogarithms at Non-positive Indices"
+  speaker : 203
+  authors :
+  session : 18
+  abstract : 
+
+- id : 63
+  title : " On Kashiwara-Vergne Lie Algebra and Double Shuffle Lie Algebra in Mould Theory"
+  speaker : 202
   authors :
   session : 18
   abstract :
