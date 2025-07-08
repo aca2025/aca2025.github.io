@@ -1674,7 +1674,7 @@
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : online
 
 - id: 53
   first_name : Varadharaj  
@@ -1972,7 +1972,7 @@
   speaker : 
   role : 
   session : 
-  fee:
+  fee: online
 
 - id: 142
   first_name : Christos
@@ -2349,7 +2349,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: online
 
 - id: 186
   first_name : Vu
@@ -2362,7 +2362,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: online
 
 - id: 187
   first_name : Maria
@@ -2427,7 +2427,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: waived
 
 - id: 192
   first_name : George
@@ -2453,7 +2453,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: waived
 
 - id: 194
   first_name : Daniel
@@ -2492,7 +2492,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: waived
 
 - id: 197
   first_name : Eunice
