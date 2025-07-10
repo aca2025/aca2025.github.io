@@ -10,3 +10,9 @@
 - name: MapleSoft
   homepage: "https://www.maplesoft.com/"
   picture: "../assets/sponsors/MapleSoft.jpg"
+- name: HMS
+  homepage: "https://hms.gr/"
+  picture: "../assets/sponsors/EME.jpg"
+- name: HOU
+  homepage: "https://eap.gr/en"
+  picture: "../assets/sponsors/EAP.png"  
