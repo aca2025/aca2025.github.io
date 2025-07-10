@@ -660,7 +660,7 @@
   speaker : 
   role : 
   session : 
-  fee : paid
+  fee : online
 
 - id: 68
   first_name : Giovanni
@@ -2269,7 +2269,7 @@
   homepage : 
   student : yes
   speaker : 
-  role : 
+  role : assistant
   session : 
   fee: waived
 
@@ -2388,7 +2388,7 @@
   speaker : 
   role : 
   session : 
-  fee: paid
+  fee: online
 
 - id: 190
   first_name : Manos
@@ -2412,7 +2412,7 @@
   homepage : 
   student : yes
   speaker : 
-  role : 
+  role : assistant
   session : 
   fee: waived
 
@@ -2477,7 +2477,7 @@
   homepage :  
   student : 
   speaker : 
-  role : 
+  role : assistant
   session : 
   fee: waived
 
@@ -2503,7 +2503,7 @@
   homepage :  
   student : yes
   speaker : 
-  role : 
+  role : assistant
   session : 
   fee: waived
 

@@ -8,7 +8,28 @@ layout: default
 
 {% assign sorted_sessions = site.sessions | sort: 'AA' %}
  
+  <h2> Invited talks </h2>
 
+  <table class="table table-striped">
+    <tbody>
+      {% for talk in site.data.talks %}
+         {% if talk.session ==  0  %}
+          {% assign speaker = site.data.participants | where_exp: "item", "item.id==talk.speaker"  %}
+            
+            <tr> 
+              <td style="text-align: left"><strong>{% increment cou %}. 
+                {% for t in speaker %}
+                {{ t["first_name"] }} {{ t["last_name"] }} - 
+                {% endfor %}    
+                <a href="../assets/abstract/{{ talk["abstract"] }}" target="_blank"   >{{ talk["title"] }}</a> </td>
+            </tr>
+
+        {% endif %}    
+      {% endfor %}
+    </tbody>
+  </table>
+
+<br><br>
 {% for session in sorted_sessions  %}   
 
   <h2> SS{{ session.AA }} - {{ session.title }} </h2>

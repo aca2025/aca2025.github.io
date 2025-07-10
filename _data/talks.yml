@@ -181,11 +181,11 @@
   abstract : "5_7.pdf"
 
 - id : 16
-  title : "Studying the secular perturbations in the three-planetary four-body problem with isotropically varying masses"
+  title : "Study of the secular perturbations in the three-planetary four-body problem with isotropically varying masses"
   speaker : 30
   authors :
   session : 5
-  abstract :
+  abstract : "5_4.pdf"
 
 - id : 17
   title : "Symbolic computations in studying the stability of nonlinear oscillations of the mathematical pendulum"
@@ -202,7 +202,7 @@
   abstract : "5_9.pdf"
 
 - id : 19
-  title : "Kinematics of a point-like charged particle under the influence of electric fields of unusually charged washers"
+  title : "Kinematics of a point-like charge particle in nontrivial nonhomogeneous electric fields of charged washers"
   speaker : 48
   authors :
   session : 5
@@ -850,13 +850,6 @@
   abstract : "3_10.pdf"
 
 - id : 64
-  title : "TBA"
-  speaker : 3
-  authors :
-  session : 3
-  abstract :
-
-- id : 64
   title : "Subresultants of Several Ore Polynomials"
   speaker : 66
   authors :
@@ -1109,7 +1102,7 @@
   abstract : "7_6.pdf"
 
 - id : 64
-  title : "Efficiency problems in the history of Maple"
+  title : "A history of efficiency problems in Maple"
   speaker : 107
   authors : 
   session : 7
@@ -1177,3 +1170,80 @@
   authors : 
   session : 6
   abstract : "6_4.pdf"
+
+- id : 23
+  title : "Using ML tools to predict number of solutions of parametric system of polynomial equations with the help of CRNs"
+  speaker : 23
+  authors : 
+  session : 2
+  abstract : "2_11.pdf"
+
+- id : 23
+  title : "Coxeter groups via Cartan matrices"
+  speaker : 184
+  authors : 
+  session : 3
+  abstract : "3_2.pdf"
+
+- id : 23
+  title : "The exotic nilCoxeter algebra for G(m, m, 3)"
+  speaker : 194
+  authors : 
+  session : 3
+  abstract : "3_5.pdf"
+
+- id : 23
+  title : "Matroids"
+  speaker : 183
+  authors : 
+  session : 3
+  abstract : "3_6.pdf"
+
+- id : 23
+  title : "30 Years of Applications of Computer Algebra (ACA), A Personal Perspective"
+  speaker : 19
+  authors : 
+  session : 7
+  abstract : "7_5.pdf"
+
+- id : 23
+  title : "The indicial equation of the product of linear ordinary differential operators"
+  speaker : 199
+  authors : 
+  session : 10
+  abstract : "10_1.pdf"
+
+- id : 23
+  title : "New algorithm for differential elimination based on support bound"
+  speaker : 201
+  authors : 
+  session : 10
+  abstract : "10_13.pdf"
+
+- id : 23
+  title : "Skew-polynomial rings and algebraic coding theory"
+  speaker : 5
+  authors : 
+  session : 0
+  abstract : "0_1.pdf"
+
+- id : 23
+  title : "A sparse overview of sparse elimination"
+  speaker : 8
+  authors : 
+  session : 0
+  abstract : "0_2.pdf"
+
+- id : 23
+  title : "Iterating Generalized Cyclotomic Mappings of Finite Fields"
+  speaker : 6
+  authors : 
+  session : 0
+  abstract : "0_3.pdf"
+
+- id : 23
+  title : "Sequences and series beyond holonomic"
+  speaker : 7
+  authors : 
+  session : 0
+  abstract : "0_4.pdf"
