@@ -1687,7 +1687,7 @@
   speaker : 
   role : 
   session : 
-  fee : 
+  fee : onsite
  
 - id: 56
   first_name : Mark   
@@ -1713,20 +1713,7 @@
   speaker : 
   role : 
   session : 
-  fee : 
-
-- id: 66
-  first_name : Jing
-  last_name : Yang
-  email : yangjing0930@gmail.com
-  org : Guangxi Minzu University
-  country : China
-  homepage : https://jyangmath.github.io/
-  student : 
-  speaker : 
-  role : 
-  session : 
-  fee: onsite
+  fee : onsite
 
 - id: 67
   first_name : Piedad
@@ -2479,7 +2466,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: online
 
 - id: 196
   first_name : Antonia
@@ -2544,7 +2531,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 202
   first_name : Nao
