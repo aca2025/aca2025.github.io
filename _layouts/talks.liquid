@@ -22,9 +22,9 @@ layout: default
             <tr> 
               <td style="text-align: left"><strong>{% increment cou %}. 
                 {% for t in speaker %}
-                 {{ speaker["fee"] }} {{ t["first_name"] }} {{ t["last_name"] }} - 
+                {{ t["first_name"] }} {{ t["last_name"] }} - 
                 {% endfor %}    
-              {{ talk["title"] }} </td>
+                <a href="./assets/abstract/"{{ talk["abstract"] }} >{{ talk["title"] }}</a> </td>
             </tr>
 
         {% endif %}    
