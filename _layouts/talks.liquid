@@ -24,7 +24,7 @@ layout: default
                 {% for t in speaker %}
                 {{ t["first_name"] }} {{ t["last_name"] }} - 
                 {% endfor %}    
-                <a href="./assets/abstract/{{ talk["abstract"] }}" >{{ talk["title"] }}</a> </td>
+                <a href="../assets/abstract/{{ talk["abstract"] }}" target="_blank"   >{{ talk["title"] }}</a> </td>
             </tr>
 
         {% endif %}    
