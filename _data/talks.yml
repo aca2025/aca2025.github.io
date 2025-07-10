@@ -1,11 +1,11 @@
-- id : 3
+- id : 1
   title : "Creating Stand-Alone Workspaces for Student Explorations with Maple"
   speaker : 146
   authors :
   session : 1
   abstract : "1_12.pdf"
 
-- id : 3
+- id : 2
   title : "Utilization of Algebrite in KeTLTS"
   speaker : 60
   authors :
@@ -19,301 +19,301 @@
   session : 1
   abstract : "1_11.pdf"
 
-- id : 3
+- id : 4
   title : "Mathematical Experiments for Mathematics Majors"
   speaker : 107
   authors :
   session : 1
   abstract : "1_6.pdf"
 
-- id : 3
+- id : 5
   title : "Cooperation of KeTCindyJS and Maxima"
   speaker : 58
   authors :
   session : 1
   abstract : "1_5.pdf"
 
-- id : 3
+- id : 6
   title : "Educational Applications of Solving Sangaku Problems by the MNR Method with Maxima"
   speaker : 57
   authors :
   session : 1
   abstract : "1_2.pdf"
 
-- id : 3
+- id : 7
   title : "Automatic Grading of Online Graph Plotting Problems"
   speaker : 61
   authors :
   session : 1
   abstract : "1_1.pdf"
 
-- id : 1
+- id : 8
   title : "Questions and ideas from deceased colleagues that help us carry on (I)"
   speaker : 20
   authors :
   session : 1
   abstract : "1_7.pdf"
 
-- id : 2
+- id : 9
   title : "Questions and ideas from deceased colleagues that help us carry on (II)"
   speaker : 20
   authors :
   session : 1
   abstract : "1_7.pdf"
 
-- id : 4
+- id : 10
   title : "An educational proposal to interpret linear systems"
   speaker : 52
   authors :
   session : 1
   abstract : "1_4.pdf"
       
-- id : 5
+- id : 11
   title : "CAS and Improper Integral - a case study"
   speaker : 104
   authors :
   session : 1
   abstract : "1_3.pdf"
 
-- id : 6
+- id : 12
   title : "Automated methods applied for the exploration of singularities of some curves"
   speaker : 32
   authors :
   session : 1
   abstract : "1_9.pdf"
 
-- id : 7
+- id : 13
   title : "Evaluation of the difficulty of a geometric statement: comparing ChatGPT and GeoGebra Discovery"
   speaker : 67
   authors :
   session : 1
   abstract : "1_10.pdf"
 
-- id : 8
+- id : 14
   title : "Collaboration with ChatGPT for research and teaching in algebraic combinatorics"
   speaker : 72
   authors :
   session : 1
   abstract : "1_8.pdf"
 
-- id : 11
+- id : 15
   title : "On solving parametric systems"
   speaker : 156
   authors :
   session : 2
   abstract :
 
-- id : 11
+- id : 16
   title : "Biological functions and functional modules originated in the structure of chemical reaction network"
   speaker : 54
   authors :
   session : 2
   abstract : "2_2.pdf"
 
-- id : 11
+- id : 17
   title : "Analyzing the dynamics and structure of biochemical reaction networks via network decomposition"
   speaker : 31
   authors :
   session : 2
   abstract : "2_3.pdf"
 
-- id : 13
+- id : 18
   title : "Symbolic bifurcation analysis of reaction networks with Python. Part I: Theory"
   speaker : 119
   authors :
   session : 2
   abstract : "2_6.pdf"
 
-- id : 13
+- id : 19
   title : "Symbolic bifurcation analysis of reaction networks with Python. Part II: Implementation"
   speaker : 171
   authors :
   session : 2
   abstract : "2_8.pdf"
 
-- id : 13
+- id : 20
   title : "Graph-Theoretic Algorithms for Reducing Chemical Reaction Networks"
   speaker : 150
   authors :
   session : 2
   abstract : "2_7.pdf"
 
-- id : 13
+- id : 21
   title : "New Results about Bricard’s Flexible Octahedra"
   speaker : 101
   authors :
   session : 2
   abstract : "2_9.pdf"
 
-- id : 13
+- id : 22
   title : "Learning treatment effects from multiple data"
   speaker : 178
   authors :
   session : 2
   abstract : "2_10.pdf"
 
-- id : 13
+- id : 23
   title : "Reaction networks with (generalized) mass-action kinetics: Sign vector conditions for the existence of a unique general equilibrium"
   speaker : 159
   authors :
   session : 2
   abstract : "2_5.pdf"
 
-- id : 13
+- id : 24
   title : "Bayesian inference of interaction rates in a metabolite-bacteria network using time-series counts"
   speaker : 26
   authors :
   session : 2
   abstract : "2_4.pdf"
 
-- id : 13
+- id : 25
   title : "Graph Neural Network-Based Reinforcement Learning for Controlling Biological Networks - the GATTACA framework"
   speaker : 125
   authors :
   session : 2
   abstract : "2_1.pdf"
 
-- id : 15
+- id : 26
   title : "Secular perturbations in the four-body system with anisotropically varying masses"
   speaker : 10
   authors :
   session : 5
   abstract : "5_7.pdf"
 
-- id : 16
+- id : 27
   title : "Study of the secular perturbations in the three-planetary four-body problem with isotropically varying masses"
   speaker : 30
   authors :
   session : 5
   abstract : "5_4.pdf"
 
-- id : 17
+- id : 28
   title : "Symbolic computations in studying the stability of nonlinear oscillations of the mathematical pendulum"
   speaker : 10
   authors :
   session : 5
   abstract : "5_6.pdf"
 
-- id : 18
+- id : 29
   title : "Oscillation analysis of a bifilar pendulum with Mathematica"
   speaker : 48
   authors :
   session : 5
   abstract : "5_9.pdf"
 
-- id : 19
+- id : 30
   title : "Kinematics of a point-like charge particle in nontrivial nonhomogeneous electric fields of charged washers"
   speaker : 48
   authors :
   session : 5
   abstract : "5_8.pdf"
 
-- id : 20
+- id : 31
   title : "Convergence order in trajectory estimation with piecewise Bezier cubic curves based on reduced data"
   speaker : 28
   authors :
   session : 5
   abstract : "5_5.pdf"
 
-- id : 21
+- id : 32
   title : "Possible orderings of mode, median, and mean in unimodal distributions"
   speaker : 106
   authors :
   session : 5
   abstract : "5_2.pdf"
 
-- id : 22
+- id : 33
   title : "Classification of universal decision elements using computer algebra system"
   speaker : 106
   authors :
   session : 5
   abstract : "5_3.pdf"
 
-- id : 23
+- id : 34
   title : "An attempt to create teaching materials for the Brachistochrone curve using Algebrite and KeTLTS"
   speaker : 59
   authors :
   session : 5
   abstract : "5_1.pdf"
 
-- id : 24
+- id : 35
   title : "Conservative Matrix Fields - Algebra and Asymptotics"
   speaker : 47
   authors :
   session : 8
   abstract : "8_6.pdf"
 
-- id : 25
+- id : 36
   title : "A MacMahon Partition Analysis View of Cylindric Partitions"
   speaker : 129
   authors :
   session : 8
   abstract : "8_5.pdf"
 
-- id : 25
+- id : 37
   title : "Computing D-Finite Symmetric Scalar Products in Order to Count Regular Graphs"
   speaker : 85
   authors :
   session : 8
   abstract : "8_2.pdf"
 
-- id : 25
+- id : 38
   title : "A purity theorem for Mahler equations"
   speaker : 160
   authors :
   session : 8
   abstract : "8_8.pdf"
 
-- id : 26
+- id : 39
   title : "Guessing and arithmetic of D-algebraic sequences"
   speaker : 109
   authors :
   session : 8
   abstract : "8_3.pdf"
 
-- id : 27
+- id : 40
   title : "Integro-differential rings and generalized shuffle relations"
   speaker : 80
   authors :
   session : 8
   abstract : "8_4.pdf"
 
-- id : 28
+- id : 41
   title : "A direct solver for coupled systems of recurrence equations over ΠΣ∗-fields"
   speaker : 36
   authors :
   session : 8
   abstract : "8_1.pdf"
 
-- id : 29
+- id : 42
   title : "Non-Minimality of Minimal Telescopers Explained by Residues"
   speaker : 27
   authors :
   session : 8
   abstract : "8_7.pdf"
 
-- id : 30
+- id : 43
   title : "Non-commutative D-finite & D-algebraic power series and formal languages"
   speaker : 96
   authors :
   session : 8
   abstract : "8_9.pdf"
 
-- id : 31
+- id : 44 
   title : "Improving convex-dense bivariate factorization"
   speaker : 14
   authors :
   session : 9
   abstract : "9_12.pdf"
 
-- id : 31
+- id : 45
   title : "Deterministic Determination of Axial Constants and Sectional Regularities"
   speaker : 167
   authors :
   session : 9
   abstract : "9_11.pdf"
 
-- id : 31
+- id : 46
   title : "A computer-aided construction of non-homeomorphic double Kodaira fibrations that possess the same biregular invariants"
   speaker : 166
   authors :
@@ -321,267 +321,266 @@
   abstract : "9_10.pdf"
 
 
-- id : 32
+- id : 47 
   title : "Constructing nonspecial divisors in the moduli space of cubic fourfolds"
   speaker : 121
   authors :
   session : 9
   abstract : "9_15.pdf"
 
-- id : 33
+- id : 48
   title : "The moduli space of rational elliptic surfaces"
   speaker : 122
   authors :
   session : 9
   abstract : "9_9.pdf"
 
-- id : 33
+- id : 49
   title : "Gröbner bases native to finitely generated commutative algebras with term order, with application to the Hodge algebra of minors"
   speaker : 169
   authors :
   session : 9
   abstract : "9_7.pdf"
 
-- id : 34
+- id : 50
   title : "Computational Generation of Zariski Pairs in Conic-Line Arrangements"
   speaker : 25
   authors :
   session : 9
   abstract : "9_6.pdf"
 
-- id : 35
+- id : 51
   title : "Homogenous Instanton Bundles on Grassmannians"
   speaker : 77
   authors :
   session : 9
   abstract : "9_5.pdf"
 
-- id : 36
+- id : 52
   title : "Khovanskii bases in computer algebra"
   speaker : 112
   authors :
   session : 9
   abstract : "9_3.pdf"
 
-- id : 37
+- id : 53
   title : "On the shape of Betti diagrams of edge ideals"
   speaker : 44
   authors :
   session : 9
   abstract : "9_2.pdf"
 
-- id : 38
+- id : 54
   title : "Computational Classification and Generation of Algebraic Surfaces and Curves via Algorithms"
   speaker : 21
   authors :
   session : 9
   abstract : "9_1.pdf"
 
-
-- id : 38
+- id : 55
   title : "Solving parametric polynomial systems using generic Rational Univariate Representation"
   speaker : 118
   authors :
   session : 9
   abstract : "9_4.pdf"
 
-- id : 38
+- id : 56
   title : "Geometric Foundations for Transformer in Gröbner Basis Computation"
   speaker : 134
   authors :
   session : 9
   abstract : "9_13.pdf"
 
-- id : 38
+- id : 57
   title : "The Gröbner basis for powers of a general linear form in a monomial complete intersection"
   speaker : 133
   authors :
   session : 9
   abstract : "9_8.pdf"
 
-- id : 39
+- id : 58
   title : " A Shape Lemma for Ideals of Differential Operators"
   speaker : 27
   authors :
   session : 10
   abstract : "10_17.pdf"
 
-- id : 40
+- id : 59
   title : "Computing centralizers for linear differential operators"
   speaker : 115
   authors :
   session : 10
   abstract : "10_9.pdf"
 
-- id : 40
+- id : 60
   title : "Solutions of Knizhnik-Zamolodchikov equation by dévissage"
   speaker : 130
   authors :
   session : 10
   abstract : "10_7.pdf"
 
-- id : 41
+- id : 61
   title : "Recent Advancements in Noncommutative Gröbner Basis Software"
   speaker : 41
   authors :
   session : 10
   abstract : "10_8.pdf"
 
-- id : 42
+- id : 62
   title : "An Effective Version of the Grothendieck p-curvature Conjecture for Order One Differential Equations"
   speaker : 40
   authors :
   session : 10
   abstract : "10_5.pdf"
 
-- id : 43
+- id : 63
   title : "Hypergeometric solutions of elliptic difference equations"
   speaker : 81
   authors :
   session : 10
   abstract : "10_4.pdf"
 
-- id : 44
+- id : 64
   title : "Topological closure of formal powers series ideals and application to topological rewriting theory"
   speaker : 89
   authors :
   session : 10
   abstract : "10_3.pdf"
 
-- id : 45
+- id : 65
   title : "Separated Variables on Plane Algebraic Curves"
   speaker : 83
   authors :
   session : 10
   abstract : "10_2.pdf"
 
-- id : 46
+- id : 66
   title : "Faster multivariate integration in D-modules"
   speaker : 84
   authors :
   session : 10
   abstract : "10_16.pdf"
 
-- id : 47
+- id : 67
   title : "Undecidability of Noncommutative Ideal Membership and Counterexamples of Operator Statements"
   speaker : 99
   authors :
   session : 10
   abstract : "10_10.pdf"
 
-- id : 48
+- id : 68
   title : "Generalized Gröbner Bases and Dimension Polynomials of D-modules"
   speaker : 24
   authors :
   session : 10
   abstract : "10_11.pdf"
 
-- id : 49
+- id : 69
   title : "Combining Sparsity and Symmetry Exploitation for SOS-Certificates"
   speaker : 87
   authors :
   session : 10
   abstract : "10_12.pdf"
 
-- id : 50
+- id : 70
   title : "Closed forms of power series with hypergeometric-type terms"
   speaker : 109
   authors :
   session : 10
   abstract : "10_14.pdf"
 
-- id : 51
+- id : 71
   title : "An algorithmic problem for Nijenhuis Lie algebras"
   speaker : 64
   authors :
   session : 10
   abstract : "10_15.pdf"
 
-- id : 52
+- id : 72
   title : "The Expansion Complexity of Ultimately Periodic Sequences over Finite Fields"
   speaker : 50
   authors :
   session : 10
   abstract : "10_18.pdf"
 
-- id : 52
+- id : 73
   title : "Combinatorics of Schubert Cells in Random Network Coding"
   speaker : 162
   authors :
   session : 9
   abstract : "9_14.pdf"
 
-- id : 55
+- id : 74
   title : "A new tool for differential analysis of functions in characteristic 2"
   speaker : 16
   authors :
   session : 14
   abstract : "14_1.pdf"
 
-- id : 53
+- id : 75
   title : "On constructing bent functions from cyclotomic mappings"
   speaker : 65
   authors :
   session : 14
   abstract : "14_11.pdf"
 
-- id : 53
+- id : 76
   title : "Bent partitions, vectorial dual-bent functions, and association schemes"
   speaker : 173
   authors :
   session : 14
   abstract : "14_12.pdf"
 
-- id : 54
+- id : 77
   title : "Quadratic-like permutations over F_n^2"
   speaker : 22
   authors :
   session : 14
   abstract : "14_6.pdf"
 
-- id : 54
+- id : 78
   title : "Algebraic and SAT Methods for Classes of Covering Arrays"
   speaker : 174
   authors :
   session : 14
   abstract : "14_2.pdf"
 
-- id : 56
+- id : 79
   title : "Invariant Polynomials and Cyclic Line Spreads"
   speaker : 95
   authors :
   session : 14
   abstract : "14_7.pdf"
 
-- id : 57
+- id : 80
   title : "Further results on covering radii of some codes and their connections"
   speaker : 69
   authors :
   session : 14
   abstract : "14_4.pdf"
 
-- id : 58
+- id : 81
   title : "Normal and primitive normal elements with prescribed traces in intermediate extensions of finite fields"
   speaker : 2
   authors :
   session : 14
   abstract : "14_5.pdf"
 
-- id : 59
+- id : 82
   title : "Automatic Sequences Along Polynomial Subsequences and Their Applications"
   speaker : 103
   authors :
   session : 14
   abstract : "14_3.pdf"
 
-- id : 59
+- id : 83
   title : "Factoring Multilinear Boolean Polynomials"
   speaker : 107
   authors :
   session : 14
   abstract : "14_10.pdf"
 
-- id : 59
+- id : 84
   title : "New covering arrays of strength-4 and q symbols from three truncated Möbius planes in P G(3, q), for odd prime power q"
   speaker : 136
   authors :
@@ -589,70 +588,70 @@
   abstract : "14_9.pdf"
 
 
-- id : 59
+- id : 85
   title : "Nilpotent linearized polynomials and applications"
   speaker : 158
   authors :
   session : 14
   abstract : "14_8.pdf"
 
-- id : 60
+- id : 86
   title : "Proudfoot-Speyer degenerations of scattering equations"
   speaker : 112
   authors :
   session : 15
   abstract : "15_1.pdf"
 
-- id : 61
+- id : 87
   title : "Braid monodromy computations using certified path tracking"
   speaker : 120
   authors :
   session : 15
   abstract : "15_4.pdf"
 
-- id : 61
+- id : 88
   title : "Some challenges and applications for continuation methods for solving algebraic systems"
   speaker : 156
   authors :
   session : 15
   abstract : "15_5.pdf"
 
-- id : 62
+- id : 89
   title : "Vector-friendly numbers with n-word precision"
   speaker : 123
   authors :
   session : 15
   abstract : "15_2.pdf"
 
-- id : 62
+- id : 90
   title : "Logical Completeness of Differential Equations"
   speaker : 117
   authors :
   session : 15
   abstract : "15_3.pdf"
 
-- id : 63
+- id : 91
   title : "The geometry of one-weight linear rank-metric codes"
   speaker : 162
   authors :
   session : 17
   abstract : "17_8.pdf"
 
-- id : 63
+- id : 92
   title : "Characteristic polynomial of linearized polynomials"
   speaker : 63
   authors :
   session : 17
   abstract : "17_6.pdf"
 
-- id : 63
+- id : 93
   title : "Towards the classification of scattered binomials"
   speaker : 145
   authors :
   session : 17
   abstract : "17_7.pdf"
 
-- id : 63
+- id : 94
   title : "Codes deriving from some subvarieties of the Segre variety"
   speaker : 135
   authors :
@@ -660,590 +659,591 @@
   abstract : "17_9.pdf"
 
 
-- id : 63
+- id : 95
   title : "Construction of LDPC convolutional codes from Latin squares"
   speaker : 78
   authors :
   session : 17
   abstract : "17_2.pdf"
 
-- id : 63
+- id : 96
   title : "Construction of partial unit-memory MDP convolutional codes with low encoding and decoding complexity"
   speaker : 86
   authors :
   session : 17
   abstract : "17_3.pdf"
 
-- id : 63
+- id : 97
   title : "Quantum LDPC codes and decoding challenges"
   speaker : 111
   authors :
   session : 17
   abstract : "17_10.pdf"
 
-- id : 63
+- id : 98
   title : "Lattices over Non-Archimedean Fields and Their Applications to Coding Theory"
   speaker : 92
   authors :
   session : 17
   abstract : "17_11.pdf"
 
-- id : 63
+- id : 99
   title : "Equivalences of rank distance codes"
   speaker : 45
   authors :
   session : 17
   abstract : "17_4.pdf"
 
-- id : 63
+- id : 100
   title : "On the minimum weight of some geometric codes"
   speaker : 113
   authors :
   session : 17
   abstract : "17_12.pdf"
 
-- id : 63
+- id : 101
   title : "Hamming weight distributions of linear simplex codes over finite chain rings and their Gray map"
   speaker : 126
   authors :
   session : 17
   abstract : "17_1.pdf"
 
-- id : 63
+- id : 102
   title : "On some properties of the Gray map"
   speaker : 108
   authors :
   session : 17
   abstract : "17_5.pdf"
 
-- id : 63
+- id : 103
   title : "Unramified Variants of Motivic Multiple Zeta Values"
   speaker : 73
   authors :
   session : 18
   abstract : "18_5.pdf"
 
-- id : 63
+- id : 104
   title : "Families of Eulerian Functions Involved in Regularization of Divergent Polyzetas"
   speaker : 185
   authors :
   session : 18
   abstract : "18_4.pdf"
 
-- id : 63
+- id : 105
   title : "A Generalization of Magnus Duality"
   speaker : 186
   authors :
   session : 18
   abstract : "18_10.pdf"
 
-- id : 63
+- id : 106
   title : "A Combinatorial Property of Multiple Polylogarithms at Non-positive Indices"
   speaker : 203
   authors :
   session : 18
   abstract : "18_6.pdf"
 
-- id : 63
+- id : 107
   title : " On Kashiwara-Vergne Lie Algebra and Double Shuffle Lie Algebra in Mould Theory"
   speaker : 202
   authors :
   session : 18
   abstract : "18_7.pdf"
 
-- id : 63
+- id : 108
   title : "Various bialgebras of representative functions on free monoids"
   speaker : 130
   authors :
   session : 18
   abstract : "18_3.pdf"
 
-- id : 63
+- id : 109
   title : "Goncharov's Programme, and Symmetries of Weight 6 Multiple Polylogarithms"
   speaker : 70
   authors :
   session : 18
   abstract : "18_9.pdf"
 
-- id : 63
+- id : 110
   title : "Various Products of Representative Series and Some Applications"
   speaker :  141
   authors :
   session : 18
   abstract : "18_1.pdf"
 
-- id : 63
+- id : 111
   title : "Multiple Divided Bernoulli Polynomials and Numbers"
   speaker :  127
   authors :
   session : 18
   abstract : "18_8.pdf"
 
-- id : 63
+- id : 112
   title : "Multiplicative structure of some multivariate functions"
   speaker :  157
   authors :
   session : 18
   abstract : "18_11.pdf"
 
-- id : 63
+- id : 113
   title : "Extension by continuity of the domain of Poly- and Hyper-logarithms"
   speaker :  189
   authors :
   session : 18
   abstract : "18_2.pdf"
 
-- id : 64
-  title : "The Shimizu–Morioka System Has No Nontrivial Darboux Polynomials"
+- id : 114
+  title : "The Shimizu-Morioka System Has No Nontrivial Darboux Polynomials"
   speaker : 155
   authors :
   session : 10
   abstract : "10_6.pdf"
 
-- id : 64
+- id : 115
   title : "The representations of the Brauer-Chen algebra associated to the exceptional complex reflection groups"
   speaker : 139
   authors :
   session : 3
   abstract : "3_1.pdf"
 
-- id : 64
+- id : 116
   title : "Blocks and Schur elements for Hecke algebras of exceptional complex reflection groups"
   speaker : 143
   authors :
   session : 3
   abstract : "3_3.pdf"
 
-- id : 64
+- id : 117
   title : "Steadied quotients of KLR algebras"
   speaker : 114
   authors :
   session : 3
   abstract : "3_7.pdf"
 
-- id : 64
+- id : 118
   title : "Reflection Groups in the Light of Formal Concept Analysis"
   speaker : 34
   authors :
   session : 3
   abstract : "3_8.pdf"
 
-- id : 64
+- id : 119
   title : "The generalized Springer correspondence for disconnected reductive groups"
   speaker : 140
   authors :
   session : 3
   abstract : "3_9.pdf"
 
-- id : 64
+- id : 120
   title : "Decomposition of affine crystals in levels 1 and 2"
   speaker : 163
   authors :
   session : 3
   abstract : "3_4.pdf"
 
-- id : 64
+- id : 121
   title : "Toric ideals of graphs minimally generated by a Gröbner basis"
   speaker : 149
   authors :
   session : 3
   abstract : "3_10.pdf"
 
-- id : 64
+- id : 122
   title : "Subresultants of Several Ore Polynomials"
   speaker : 66
   authors :
   session : 4
   abstract : "4_3.pdf"
 
-- id : 64
+- id : 123
   title : "A Reduce package for Differential Operators in Mathematical Physics and Theoretical Physics"
   speaker : 42
   authors :
   session : 4
   abstract : "4_6.pdf"
 
-- id : 64
+- id : 124
   title : "Integrability and Linearizability of a Family of Three-Dimensional Polynomial Systems"
   speaker : 177
   authors :
   session : 4
   abstract : "4_2.pdf"
 
-- id : 64
+- id : 125
   title : "Iterated strongly normal extensions and nonlinear differential equations"
   speaker : 53
   authors :
   session : 4
   abstract : "4_4.pdf"
 
-- id : 64
+- id : 126
   title : "Gröbner type Bases with Respect to the Effective Order and Bivariate Dimension Polynomials of Difference Modules"
   speaker : 24
   authors :
   session : 4
   abstract : "4_1.pdf"
 
-- id : 64
+- id : 127
   title : "Stream cipher over Finite Fields: A Difference Algebra Approach"
   speaker : 29
   authors :
   session : 4
   abstract : "4_5.pdf"
 
-- id : 64
+- id : 128
   title : "Symbolic integration on a planar differential foliation"
   speaker : 81
   authors :
   session : 4
   abstract : "4_7.pdf"
 
-- id : 64
+- id : 129
   title : "Affirmative answer to the Question of Leroy and Matczuk on injectivity of endomorphisms of semiprime left Noetherian rings with large images"
   speaker : 91
   authors :
   session : 4
   abstract : "4_8.pdf"
 
-- id : 64
+- id : 130
   title : "Girth Analysis of Quantum Quasi-Cyclic LDPC Codes"
   speaker : 6
   authors :
   session : 13
   abstract : "13_11.pdf"
 
-- id : 64
+- id : 131
   title : "Characterization of Nearly Self-Orthogonal Quasi-Twisted Codes and Related Quantum Codes"
   speaker : 97
   authors :
   session : 13
   abstract : "13_1.pdf"
 
-- id : 64
+- id : 132
   title : "On the complete characterization of a class of permutation trinomials in characteristic five"
   speaker : 98
   authors :
   session : 13
   abstract : "13_2.pdf"
 
-- id : 64
+- id : 133
   title : "Some constructions of asymptotically optimal cyclic subspace codes"
   speaker : 152
   authors :
   session : 13
   abstract : "13_3.pdf"
 
-- id : 64
+- id : 134
   title : "Scattered trinomials of F_{q^6}[X] in even characteristic"
   speaker : 68
   authors :
   session : 13
   abstract : "13_4.pdf"
 
-- id : 64
+- id : 135
   title : "Graph isomorphism and isomorphism of binary matrices"
   speaker : 76
   authors :
   session : 13
   abstract : "13_5.pdf"
 
-- id : 64
+- id : 136
   title : "Enumeration of optimal binary and ternary linear codes with different hull dimensions"
   speaker : 51
   authors :
   session : 13
   abstract : "13_6.pdf"
 
-- id : 64
+- id : 137
   title : "On the minimum distance and covering radius of irredundant orthogonal arrays"
   speaker : 74
   authors :
   session : 13
   abstract : "13_12.pdf"
 
-- id : 64
+- id : 138
   title : "On a spherical code with 2025 points"
   speaker : 71
   authors :
   session : 13
   abstract : "13_7.pdf"
 
-- id : 64
+- id : 139
   title : "On the hulls of linear codes"
   speaker : 75
   authors :
   session : 13
   abstract : "13_9.pdf"
 
-- id : 64
+- id : 140
   title : "Resolutions of cyclic 2-(40,4,1) designs"
   speaker : 82
   authors :
   session : 13
   abstract : "13_10.pdf"
 
-- id : 64
+- id : 141
   title : "Universal polarization of sharp codes in the Leech lattice"
   speaker : 165
   authors :
   session : 13
   abstract : "13_8.pdf"
 
-- id : 64
+- id : 142
   title : "Fixed-Time Tensor Gradient Neural Network for Online Sylvester Tensor Equation Solving"
   speaker : 39
   authors :
   session : 16
   abstract : "16_3.pdf"
 
-- id : 64
+- id : 143
   title : "The A_α-spectral radius of uniform hypergraphs"
   speaker : 43
   authors :
   session : 16
   abstract : "16_4.pdf"
 
-- id : 64
+- id : 144
   title : "Solving reduced biquaternion tensor equations and applications"
   speaker : 33
   authors :
   session : 16
   abstract : "16_5.pdf"
 
-- id : 64
+- id : 145
   title : "On minor prime factorization for rank-deficient multivariate polynomial matrices"
   speaker : 172
   authors :
   session : 16
   abstract : "16_1.pdf"
 
-- id : 64
+- id : 146
   title : "The generalized hand-eye calibration equation and its application"
   speaker : 176
   authors :
   session : 16
   abstract : "16_2.pdf"
 
-- id : 64
+- id : 147
   title : "Static bounds for straight-line programs"
   speaker : 116
   authors :
   session : 12
   abstract : "12_1.pdf"
 
-- id : 64
+- id : 148
   title : "Multivariate Complex Solver in Maple 2024"
   speaker : 200
   authors :
   session : 12
   abstract :
 
-- id : 64
+- id : 149
   title : "Solving bihomogeneous polynomial systems with a zero-dimensional projection"
   speaker : 181
   authors :
   session : 12
   abstract : "12_3.pdf"
 
-- id : 64
+- id : 150
   title : "Copositive geometry of Feynman integrals"
   speaker : 93
   authors :
   session : 12
   abstract : "12_2.pdf"
 
-- id : 64
+- id : 151
   title : "Sparse Interpolation in CS&E"
   speaker : 137
   authors :
   session : 11
   abstract : "11_1.pdf"
 
-- id : 64
+- id : 152
   title : "Exponential Analysis for Net Operational Balance Forecasting"
   speaker : 110
   authors :
   session : 11
   abstract : "11_2.pdf"
 
-- id : 64
+- id : 153
   title : "A Fast Exponential Analysis and Variable Projection Based Method for Linear Antenna Array Synthesis"
   speaker : 131
   authors :
   session : 11
   abstract : "11_3.pdf"
 
-- id : 64
+- id : 154
   title : "A new black box GCD algorithm using sparse Hensel lifting"
   speaker : 168
   authors : 
   session : 11
   abstract : "11_4.pdf"
 
-- id : 64
+- id : 155
   title : "Portability of early CAS"
   speaker : 46
   authors : 
   session : 7
   abstract : "7_8.pdf"
 
-- id : 64
+- id : 156
   title : "Symbolic computation in 1974-1976 in Japan"
   speaker : 94
   authors : 
   session : 7
   abstract : "7_9.pdf"
 
-- id : 64
+- id : 157
   title : "60+ years of applications: a perspective from Reduce"
   speaker : 90
   authors : 
   session : 7
   abstract : "7_6.pdf"
 
-- id : 64
+- id : 158
   title : "A history of efficiency problems in Maple"
   speaker : 107
   authors : 
   session : 7
   abstract : "7_2.pdf"
 
-- id : 64
+- id : 159
   title : "Soft Warehouse, Derive and Computer Algebra"
   speaker : 170
   authors : 
   session : 7
   abstract : "7_3.pdf"
 
-- id : 64
+- id : 160
   title : "A personal history with computer algebra"
   speaker : 200
   authors : 
   session : 7
   abstract : "7_1.pdf"
 
-- id : 64
+- id : 161
   title : "Analysis vs algebra in symbolic computation"
   speaker : 105
   authors : 
   session : 7
   abstract : "7_7.pdf"
 
-- id : 64
+- id : 162
   title : "Symbolic-Numeric Computation"
   speaker : 15
   authors : 
   session : 7
   abstract : "7_4.pdf"
 
-- id : 64
+- id : 163
   title : "On the maximal spread of symmetric Bohemian matrices"
   speaker : 105
   authors : 
   session : 6
   abstract : "6_1.pdf"
 
-- id : 64
+- id : 164
   title : "Sparse Interpolation in Chebyshev Basis: Early Termination and Georg Heinig’s Toeplitz Solver"
   speaker :  
   authors : 
   session : 6
   abstract :
 
-- id : 64
+- id : 165
   title : "From Smith forms to spectra to iterative algorithms for sparse integer matrices"
   speaker : 13
   authors : 
   session : 6
   abstract : "6_2.pdf"
 
-- id : 64
+- id : 166
   title : "Tools for fast computation of integer matrix normal forms"
   speaker : 192
   authors : 
   session : 6
   abstract : "6_3.pdf"
 
-- id : 64
+- id : 167
   title : "Computing Hermite normal forms of integer matrices faster"
   speaker : 148
   authors : 
   session : 6
   abstract : "6_4.pdf"
 
-- id : 23
+- id : 168
   title : "Using ML tools to predict number of solutions of parametric system of polynomial equations with the help of CRNs"
   speaker : 23
   authors : 
   session : 2
   abstract : "2_11.pdf"
 
-- id : 23
+- id : 169
   title : "Coxeter groups via Cartan matrices"
   speaker : 184
   authors : 
   session : 3
   abstract : "3_2.pdf"
 
-- id : 23
+- id : 170
   title : "The exotic nilCoxeter algebra for G(m, m, 3)"
   speaker : 194
   authors : 
   session : 3
   abstract : "3_5.pdf"
 
-- id : 23
+- id : 171
   title : "Matroids"
   speaker : 183
   authors : 
   session : 3
   abstract : "3_6.pdf"
 
-- id : 23
+- id : 172
   title : "30 Years of Applications of Computer Algebra (ACA), A Personal Perspective"
   speaker : 19
   authors : 
   session : 7
   abstract : "7_5.pdf"
 
-- id : 23
+- id : 173
   title : "The indicial equation of the product of linear ordinary differential operators"
   speaker : 199
   authors : 
   session : 10
   abstract : "10_1.pdf"
 
-- id : 23
+- id : 174
   title : "New algorithm for differential elimination based on support bound"
   speaker : 201
   authors : 
   session : 10
   abstract : "10_13.pdf"
 
-- id : 23
+- id : 175
   title : "Skew-polynomial rings and algebraic coding theory"
   speaker : 5
   authors : 
   session : 0
   abstract : "0_1.pdf"
 
-- id : 23
+- id : 176
   title : "A sparse overview of sparse elimination"
   speaker : 8
   authors : 
   session : 0
   abstract : "0_2.pdf"
 
-- id : 23
+- id : 177
   title : "Iterating Generalized Cyclotomic Mappings of Finite Fields"
   speaker : 6
   authors : 
   session : 0
   abstract : "0_3.pdf"
 
-- id : 23
+- id : 178
   title : "Sequences and series beyond holonomic"
   speaker : 7
   authors : 
   session : 0
   abstract : "0_4.pdf"
+
