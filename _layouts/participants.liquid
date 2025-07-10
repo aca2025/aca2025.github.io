@@ -13,7 +13,11 @@ layout: default
   <tbody>
     {% for participant in sorted_participants %}   
       <tr>
-        <td style="text-align: left"><strong><a href="{{ participant.homepage }}">{% increment cou | plus 1 %}. {{ participant.first_name }} {{ participant.last_name }} - {{ participant.org }} ({{ participant.country }})</a></strong></td>
+        <td style="text-align: left"><strong><a href="{{ participant.homepage }}"> {{ participant.first_name }} {{ participant.last_name }} - {{ participant.org }} ({{ participant.country }})</a>
+        {{ if  participant.fee == 'online' }}
+        (online)
+        {{ endif}}
+        </strong></td>
       </tr>
       
     {% endfor %}
