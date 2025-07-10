@@ -3,18 +3,25 @@
   homepage: "https://user.math.uzh.ch/alfarano/"
   title:  "Skew-polynomial rings and algebraic coding theory" 
   picture: "../assets/invited/Alfarano.jpg"
+  abstract : "../assets/abstract/0_1.pdf"
+
 - name: Ioannis Emiris
   org: "ATHENA RC and University of Athens (Greece)"
   homepage: "https://www.athenarc.gr/en/people/527"
   title: "A sparse overview of sparse elimination"
   picture: "../assets/invited/Emiris.png"
+  abstract : "../assets/abstract/0_2.pdf"
+  
 - name: Daniel Panario
   org: "Carleton University (Canada)"
   homepage: "https://people.math.carleton.ca/~daniel/"
   title: "Iterating Generalized Cyclotomic Mappings of Finite Fields" 
   picture: "../assets/invited/Panario.jpg"
+  abstract : "../assets/abstract/0_3.pdf"
+  
 - name: Veronika Pillwein
   org: "Johannes Kepler University - RISC (Austria)"
   homepage: "https://risc.jku.at/m/veronika-pillwein/"
   title: "Sequences and series beyond holonomic"
   picture: "../assets/invited/vpillwei.jpg"
+  abstract : "../assets/abstract/0_4.pdf"
