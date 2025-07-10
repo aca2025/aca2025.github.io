@@ -41,7 +41,7 @@ layout: default
           {% assign speaker = site.data.participants | where_exp: "item", "item.id==talk.speaker"  %}
             
             <tr> 
-              <td style="text-align: left"><strong>{% increment cou %}. 
+              <td style="text-align: left"><strong> 
                 {% for t in speaker %}
                 {{ t["first_name"] }} {{ t["last_name"] }} - 
                 {% endfor %}    
