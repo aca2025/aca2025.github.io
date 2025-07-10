@@ -2558,3 +2558,16 @@
   role : 
   session : 
   fee: online
+
+- id: 204
+  first_name : Irini
+  last_name : Yzeiraj
+  email : tem2953@tem.uoc.gr
+  org : University of Crete
+  country : Greece
+  homepage :  
+  student : yes
+  speaker : 
+  role : assistant
+  session : 
+  fee: waived
