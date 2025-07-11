@@ -2,7 +2,7 @@
 title: "Advances in Coding Theory: Algebraic, Combinatorial and Computational Methods"
 layout: session
 AA: 13
-webpage: "https://sites.google.com/view/aca2025session13/ana-sayfa"
+webpage: "https://sites.google.com/view/aca2025session13/"
 organizers:
   - name: Peter Boyvalenkov
     org: "Bulgarian Academy of Sciences, Bulgaria"
