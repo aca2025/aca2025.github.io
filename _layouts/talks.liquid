@@ -46,9 +46,13 @@ layout: default
                 {{ t["first_name"] }} {{ t["last_name"] }} - 
                 {% endfor %}    
                 <a href="../assets/abstract/{{ talk["abstract"] }}" target="_blank"   >{{ talk["title"] }}</a>  
-                {% if  speaker["fee"]=="online" %}
+                {% for t in speaker %}
+                ({{ t["org"] }}, {{ t["country"] }}){% if  speaker["fee"]=="online" %}
                 (online)
                 {% endif %}
+                {% endfor %}    
+                
+                
               </td>
             </tr>
 
