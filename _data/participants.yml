@@ -2453,7 +2453,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: onsite
 
 - id: 195
   first_name : Jing
@@ -2563,6 +2563,32 @@
   first_name : Irini
   last_name : Yzeiraj
   email : tem2953@tem.uoc.gr
+  org : University of Crete
+  country : Greece
+  homepage :  
+  student : yes
+  speaker : 
+  role : assistant
+  session : 
+  fee: waived
+
+- id: 205
+  first_name : José Antonio
+  last_name : Vallejo Rodríguez
+  email : jvallejo@mat.uned.es
+  org : National Open University
+  country : Spain
+  homepage : https://www.uned.es/universidad/docentes/ciencias/jose-antonio-vallejo-rodriguez.html
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: 
+
+- id: 206
+  first_name : Aristeidis
+  last_name : Meramveliotakis
+  email : aristidismeramveliotakis@gmail.com
   org : University of Crete
   country : Greece
   homepage :  
