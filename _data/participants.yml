@@ -1818,7 +1818,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 105
   first_name : Rob
