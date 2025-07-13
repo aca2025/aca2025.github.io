@@ -536,7 +536,7 @@
   first_name : Mariya  
   last_name : Dzhumalieva-Stoeva
   email : m.dzhumalieva@ts.uni-vt.bg
-  org : 
+  org : St. Cyril and St. Methodius University of Veliko Tarnovo
   country : Bulgaria
   homepage : https://orcid.org/0009-0008-2832-9672
   student : 
@@ -1225,7 +1225,7 @@
   first_name : Grégoire
   last_name : Lecerf
   email : gregoire.lecerf@lix.polytechnique.fr
-  org : CNRS & École polytechnique
+  org : CNRS / École polytechnique
   country : France
   homepage : 
   student :
@@ -1918,7 +1918,8 @@
   org : TU Darmstadt/Tohoku University
   country : Germany/Japan
   homepage : https://yota-maeda.vercel.app/
-  student : 
+  student :
+  role : 
   session : 
   fee: paid
 
@@ -2597,3 +2598,16 @@
   role : assistant
   session : 
   fee: waived
+
+- id: 207
+  first_name : Erich
+  last_name : Kaltofen
+  email : kaltofen@ncsu.edu
+  org : North Carolina State University and Duke University
+  country : USA
+  homepage :  
+  student : 
+  speaker : 
+  role : 
+  session : 
+  fee: online

@@ -587,7 +587,6 @@
   session : 14
   abstract : "14_9.pdf"
 
-
 - id : 85
   title : "Nilpotent linearized polynomials and applications"
   speaker : 158
@@ -1253,3 +1252,17 @@
   authors : 
   session : 6
   abstract : "6_5.pdf"
+
+- id : 180
+  title : "Sparse Interpolation in Chebyshev Basis: Early Termination and Georg Heinig’s Toeplitz Solver"
+  speaker : 207
+  authors : 
+  session : 6
+  abstract : "6_6.pdf"
+
+- id : 181
+  title : "A symbolic-numeric method for certified eigenvalue localization"
+  speaker : 62
+  authors : 
+  session : 12
+  abstract : "12_4.pdf"
