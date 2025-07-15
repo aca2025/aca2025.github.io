@@ -40,7 +40,7 @@ For those who wish to attend the conference dinner only (without participating i
 <ul>
 <ui>Departure point 1: Conference Center – please be ready and waiting by 19:00 sharp, as the bus cannot stop for long.
 <ui> Departure point 2: <a href="https://maps.app.goo.gl/CkBeYPe6Fv6fnZrp7" target="_blank">Statue of Eleftherios Venizelos</a> the bus will stop here briefly at 19:05 before continuing to Archanes.
-</ul>
+
 
 <br><br><br><br>
 
