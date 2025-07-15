@@ -920,7 +920,7 @@
   speaker : 
   role : 
   session : 
-  fee: onsite
+  fee: paid
 
 - id: 95
   first_name : John
@@ -1115,7 +1115,7 @@
   speaker : 
   role : 
   session : 
-  fee: onsite
+  fee: paid
 
 - id: 115
   first_name : Antonio
@@ -1336,7 +1336,7 @@
   speaker : 
   role : 
   session : 
-  fee: onsite
+  fee: paid
 
 - id: 140
   first_name : Kostas
@@ -1362,7 +1362,7 @@
   speaker : 
   role : 
   session : 
-  fee: onsite
+  fee: paid
 
 - id: 144
   first_name : Yuta
@@ -1414,7 +1414,7 @@
   speaker : 
   role : 
   session : 
-  fee: onsite
+  fee: paid
 
 - id: 150
   first_name : Ovidiu
@@ -1805,7 +1805,7 @@
   speaker : 
   role : 
   session : 
-  fee: onsite
+  fee: paid
 
 - id: 96
   first_name : Robert
@@ -1896,7 +1896,7 @@
   speaker : 
   role : 
   session : 
-  fee: onsite
+  fee: paid
 
 - id: 126
   first_name : Cristina
@@ -2454,7 +2454,7 @@
   speaker : 
   role : 
   session : 
-  fee: onsite
+  fee: paid
 
 - id: 195
   first_name : Jing
