@@ -42,6 +42,8 @@ For those who wish to attend the conference dinner only (without participating i
 <ui> Departure point 2: <a href="https://maps.app.goo.gl/CkBeYPe6Fv6fnZrp7" target="_blank">Statue of Eleftherios Venizelos</a> the bus will stop here briefly at 19:05 before continuing to Archanes.
 </ul>
 
+</p>
+
 
 
 The Applications of Computer Algebra is scheduled on 14-18 July, 2025 and will be held at Heraklion (Crete), Greece.
