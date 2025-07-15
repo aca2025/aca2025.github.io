@@ -35,7 +35,7 @@ second at 23:00
 third at 23:30 
 <br>
 fourth at 24:00
-
+</p>
 </p>
 
 
