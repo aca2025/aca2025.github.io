@@ -25,6 +25,15 @@
   chair: TBD
   slots: 1
 
+- id: "3.A.3"
+  day : Wednesday
+  start : '12:30'
+  end : '13:30'
+  room: A
+  talks: [182]
+  chair: 
+  slots: 1
+
 - id: "5.A.3"
   day : Friday
   start : '12:30'
