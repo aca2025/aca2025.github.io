@@ -7,7 +7,7 @@ news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
 ---
 
-![Image]({{ site.baseurl }}/assets/ACA2025.jpg)
+![Image]({{ site.baseurl }}/assets/ACA2025.jpg){: width="100%" }
 
 
 The Applications of Computer Algebra is scheduled on 14-18 July, 2025 and will be held at Heraklion (Crete), Greece.
