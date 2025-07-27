@@ -1857,7 +1857,7 @@
   speaker : 
   role : 
   session : 
-  fee:  
+  fee: paid
 
 - id: 118
   first_name : Florent
@@ -2584,7 +2584,7 @@
   speaker : 
   role : 
   session : 
-  fee: 
+  fee: paid
 
 - id: 206
   first_name : Aristeidis
